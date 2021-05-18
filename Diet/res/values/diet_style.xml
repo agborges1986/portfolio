@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="cc4">#c4c4c4</color>
+	<color name="cff">#ffffff</color>
+	<color name="cf1">#f1f1f1</color>
+	<color name="cca">#cacaca</color>
+	<color name="cd7">#d7d7d7</color>
+	<color name="ce4">#e4e4e4</color>
+	<color name="cad">#adadad</color>
+	<color name="cab">#ababab</color>
+	<color name="c00">#000000</color>	
+	<color name="c82">#828282</color>	
+	<color name="c89">#898989</color>	
+	<color name="c39">#393939</color>	
+	<color name="cee">#EEEEEE</color>	
+	<color name="red">#EE3333</color>	
+	<color name="green">#0000AA</color>	
+	<color name="yellow">#FFC600</color>	
+	<color name="orange">#FF7300</color>	
+	
+    <style name="Clean" parent="android:Theme.Light">
+    </style>
+    
+    <style name="FoodEditorCategoryListItem">
+    	<item name="android:textSize">10dp</item>
+    </style>
+    
+    <style name="PlanificationUtilButtonStyle">
+    	<item name="android:width">30dp</item>
+    	<item name="android:height">30dp</item>
+    </style>
+    
+    <style name="DayButtonStyle">
+        <item name="android:background">@drawable/day_button_background_selector</item>
+    	<item name="android:textColor">@drawable/day_button_text_color_selector</item>
+    	<item name="android:textSize">19dp</item>
+    	<item name="android:gravity">top|left</item>
+    	<item name="android:paddingLeft">10dp</item>
+    	<item name="android:paddingTop">4dp</item>
+    </style>
+    
+    <style name="ProgressBarStyle">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/progress_bar</item>
+        <item name="android:indeterminateDrawable">@drawable/progress_bar</item>
+        <item name="android:minHeight">20dp</item>
+        <item name="android:maxHeight">20dp</item>
+    </style>
+    
+    <style name="TextEditorStyle">
+    	<item name="android:background">#d7d7d7</item>
+    	<item name="android:layout_height">30dp</item>
+    	<item name="android:paddingLeft">4dp</item>
+    	<item name="android:paddingRight">4dp</item>
+    	<item name="android:textColorHighlight">#05acff</item>
+    </style>
+    
+    <style name="SpinnerStyle">
+    	<item name="android:background">#d7d7d7</item>
+    	<item name="android:layout_height">30dp</item> 
+    </style>
+    
+    <style name="ButtonBlack" >
+    	<item name="android:textColor">@android:color/white</item>
+    	<item name="android:background">@drawable/button_shape_selector</item>
+    	<item name="android:minWidth">75dp</item>
+    	<item name="android:minHeight">40dp</item>
+    </style>
+    
+    <style name="ButtonBackBlack" >
+    	<item name="android:textColor">@android:color/white</item>
+    	<item name="android:background">@drawable/button_shape_selector</item>
+    	<item name="android:height">35dp</item>
+    </style>
+    
+    <style name="ExpandableListGroupItemStyle">
+    	<item name="android:background">@drawable/cc4_round_both</item>
+    	<item name="android:padding">6dp</item>
+    </style>
+    
+    <style name="ExpandableListGroupItemWrapperStyle">
+    	<item name="android:padding">2dp</item>
+    </style>
+    
+    <style name="ExpandableListChildItemStyle">
+    	<item name="android:background">@drawable/cf1_round_both</item>
+    </style>
+    <style name="ExpandableListChildItemWrapperStyle">
+    	<item name="android:background">@drawable/cc4_round_bottom</item>
+    	<item name="android:padding">3dp</item>
+    </style>
+    
+    <style name="ExpandableListStyle">
+    	<!--  <item name="android:listSelector">@color/cf1</item> -->
+    	<item name="android:divider">@color/cff</item>
+    	<item name="android:childDivider">@color/cff</item>
+    	<item name="android:dividerHeight">0dp</item>
+    	<item name="android:longClickable">true</item>
+    	<item name="android:scrollbarStyle">insideInset</item>
+    	<item name="android:scrollbarSize">10dp</item>
+    	<item name="android:listSelector">@drawable/list_selector</item>
+    	<item name="android:drawSelectorOnTop">true</item>
+    	<!--  <item name="android:groupIndicator">@drawable/selector</item> -->
+    	<item name="android:indicatorLeft">12dp</item>
+    	<item name="android:paddingRight">8dp</item>
+    	<item name="android:paddingLeft">8dp</item>
+    	<item name="android:paddingTop">8dp</item>
+    </style>
+</resources>

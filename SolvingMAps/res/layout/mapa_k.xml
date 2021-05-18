@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent" android:layout_height="fill_parent" android:background="@drawable/background" android:orientation="vertical" android:gravity="center" android:layout_gravity="center">
+    <TextView android:textAppearance="?android:attr/textAppearanceLarge" android:background="@drawable/blacktransinfo" android:textColor="@color/colortipo1" android:textStyle="bold" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_gravity="center" android:layout_margin="20px" android:gravity="center" android:text="KARNOUGH MAP" android:id="@+id/tvTitleMap"></TextView>
+    <LinearLayout android:id="@+id/linearLayout1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="true" android:layout_gravity="center" android:textColor="@color/black" android:gravity="center_vertical">
+        <TableLayout android:id="@+id/tableLayout1" android:layout_height="fill_parent" android:layout_width="0dp" android:layout_weight="60" android:gravity="center" android:padding="10px" android:layout_gravity="center">
+            <TableRow android:id="@+id/tableRow4" android:layout_gravity="center" android:gravity="center" android:weightSum="100" android:layout_height="fill_parent" android:layout_width="fill_parent">
+                <TableRow android:id="@+id/tableRow2" android:layout_height="fill_parent" android:layout_weight="20" android:layout_width="25dp" android:layout_gravity="fill_horizontal|center">
+                    <LinearLayout android:layout_width="wrap_content" android:weightSum="100" android:orientation="vertical" android:id="@+id/LinearLayout01" android:layout_height="wrap_content">
+                        <GridView android:id="@+id/gvVariablesCabecera" android:background="@drawable/blacktrans" android:numColumns="1" android:layout_height="fill_parent" android:layout_width="fill_parent" android:layout_weight="20" android:fitsSystemWindows="true" android:gravity="center"></GridView>
+                        <GridView android:id="@+id/gvDERECHA" android:background="@drawable/blacktrans" android:numColumns="1" android:layout_height="fill_parent" android:layout_width="fill_parent"></GridView>
+                    </LinearLayout>
+                </TableRow>
+                <TableRow android:id="@+id/tableRow1" android:layout_height="fill_parent" android:layout_width="fill_parent" android:baselineAligned="false" android:layout_weight="80" android:orientation="horizontal">
+                    <LinearLayout android:layout_width="wrap_content" android:orientation="vertical" android:id="@+id/linearLayout2" android:layout_height="wrap_content" android:weightSum="100">
+                        <GridView android:numColumns="4" android:background="@drawable/blacktrans" android:textColor="@color/black" android:id="@+id/gVCABECERA" android:layout_height="fill_parent" android:layout_width="fill_parent"></GridView>
+                        <GridView android:layout_width="fill_parent" android:background="@drawable/blacktrans" android:numColumns="3" android:id="@+id/gVMap" android:layout_height="fill_parent"></GridView>
+                    </LinearLayout>
+                </TableRow>
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+    <Button android:layout_height="wrap_content" android:textStyle="bold" android:layout_gravity="center" android:id="@+id/bSolveMap" android:text="SOLVE" style="@style/styleButtonAccept" android:layout_width="fill_parent" android:gravity="center"></Button>
+    
+</LinearLayout>

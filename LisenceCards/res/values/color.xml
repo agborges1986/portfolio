@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_alarm_test">#FF6254</color>
+    <color name="bad_series_color">#DF906D43</color>
+    <color name="good_series_color">#DF5E402D</color>
+    <color name="total_series_color">#DFD0B06B</color>
+    <color name="true_answer_text_color">#23FF33</color>
+    <color name="false_answer_text_color">#FF6E00</color>
+    
+</resources>

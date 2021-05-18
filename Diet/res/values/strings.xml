@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string name="app_name">Diet Manager</string>
+	<string name="diet_text">Diet</string>
+	<string name="user_text">User</string>
+	<string name="add_text">Add</string>
+	<string name="delete_text">Delete</string>
+	<string name="delete_all_text">Delete all</string>
+	<string name="edit_text">Edit</string>
+	<string name="empty_text">Empty</string>
+	<string name="food_editor_text">Food editor</string>
+	<string name="unit_text">Unit</string>
+	<string name="calories_text">Calories</string>
+	<string name="fat_text">Fats</string>
+	<string name="proteins_text">Proteins</string>
+	<string name="carbohydrates_text">Carbohydrates</string>
+	<string name="category_text">Category</string>
+	<string name="save_text">Save</string>
+	<string name="reload_text">Reload</string>
+	<string name="back_text">Back</string>
+	<string name="forward_text">Forward</string>
+	<string name="loading_text">Loading...</string>
+	<string name="sex_text">Sex</string>
+	<string name="age_text">Age</string>
+	<string name="heigth_text">Height</string>
+	<string name="weight_text">Weight</string>
+	<string name="desired_text">Desired</string>
+	<string name="status_text">Status</string>
+	<string name="diet_benefits_text">Diet benefits</string>
+	<string name="benefits_content_text">If you are overweighted you should ...</string>
+	<string name="personal_diet_info">User Info</string>
+	<string name="later_text">Maybe later</string>
+	<string name="ok_text">OK</string>
+	<string name="meal_time_text">"It's mealtime!"</string>
+	<string name="meal_time_secundary_text">"You have a diet and you should eat something now.\n Today's consumed calories are:"</string>
+	<string name="usual_wake_up_text">Usual wake up time</string>
+	<string name="on_weekends_text">On weekends</string>
+	<string name="usual_sleep_time_text">Usual sleep time</string>
+	<string name="diet_info_text">Diet info</string>
+	<string name="calories_per_day_text">Recommended calories\n consumption per day</string>
+	<string name="calories_today_text">Calories consumed today</string>
+	<string name="next_meal_text">Next meal time</string>
+	<string name="time_next_meal_text">Recommended time\n of the next meal</string>
+	<string name="time_left_text">Remaining time</string>
+	<string name="perform_meal_text">"I'll eat now..."</string>
+	<string name="today_info_text">Today diet info</string>
+	<string name="change_user_info_text">Edit info</string>
+	<string name="last_weight">Previous weight</string>
+	<string name="estimated_weight">Estimated weight</string>
+	<string name="search_text">Search...</string>
+	<string name="accept_text">OK</string>
+	<string name="cancel_text">Cancel</string>
+	<string name="remove_text">Remove</string>
+	<string name="select_text">Select</string>
+	<string name="expand_collapse_text">Expand/Collapse</string>
+	<string name="long_click_to_select_text">Long click to select</string>
+	<string name="edit_quantity_text">Change quantity</string>
+	<string name="quantity_text">Quantity</string>
+	<string name="change_quantity_dialog_title">Change quantity</string>
+	<string name="agreement_title_text">Agreement</string>
+	<string name="agreement_text">Always consult a physician before starting a
+		fitness program or changing your diet. DIET MANAGER DOES NOT CONTAIN
+		OR CONSTITUTE, AND SHOULD NOT BE INTERPRETED AS, MEDICAL ADVICE OR
+		OPINION. DIET MANAGER is not a medical professional; KAYMAN SOFTWARE
+		and DIET MANAGER do not provide medical services or render medical
+		advice. The DIET MANAGER is not a substitute for the advice of a
+		medical professional, and the information made available on or through
+		the DIET MANAGER should not be relied upon when making medical
+		decisions, or to diagnose or treat a medical or health condition. If
+		you require medical advice or services, you should consult a medical
+		professional. YOUR USE OF THE DIET MANAGER DOES NOT CREATES A
+		DOCTOR-PATIENT RELATIONSHIP BETWEEN YOU AND KAYMAN SOFTWARE neither
+		with DIET MANAGER. Ultimately is your decision to use or not use DIET
+		MANAGER YOU HEREBY AGREE THAT, BEFORE USING THE DIET MANAGER, YOU
+		SHALL CONSULT YOUR PHYSICIAN, PARTICULARLY IF YOU ARE AT RISK FOR
+		PROBLEMS RESULTING FROM EXERCISE OR CHANGES IN YOUR DIET.
+	</string>
+	<string name="check_agreement_text">I agree</string>
+	<string name="diet_benefit_title_text">Diet Benefits</string>
+	<string name="diet_benefit_text">Exercise and healthy diet will be very important thing to have a healthy life.
+		We will find that doing exercise and having a healthy diet will be very important for our health. Dealing with this,
+		we should pay attention to what we eat, and take notice to the lifestyle that we lead. We will find that there are 
+		many benefits that we can obtain when we eat healthy foods and we exercise our body. The following are some benefits 
+		that we can get by just eating the right food and the right amount of it.\n
+		• Cardiovascular: by eating foods with low fat and engaging our self in exercise activity (walking, swimming, ride bicycle).\n
+		• Bones: we should include low-fat milk in our diet, and foods rich in vitamin D and calcium. Also we should do strength-training workouts.\n
+		• Weight: if we are overweight this condition will lead us to some bad conditions such as high blood pressure and diabetes.\n		
+	</string>
+	<string name="years_text">Years</string>
+	<string name="daily_activity_text">Daily activity</string>
+	<string name="general_text">General</string>
+	<string name="times_text">Times</string>
+	<string name="change_times_text">Edit times</string>
+	<string name="hours_text">Hours</string>
+	<string name="current_weight_text">Current weight</string>
+	<string name="desired_weight_text">Desired weight</string>
+	<string name="menu_editor_text">Menu editor</string>
+	<string name="food_already_added_text">"Food already present, please modify the quantity if that's what you want"</string>
+	<string name="image_list_text">Image list</string>
+	<string name="category_editor_text">Category editor</string>
+	<string name="drop_category_text">Drop category</string>
+	<string name="category_already_present_text">Category already present</string>
+	<string name="food_text">Food</string>
+	<string name="desc_text">Description</string>
+	<string name="alarms_text">Alarms</string>
+	<string name="alarms_on_text">Uncheck for disable alarms at mealtimes</string>
+	<string name="alarms_off_text">Check this for use alarms at mealtimes</string>
+	<string name="vibration_check">Alarm vibration</string>
+	<string name="vibration_on_text">Uncheck for disabling vibration on alarms</string>
+	<string name="vibration_off_text">Check for set vibration on alarms</string>
+	<string name="alarms_sound_text">Alarm sound</string>
+	<string name="sound_on_text">"Uncheck for disable alarm sound"</string>
+	<string name="sound_off_text">"Check for use alarm sound"</string>
+	<string name="foods_text">Foods</string>
+	<string name="actions_text">Actions</string>
+	<string name="init_database_text">Initializing data base...</string>
+	<string name="init_user_info_text">Initializing user info ...</string>
+	<string name="diet_info_comming_soon">Comming soon: charts, tables and more!</string>
+	<string name="diet_general_info_text">General diet info</string>
+	<string name="invalid_age_text">Invalid age</string>
+	<string name="invalid_height_text">Invalid height</string>
+	<string name="invalid_weight_text">Invalid weight</string>
+	<string name="healthy_bmi_text">"You have a Healthy Body Mass Index, you don't need a diet"</string>
+	<string name="invalid_desired_weight_text">You will not have a Healthy Body Mass Index with your desired weight</string>
+	<string name="bmi_text">BMI Classification</string>
+	<string name="with_menu_text">Menu</string>
+	<string name="take_meal_text">Take a meal</string>
+	<string name="init_app_text">Initializing application...</string>
+	<string name="click_for_menu_text">Click to select menu</string>
+	<string name="none_text">None</string>
+	<string name="food_in_menu_text">"Food is already present in selected menu, please change the quantity if that's what you mean"</string>
+	<string name="drop_text">Remove</string>
+	<string name="new_menu_text">New Menu</string>
+	<string name="new_food_text">New Food</string>
+	<string name="take_picture_text">Take</string>
+	<string name="new_text">New</string>
+	<string name="minutes_text">Minutes</string>
+	<string name="about_text">About</string>
+	<string name="preferences_text">Preferences</string>
+	<string name="exit_text">Exit</string>
+	<string name="rights_text">All rights reserved©</string>
+	<string name="foods_list_text">Foods list</string>
+	<string name="menu_list_text">Menus list</string>
+	<string name="ideal_weight_text">Your ideal weight is around</string>
+	<string name="replace_food_title_text">Food replacement</string>
+	<string name="original_calories_text">Original calories</string>
+	<string name="calories_range_text">Calories range</string>
+	<string name="find_replacement_text">Find replacement</string>
+	<string name="replace_food_text">Replace</string>
+	<string name="categories_text">Categories</string>
+	<string name="remaining_colories_text">Remaining calories for the \nrecommended daily consumption</string>
+	<string name="update_weight_text">Your last weight info was configured more than 10 days ago. You must update it in order to keep your diet.</string>
+	<string name="notification_weight_expand_title">You must update your weight info!</string>
+	<string name="notification_weight_text">Your last weight information is from more than 10 days ago.</string>
+	<string name="notification_weight_title">Update your weight info</string>
+	<string name="week_planning_text">Week Planning</string>
+	<string name="actual_week_text">Actual</string>
+	<string name="next_week_text">Next</string>
+	<string name="default_week_text">Default</string>
+	<string name="sunday_letter">S</string>
+	<string name="monday_letter">M</string>
+	<string name="tuesday_letter">T</string>
+	<string name="wednesday_letter">W</string>
+	<string name="thursday_letter">T</string>
+	<string name="friday_letter">F</string>
+	<string name="saturday_letter">S</string>
+	<string name="planification_text">Planning</string>
+	<string name="saving_planifications_text">Saving planning...</string>
+	<string name="saving_planifications_wait_text">Please wait while the planning is saved.</string>
+	<string name="generic_foods_text">Generic Foods</string>
+	<string name="fast_foods_text">Fast Foods</string>
+	<string name="select_food_group">Select a food group</string>
+	<string name="select_fast_food">Select Fast Food</string>
+	<string name="breakfast_text">Breakfast</string>
+	<string name="snack_text">Snack</string>
+	<string name="lunch_text">Lunch</string>
+	<string name="dinner_text">Dinner</string>
+	<string name="on_current_week_text">On this week</string>
+	<string name="on_next_week_text">On next week</string>
+	<string name="on_default_week_text">On default week</string>
+	<string name="apply_to_this_week_text">Schedule on this week</string>
+	<string name="apply_to_next_week">Schedule to next week</string>
+	<string name="apply_as_default_text">Schedule as default</string>
+	<string name="apply_all_week_text">Apply to all the week</string>
+	<string name="apply_weekend">Apply to the weekend</string>
+	<string name="apply_working_days">Apply to working days</string>
+	<string name="generating_menus_text">Generating menus</string>
+	<string name="generating_menus_wait_text">Please wait while the application is generating menus for your diet...</string>
+	<string name="total_calories_text">Total calories:</string>
+	<string name="exceeded_calories_consumption_text">"You've already exceeded the recommended calories consumption for today"</string>
+	<string name="will_exceed_calories_text">With the selected foods you will exceed the recommended calories consumption for today</string>
+	<string name="menu_text">Menu</string>
+	<string name="delete_planification_confirm_message">Are you sure do you want to remove the menu \"^1\" from the planning?</string>
+	<string name="graph_weigth">Weight</string>
+	<string name="graph_weigthdesire">Desired Weight</string>
+	<string name="graph_title_weigth">Weigth(Kg) vs. Diet Time</string>
+	<string name="graph_title_calories">Consumed Calories(Kcal) vs. Diet Time</string>
+	<string name="graph_calories_legend">Consumed Calories</string>
+	<string name="graph_calories_recomended_legend">Recommended Calories</string>
+	<string name="graph_weigth_labels_begin">Diet Begin</string>
+	<string name="graph_weigth_labels_10days">10 Days</string>
+	<string name="graph_weigth_labels_20days">20 Days</string>
+	<string name="graph_weigth_labels_30days">30 Days</string>
+	<string name="graph_weigth_labels_1month">1 Month</string>
+	<string name="graph_weigth_labels_2month">2 Months</string>
+	<string name="graph_weigth_labels_3month">3 Months</string>
+	<string name="graph_weigth_labels_4month">4 Months</string>
+	<string name="graph_weigth_labels_6month">6 Months</string>
+	<string name="graph_weigth_labels_8month">8 Months</string>
+	<string name="graph_weigth_labels_1year">1 Year</string>
+	<string name="graph_weigth_labels_2year">2 Years</string>
+	<string name="graph_calories_labels_today">Today</string>
+	<string name="graph_calories_labels_last">Last</string>
+	<string name="edit_planification_title_text">Edit planning</string>
+	<string name="edit_planification_question_text">Do you want to edit the current menu or select another one?</string>
+	<string name="help_text">Help</string>
+	<string name="help_content_text">"Welcome to Diet Manager!
+		This application is intended to help you in keeping a diet.\n
+		Diet Manager will remind you your meals time, watch your daily calories consumption and track your meals and weight. How to get started? It’s easy, up to now you had configured the relevant info about you in order to keep your diet which includes your sex, age, height, weight and desired weight, also your daily physical activity and the usual times you wake up and go to sleep. If you think there is an error in any of the configurations go to the “User Info” tab (on top) and click “Edit info” or “Edit times” buttons (bottom of the screen).\n
+		When you first started the application you've noticed that it generates menus for your meals. The generated menus are scheduled for some defaults meals (also the recommended ones) How you can see all the menus? Simply go to the “General” tab an click on “Menus List” (also you can see all the foods in the database clicking on “Foods List”) the schedule of your meals is reachable through the application menu (push the menu button of your device to see it) on the “Planning” item.\n
+		It’s time to explain how Diet Manager works: well, with the info about you and the generated menus, Diet Manager will remind you about your recommended meals time (from the breakfast to the nightly snack, every 3 hours), also it will offer you a menu (you can add, remove or change any food, even find a replacement with an equivalent amount of calories). Every time you perform a meal you should enter the data about the foods of your meals (button “I’ll eat now” of the “Diet” tab) in Diet Manager in order to keep your diet tracking (notice you don’t need a menu for enter the info you could pick the foods directly from the database). Diet Manager will show the info about your calories consumption in the “Diet” tab and will warn you when your consumption surpass the limit for the recommended one (keep in mind that the generated menus are specially designed to keep your calories consumption in the recommended range). You can see the tracking of your diet in the “General” tab in the two
+		charts of the main view.\n
+		So, how Diet Manager decides the calories consumption you need? Well, it is calculated with your Body Mass Index and Basal Metabolic Rate (google both of this!), with this two parameters the application can determine the amount of calories you have been consuming (daily) and the amount you need to consume in order to reach your desired weight. Diet Manager will reduce in the first 15 days of your diet (every 5 days) your calories consumption until you reach the recommended value. Diet Manager will check your weight every 10 days and will warn you for update it (feel free of update it every day if you like!).\n As an important issue, Diet Manager lets you add/edit new foods to the database and create/edit menus which you can use in the Planning of your diet, but be careful! The info in the database is used to track your diet and every change in the calories of a food could invalidate the correctness of the values in your past meals so the diet you have been taking would not be right
+		tracked! But always is safe to add a new food or menu :)\n
+		Don’t panic if you want to eat Fast Food, explore this category in the Foods database."
+	</string>
+	<string name="hints_text">Hints</string>
+	<string name="dont_show_again_text">"Don't show hints again"</string>
+	<string name="next_hint_text">Next hint</string>
+	<string name="close_text">Close</string>
+	<string name="dont_hints_on_text">Don’t show hints</string>
+	<string name="dont_hints_off_text">Show hints</string>
+	<string name="reset_diet_text">Reset Diet</string>
+	<string name="reset_diet_confirm_text">Are you sure do you want to reset your diet?\nThis operation is irreversible!\nAlso the menus will be regenerated!\nBe sure the info of your new diet is correct before continue!</string>
+	<string name="reseting_diet_text">Reseting diet</string>
+	<string name="deleting_gen_menus_and_plannings_text">Deleting previously generated menus and plannings...</string>
+	<string name="shop_report_text">Shopping Report Summary</string>
+	<string name="shop_report_message_text">For the rest of this week:\n^1\nFor the next week:\n^2</string>
+	<string name="save_to_file_text">Save to File</string>
+	<string name="sdcard_not_mounted_text">SDCard note mounted, please mount it to save the Shopping Report.</string>
+	<string name="sdcard_read_only_text">"Cant't write to the SDCard, save to file failed."</string>
+	<string name="shop_report_succesfully_write_text">Shopping Report succesfully saved to ^1.</string>
+	<string name="shop_report_cant_write_text">"Can't save the Shopping Report. Some error had occurred"</string>
+	<string name="type_to_search">Type to search...</string>
+	<string name="share_text">Share</string>
+	<string name="share_mesage_text">"Hi, I've been using this amazing app and I think it will be useful for you too:\n Diet Manager"</string>
+	<string name="share_subject_text">"I think you should try Diet Manager for Android"</string>
+	<string name="bb_meal_time_secundary_text">"You have a diet and you should eat something now."</string>
+</resources>

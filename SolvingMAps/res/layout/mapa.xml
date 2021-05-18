@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout 
+    	android:id="@+id/sol" 
+    	android:layout_width="fill_parent" 
+    	android:layout_height="fill_parent"
+    	android:weightSum="100" 
+    	xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:orientation="vertical" android:gravity="center" android:layout_gravity="center">
+        <LinearLayout 
+        	android:layout_height="wrap_content" 
+        	android:id="@+id/linearLayout2" 
+        	android:layout_width="fill_parent" 
+        	android:layout_weight="20" android:layout_gravity="center" android:gravity="center">
+            <TextView 
+            	android:id="@+id/tvspin" 
+            	android:layout_height="fill_parent" 
+            	android:layout_width="fill_parent" 
+            	android:layout_weight="10" 
+            	android:layout_gravity="center"
+            	android:text="NUMBER OF VARIABLES"
+            	android:textSize="30px"
+            	android:textColor="#1024A0"
+            	
+            	
+            	android:gravity="center"
+            	android:layout_marginTop="18px"
+            	android:layout_marginBottom="21px">
+            </TextView>
+        	<Spinner
+        		android:id="@+id/sp_choose_var"  
+        		android:layout_height="wrap_content" 
+        		android:layout_width="wrap_content" 
+        		android:layout_gravity="center"
+        		></Spinner>
+        </LinearLayout>
+        
+
+            <LinearLayout 
+            	android:orientation="vertical" 
+            	android:id="@+id/linearLayout1" 
+            	android:weightSum="100" 
+            	android:layout_width="fill_parent" 
+            	android:layout_height="230dp" android:gravity="center" android:layout_gravity="center">
+                <GridView 
+	                android:layout_width="wrap_content" 
+	                android:id="@+id/gridmap" 
+	                android:numColumns="4" 
+	                android:layout_height="fill_parent" 
+	                android:layout_weight="60"
+	                android:gravity="center"
+	                android:layout_gravity="center"
+	                >           
+                </GridView>
+                <Spinner
+        		android:id="@+id/spmin_or_max"  
+        		android:layout_height="wrap_content" 
+        		android:layout_width="150dp" 
+        		android:fadingEdge="horizontal|vertical" 
+        		android:fadingEdgeLength="5px" 
+        		android:paddingTop="15px" 
+        		android:layout_weight="20" 
+        		android:layout_gravity="center" 
+        		android:padding="10dp"
+        		android:layout_margin="20px"></Spinner>
+            </LinearLayout>
+            <TextView 
+            android:id="@+id/tvexplmap" 
+            android:text="Esto es una explicacion para el mapa" 
+            android:layout_width="fill_parent" 
+            android:layout_weight="20" 
+            android:layout_height="wrap_content" 
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:gravity="fill_horizontal"  
+            android:layout_gravity="center">
+            </TextView>
+            <Button style="@style/styleButtonAccept" 
+            	android:text="SOLVE MAPS" 
+            	android:layout_width="fill_parent" 
+            	android:layout_weight="20" 
+            	android:layout_height="wrap_content" 
+            	android:id="@+id/bcalcmap" >
+            </Button>
+        
+
+    </LinearLayout>
+    
+

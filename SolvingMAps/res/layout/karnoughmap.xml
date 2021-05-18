@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:weightSum="200"
+  android:background="@drawable/background"
+  >
+    <TextView 
+    	android:textAppearance="?android:attr/textAppearanceMedium" 
+    	android:layout_height="wrap_content" 
+    	android:id="@+id/tvIntroductionMaps" 
+    	android:background="@drawable/blacktransinfo"
+    	android:textStyle="bold"
+    	android:layout_margin="20px" android:layout_weight="20" android:gravity="center" android:layout_gravity="center" android:layout_width="fill_parent" android:minLines="3" android:text="CHOOSE THE PARAMETRES FOR THE MAP SOLUTION" android:textColor="@color/colortipo1">
+    </TextView>
+    <LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:gravity="center" 
+  	android:layout_weight="20"
+    android:layout_gravity="center">
+  		<TextView 
+  			android:layout_width="wrap_content" 
+  			android:textAppearance="?android:attr/textAppearanceMedium" 
+  			android:height="60px" android:layout_marginLeft="20px" android:padding="10px" android:id="@+id/tvNumVAr" android:text="NUMBER OF VARIABLES" android:textColor="@color/black" android:layout_height="60dp">
+  		</TextView>
+	     <Spinner 
+	    	android:layout_height="wrap_content" android:layout_gravity="right" android:padding="20px" android:layout_width="120px" android:layout_marginBottom="20px" android:id="@+id/sp_choose_var_new">
+	    </Spinner>
+	     
+    </LinearLayout>
+    <LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:layout_gravity="center" 
+	android:layout_weight="20"
+    android:gravity="center">
+  		<TextView 
+  			android:layout_width="wrap_content" 
+  			android:textAppearance="?android:attr/textAppearanceMedium" 
+  			android:height="60px" android:layout_marginLeft="20px" android:padding="10px" android:id="@+id/tvMinorMax" android:text="MIN OR MAX" android:textColor="@color/black" android:layout_height="66dp">
+  		</TextView>
+  		<Spinner android:layout_marginLeft="25px" android:layout_gravity="center" android:layout_height="wrap_content" android:layout_marginBottom="20px" android:padding="20px" android:id="@+id/spMinorMax" android:layout_width="wrap_content" android:layout_weight="0.03"></Spinner>
+  		
+    </LinearLayout>
+    <TextView 
+    	android:layout_width="fill_parent" 
+    	android:textAppearance="?android:attr/textAppearanceMedium" 
+    	android:layout_height="wrap_content" 
+    	android:id="@+id/tvMAPSexpl"
+    	android:layout_margin="20px" 
+    	android:textStyle="bold"
+    	android:background="@drawable/blacktransinfo"
+    	android:layout_weight="20"
+    	android:gravity="center" 
+    	android:layout_gravity="center"
+    	android:minLines="3" android:text="NUMBER OF VARIABLES DEFINES THE HEIGHT OF MAP AND THE FORM IN MAX OR MIN. " android:textColor="@color/colortipo1">
+    </TextView>
+    <Button android:id="@+id/bAceptMapsVar" android:layout_weight="20" android:textStyle="bold" android:layout_height="wrap_content" android:typeface="monospace" style="@style/styleButtonAccept" android:textColor="@color/black" android:layout_width="fill_parent" android:textSize="30px" android:text="ACCEPT"></Button>
+    
+</LinearLayout>

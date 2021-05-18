@@ -1,0 +1,262 @@
+<html>
+	<head>
+	</head>
+	<body>
+	
+		<h1>Get list of categories</h1>
+		<p>
+			<a href="http://localhost:8080/proximity/publicdata/categories">list of categories</a>
+		</p>
+			
+		<br><br><br><br>
+		
+		<h1>Register new user</h1>
+	 
+		<form action="http://localhost:8080/proximity/user/register" method="post" enctype="multipart/form-data">
+	 
+	 		<p>
+	 			Display Name:<input name="dpln" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			User Name: <input name="usrn" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			Password: <input name="pwd" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			Maximum Distance:<input name="mxd" type="text">
+	 		</p>
+	 
+	 
+		   <p>
+				 Select a file : <input name="img" size="45" type="file"> 
+		   </p>
+	 
+		   <p>
+				 Select categories : 
+				 		<input name="catbd" value="1" type="checkbox">
+				 		<input name="catbd" value="2" type="checkbox">
+				 		<input name="catbd" value="3" type="checkbox">
+				 		<input name="catbd" value="4" type="checkbox">
+		   </p>
+	 
+		   <input value="Create" type="submit">
+		</form>
+		
+		<br><br><br><br>
+		
+	 <h1>Log in</h1>
+	 
+		<form action="http://localhost:8080/proximity/user/login" method="post" enctype="multipart/form-data">
+	 
+	 		<p>
+	 			User Name: <input name="usrn" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			Password: <input name="pwd" type="text">
+	 		</p>
+	 
+		   <input value="Log in" type="submit">
+		</form>
+		
+		<br><br><br><br>
+	
+	 <h1>Log out</h1>
+	 
+		<form action="http://localhost:8080/proximity/user/logout" method="post" enctype="multipart/form-data">
+	 
+	 		<p>
+	 			Session id: <input name="sid" type="text">
+	 		</p>
+	 
+		   <input value="Log out" type="submit">
+		</form>
+		
+		<br><br><br><br>
+		
+	 <h1>Edit existing user</h1>
+	 
+		<form action="http://localhost:8080/proximity/user/edit" method="post" enctype="multipart/form-data">
+	 
+	 		<p>
+	 			Session id:<input name="sid" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			Display Name:<input name="dpln" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			User Name: <input name="usrn" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			Password: <input name="pwd" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			Maximum Distance:<input name="mxd" type="text">
+	 		</p>
+	 
+	 
+		   <p>
+				 Select a file : <input name="img" size="45" type="file"> 
+		   </p>
+	 
+		   <p>
+				 Select categories : 
+				 		<input name="catbd" value="1" type="checkbox">
+				 		<input name="catbd" value="2" type="checkbox">
+				 		<input name="catbd" value="3" type="checkbox">
+				 		<input name="catbd" value="4" type="checkbox">
+		   </p>
+	 
+		   <input value="Edit" type="submit">
+		</form>
+		
+		<br><br><br>
+		
+		<h1>Get an image from the server</h1>
+		<p>
+			<a href="http://localhost:8080/proximity/image/pepe">image</a>
+		</p>
+		
+		<br><br><br>
+		
+	 <h1>Post new Place</h1>
+	 
+		<form action="http://localhost:8080/proximity/place/new" method="post" enctype="multipart/form-data">
+	 
+	 		<p>
+	 			Session id:<input name="sid" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			Name: <input name="name" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			Description: <input name="txt" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			Heat duration: <input name="htd" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			Latitude:<input name="ltt" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			Longitude:<input name="lgt" type="text">
+	 		</p>
+	 
+		   <p>
+				 Image : <input name="img" size="45" type="file"> 
+		   </p>
+	 
+		   <p>
+				 Select categories : 
+				 <select name="cat">
+				 	<option value="1">1</option>
+				 	<option value="2">2</option>
+				 	<option value="3">3</option>
+				 	<option value="4">4</option>
+				 </select>
+		   </p>
+	 
+	 			
+	 		<p>
+	 			Rating: <input name="rtn" type="text">
+	 		</p>
+	 
+	 
+		   <input value="Upload It" type="submit">
+		</form>
+	 
+		<br><br><br><br>
+		
+	 <h1>Comment Place</h1>
+	 
+		<form action="http://localhost:8080/proximity/place/comment" method="post" enctype="multipart/form-data">
+	 
+	 		<p>
+	 			Sesion id: <input name="sid" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			place:<input name="plc" type="text">
+	 		</p>
+	 
+		   <p>
+				 Select categories : 
+				 <select name="cat">
+				 	<option value="1">1</option>
+				 	<option value="2">2</option>
+				 	<option value="3">3</option>
+				 	<option value="4">4</option>
+				 </select>
+		   </p>
+	 
+	 		<p>
+	 			Text: <input name="txt" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			rating: <input name="rtn" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			Heat duration: <input name="htd" type="text">
+	 		</p>
+	 
+		   <p>
+				 Image : <input name="img" size="45" type="file"> 
+		   </p>
+	 
+		   <input value="Upload It" type="submit">
+		</form>
+	 
+		<br><br><br><br>
+		
+	 <h1>Query for heat</h1>
+	 
+		<form action="http://localhost:8080/proximity/place/whot" method="post" enctype="multipart/form-data">
+	 
+	 		<p>
+	 			After: <input name="aft" type="text">
+	 		</p>
+	
+		   <p>
+				 Select categories : 
+				 		<input name="catbd" value="1" type="checkbox">
+				 		<input name="catbd" value="2" type="checkbox">
+				 		<input name="catbd" value="3" type="checkbox">
+				 		<input name="catbd" value="4" type="checkbox">
+		   </p>
+	 
+	 		<p>
+	 			maxLat: <input name="maxlat" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			maxLon: <input name="maxlon" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			minLat:<input name="minlat" type="text">
+	 		</p>
+	 
+	 		<p>
+	 			minLon:<input name="minlon" type="text">
+	 		</p>
+	 
+		   <input value="Submit" type="submit">
+		</form>
+	 
+	
+</body></html>

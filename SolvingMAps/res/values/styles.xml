@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="styleName" parent="android:Widget.TextView">
+        <item name="android:gravity">fill_horizontal</item>
+        <item name="android:layout_margin">20px</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+    </style>
+    <style name="styleButtonAccept" parent="android:Widget.Button">
+        <item name="android:layout_margin">40px</item>
+        <item name="android:layout_marginBottom">10px</item>
+        <item name="android:maxHeight">30px</item>
+        <item name="android:maxLines">5</item>
+        <item name="android:padding">15px</item>
+        <item name="android:typeface">normal</item>
+    </style>
+    <color name="colortipo1">#FF5634</color>
+    <color name="colortipo2">#B910F910</color>
+    <style name="finishButton" parent="android:Widget.Button">
+        <item name="android:layout_marginTop">10px</item>
+    </style>
+    <color name="colortipo3">#FA4935</color>
+</resources>

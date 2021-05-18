@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:background="@drawable/background"
+  android:layout_height="fill_parent" android:gravity="center" android:layout_gravity="center">
+    <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:background="@drawable/blacktransinfo" android:textStyle="bold" android:textColor="@color/colortipo1" android:layout_height="wrap_content" android:id="@+id/tVTrueTable" android:padding="20px" android:layout_gravity="center" android:layout_width="fill_parent" android:gravity="center" android:textSize="30dp" android:text="TRUTH TABLE"></TextView>
+    <GridView android:layout_width="wrap_content" android:background="@drawable/blacktrans" android:numColumns="4" android:layout_height="58dp" android:layout_gravity="center" android:id="@+id/gVTablaCabecera" android:padding="20px" android:fitsSystemWindows="true" android:layout_marginLeft="10px" android:layout_marginRight="10px" android:layout_marginBottom="20px" android:gravity="center"></GridView>
+    <GridView android:layout_width="fill_parent" android:background="@drawable/blacktrans" android:id="@+id/gVTrueTable" android:fitsSystemWindows="true" android:numColumns="4" android:padding="20px" android:layout_gravity="center" android:layout_height="245dp" android:layout_marginBottom="10px" android:layout_marginLeft="10px" android:layout_marginRight="10px" android:gravity="center"></GridView>
+    <Button android:layout_height="wrap_content" android:textStyle="bold" android:id="@+id/bSolveTable" style="@style/styleButtonAccept" android:layout_gravity="center_horizontal" android:layout_width="fill_parent" android:text="SOLVE"></Button>
+    <TextView android:text="T" android:textColor="@color/colortipo1" android:id="@+id/simplecell" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+    
+</LinearLayout>

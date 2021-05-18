@@ -1,0 +1,37 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <color name="cc4">#c4c4c4</color>
+	<color name="cff">#ffffff</color>
+	<color name="cf1">#f1f1f1</color>
+	<color name="cca">#cacaca</color>
+	<color name="cd7">#d7d7d7</color>
+	<color name="ce4">#e4e4e4</color>
+	<color name="cad">#adadad</color>
+	<color name="cab">#ababab</color>
+	<color name="c00">#000000</color>	
+	<color name="c82">#828282</color>	
+	<color name="c89">#898989</color>	
+	<color name="c39">#393939</color>	
+	<color name="cee">#EEEEEE</color>	
+	<color name="red">#EE3333</color>	
+	<color name="green">#0000AA</color>	
+	<color name="yellow">#FFC600</color>	
+	<color name="orange">#FF7300</color>
+	<color name="black">#010101</color>
+
+	 <style name="ButtonBackBlack" >
+    	<item name="android:textColor">@android:color/white</item>
+    	<item name="android:background">@drawable/button_shape_selector</item>
+    	<item name="android:height">35dp</item>
+    </style>
+</resources>

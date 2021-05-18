@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"
+        android:background="@drawable/a_background">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/a_color"
+            android:layout_alignParentLeft="true" android:layout_alignParentTop="false"
+            android:layout_alignParentRight="true" android:gravity="center" android:layout_marginTop="140dp"
+            android:layout_marginRight="10dp" android:layout_marginLeft="10dp">
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/new_user" android:layout_below="@+id/habitual_user"
+                android:background="@drawable/a_new_user"
+                android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp" android:layout_gravity="center"/>
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/habitual_user"
+                android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:focusable="false"
+                android:background="@drawable/a_habitual_user"
+                android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"/>
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/facebook_user"
+                android:layout_below="@+id/new_user"
+                android:background="@drawable/a_facebook_user"
+                android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"/>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<LinearLayout android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:orientation="vertical"
+		android:background="@drawable/cc4_round_both" android:layout_margin="4dp">
+		<RelativeLayout android:id="@+id/LinearLayout1" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:orientation="horizontal">
+			<ImageButton android:id="@+id/imageButton1" android:layout_width="50dp" android:src="@android:drawable/ic_menu_camera" android:layout_height="50dp" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_marginRight="5dp" android:layout_marginTop="2dp" android:visibility="gone"></ImageButton>
+			<TextView android:gravity="center_vertical|center_horizontal" android:layout_width="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" android:text="@string/image_list_text" android:id="@+id/textView1" android:layout_height="40dp" android:layout_centerVertical="true" android:layout_centerHorizontal="true"></TextView>
+		</RelativeLayout>
+		<GridView android:layout_height="wrap_content" android:id="@+id/gridView1"
+			android:layout_width="fill_parent" android:numColumns="3"
+			android:layout_margin="4dp" android:background="@drawable/cf1_round_both"></GridView>
+	</LinearLayout>
+</LinearLayout>

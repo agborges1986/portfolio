@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:state_selected="true" android:drawable="@drawable/diet_info_icon_pressed"></item>	
+	<item android:drawable="@drawable/diet_info_icon"></item>
+
+</selector>

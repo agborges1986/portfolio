@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:weightSum="100" android:background="@color/background_white">
+  <FrameLayout android:orientation="vertical"
+	android:layout_weight="75" android:layout_height="fill_parent" android:layout_width="fill_parent" android:id="@+id/frameAgreementInflate"/>
+  <LinearLayout android:layout_height="wrap_content" 
+  	android:id="@+id/linearLayout1" 
+  	android:layout_width="fill_parent" 
+  	android:layout_weight="25" 
+  	android:background="@drawable/navigator_shape" android:gravity="right|center" android:paddingRight="30dp">
+      
+      <Button android:text="Foward" 
+      	android:id="@+id/bAgreementFoward" 
+      	android:layout_width="wrap_content" 
+      	android:layout_height="wrap_content" 
+      	android:textColor="@color/background_white" android:background="@drawable/button_shape" android:layout_margin="10px" android:padding="10dp" android:layout_gravity="left|center" android:gravity="center">
+      </Button>
+  </LinearLayout> 
+    
+</LinearLayout>

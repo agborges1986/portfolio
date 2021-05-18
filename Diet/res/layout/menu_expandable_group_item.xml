@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="?android:listPreferredItemHeight"
+	android:orientation="horizontal" android:paddingTop="2dp">
+
+	<LinearLayout android:layout_width="fill_parent"
+		android:layout_height="?android:listPreferredItemHeight"
+		android:orientation="horizontal" style="@style/ExpandableListGroupItemWrapperStyle" android:id="@+id/element_expandable_group_wrapper">
+
+
+		<RelativeLayout android:orientation="horizontal"
+			android:layout_width="fill_parent" android:layout_height="?android:listPreferredItemHeight"
+			style="@style/ExpandableListGroupItemStyle">
+
+			<ImageView android:layout_alignParentBottom="true"
+				android:layout_alignParentTop="true" android:layout_marginRight="6dp"
+
+				android:id="@+id/imageView1" android:layout_width="60dp" android:layout_height="60dp" android:src="@drawable/default_menu_icon"/>
+
+			<TextView android:text="Simple" android:ellipsize="marquee"
+				android:singleLine="true" android:layout_height="wrap_content"
+				android:layout_width="fill_parent" android:layout_toRightOf="@id/imageView1"
+				android:layout_alignParentBottom="true"
+				android:marqueeRepeatLimit="marquee_forever"
+				android:id="@+id/textView2" android:layout_toLeftOf="@+id/textView3"/>
+
+			<TextView android:text="TextView" android:layout_width="fill_parent"
+
+				android:layout_toRightOf="@id/imageView1"
+				android:layout_alignParentTop="true"
+				android:layout_alignParentRight="true" android:layout_above="@id/textView2"
+
+				android:layout_alignWithParentIfMissing="true" android:gravity="center_vertical"
+				android:id="@+id/textView1" android:ellipsize="marquee" android:layout_height="26dp" android:textSize="20dp" android:textColor="@color/black" android:marqueeRepeatLimit="marquee_forever" android:layout_marginRight="20dp"/>
+			<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textView3" android:layout_alignBaseline="@+id/textView2" android:layout_alignBottom="@+id/textView2" android:layout_alignParentRight="true" android:text="0.0 cal." android:layout_alignParentBottom="true"></TextView>
+
+
+		</RelativeLayout>
+	</LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_background" >
+
+    <ImageButton
+        android:id="@+id/ImageButton02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="52dp"
+        android:background="@drawable/home_4a"
+        android:src="@drawable/selector_view_categories" />
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="38dp"
+        android:layout_toLeftOf="@+id/ImageButton02"
+        android:background="@drawable/home_2a"
+        android:contentDescription="ver categorias"
+        android:src="@drawable/selector_view_categories" />
+
+    <ImageButton
+        android:id="@+id/ImageButton03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="29dp"
+        android:background="@drawable/home_5a"
+        android:src="@drawable/selector_whot" />
+
+    <ImageButton
+        android:id="@+id/ImageButton04"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/ImageButton03"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/home_8a"
+        android:src="@drawable/selector_post" />
+
+    <ImageButton
+        android:id="@+id/ImageButton01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/ImageButton04"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/home_3a"
+        android:src="@drawable/selector_comment" />
+
+</RelativeLayout>

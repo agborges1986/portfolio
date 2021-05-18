@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="?android:listPreferredItemHeight"
+	android:orientation="horizontal" android:paddingTop="2dp">
+    <RelativeLayout android:layout_height="?android:listPreferredItemHeight" style="@style/ExpandableListGroupItemStyle" android:layout_width="fill_parent">
+        <ImageView android:src="@drawable/default_category_icon" android:layout_marginRight="6dp" android:id="@+id/imageView1" android:layout_alignParentTop="true" android:layout_alignParentBottom="true" android:layout_height="60dp" android:layout_width="60dp"></ImageView>
+        <TextView android:text="Simple" android:layout_height="wrap_content" android:id="@+id/textView2" android:marqueeRepeatLimit="marquee_forever" android:layout_toRightOf="@id/imageView1" android:singleLine="true" android:ellipsize="marquee" android:layout_width="fill_parent" android:layout_alignParentRight="true" android:layout_alignParentBottom="true"></TextView>
+        <TextView android:text="TextView" android:layout_height="26dip" android:layout_alignParentTop="true" android:layout_above="@id/textView2" android:id="@+id/textView1" android:layout_toRightOf="@id/imageView1" android:layout_alignWithParentIfMissing="true" android:gravity="center_vertical" android:layout_width="fill_parent" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_alignParentRight="true" android:ellipsize="marquee" android:marqueeRepeatLimit="marquee_forever" android:singleLine="true"></TextView>
+    </RelativeLayout>
+
+</LinearLayout>

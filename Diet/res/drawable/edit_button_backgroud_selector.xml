@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:state_pressed="true">
+		<inset android:drawable="@drawable/edit" android:insetTop="1dp"
+			android:insetLeft="1dp" android:insetBottom="-1dp"
+			android:insetRight="-1dp" />
+	</item>
+	<item android:state_enabled="false" android:drawable="@drawable/edit_gray"></item>
+	<item android:drawable="@drawable/edit"></item>
+
+</selector>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:weightSum="100" 
+  android:layout_height="wrap_content" 
+  android:layout_gravity="center">
+        <TableLayout 
+        	android:layout_width="fill_parent" 
+        	android:id="@+id/tableLayoutCircuit" 
+        	android:layout_height="fill_parent" 
+        	android:layout_gravity="fill" 
+        	android:gravity="fill" android:weightSum="100">
+             <TableRow 
+            	android:id="@+id/tableRow1" 
+            	android:gravity="center" 
+            	android:layout_gravity="center" 
+            	android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_weight="80" android:scrollbars="horizontal|vertical" android:isScrollContainer="true">
+                <LinearLayout android:layout_gravity="center" android:gravity="center" android:id="@+id/layoutdib" android:layout_height="wrap_content" android:layout_width="wrap_content" android:scrollbarAlwaysDrawVerticalTrack="true" android:scrollbars="vertical">
+                    <com.Maps.Dibujo android:id="@+id/viewCircuit" android:scrollbars="vertical" android:isScrollContainer="true" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_gravity="center"></com.Maps.Dibujo>
+                </LinearLayout>
+            </TableRow>
+            <TableRow 
+            android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/tableRow2" android:gravity="center" android:layout_gravity="center">
+                <LinearLayout android:weightSum="100" android:id="@+id/linearLayout1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center">
+                    <Button 
+                    	android:layout_height="wrap_content" 
+                    	android:id="@+id/bCloseMAps" 
+                    	android:layout_gravity="left" 
+                    	android:layout_weight="50" 
+                    	android:layout_marginTop="10px" 
+                    	android:layout_marginLeft="10px" 
+                    	android:layout_width="wrap_content" 
+                    	android:gravity="center" android:text="CLOSE CIRCUIT">
+                    </Button>
+                    <Button 
+                    	android:layout_weight="50" 
+                    	android:text="Button" 
+                    	android:layout_width="wrap_content" 
+                    	android:layout_height="wrap_content" 
+                    	android:id="@+id/bNANDNOR">
+                    </Button>
+                </LinearLayout>
+            </TableRow>
+        </TableLayout>
+    
+    
+</LinearLayout>

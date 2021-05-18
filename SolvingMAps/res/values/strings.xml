@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="option">Esto es una explicacion para la aplicacion</string><string name="hello"></string>
+    <string name="app_name">QuickLogic</string>
+    
+    <string name="menu_expl">Esto es una explicacion para el menu seleccionado</string>
+    <color name="back_expl_color">#FFF2F2</color>
+    <color name="black">#000000</color>
+</resources>

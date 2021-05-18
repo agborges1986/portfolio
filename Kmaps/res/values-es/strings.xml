@@ -1,0 +1,7 @@
+<resources>
+    <string name="action_settings">Configuracion</string>
+    <string name="app_name">Solving Maps</string>
+    <string name="button_accept">Aceptar</string>
+    <string name="hello_world">Hola Mundo</string>
+
+</resources>

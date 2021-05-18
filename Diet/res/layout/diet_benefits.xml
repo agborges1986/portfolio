@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/LinearLayout1"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:weightSum="100"
+	android:background="@color/background_white">
+	<View android:id="@+id/view1" android:layout_width="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentBottom="true" android:layout_height="36dp"
+		android:background="@color/c82"></View>
+	<View android:id="@+id/view2" android:layout_width="wrap_content"
+		android:layout_above="@+id/view1" android:layout_alignParentLeft="true"
+		android:layout_height="44dp" android:background="@color/cad"></View>
+	<ImageView android:id="@+id/imageView1" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:src="@drawable/icon"
+		android:layout_alignParentTop="true" android:layout_alignParentLeft="true"
+		android:layout_marginLeft="17dp" android:layout_marginTop="20dp"></ImageView>
+	<TextView android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="wrap_content"
+		android:textColor="#010101" android:layout_height="wrap_content"
+		android:layout_alignTop="@+id/imageView1" android:layout_toRightOf="@+id/imageView1"
+		android:layout_marginLeft="10dp" android:layout_marginTop="10dp"
+		android:id="@+id/textView1" android:text="@string/diet_benefit_title_text"></TextView>
+	<ScrollView android:id="@+id/scrollView1"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_below="@+id/imageView1"
+		android:layout_alignParentRight="true" android:layout_above="@+id/view2"
+		android:paddingLeft="5dp" android:paddingRight="5dp"
+		android:layout_marginBottom="2dp" android:background="@drawable/diet_info_border"
+		android:layout_marginTop="10dp" android:layout_marginLeft="5dp"
+		android:layout_marginRight="5dp">
+		<LinearLayout android:id="@+id/linearLayout2"
+			android:layout_height="fill_parent" android:layout_width="fill_parent"
+			android:orientation="vertical">
+			<TextView android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_marginTop="16dp"
+				android:textColor="@color/c00" android:id="@+id/textView2" android:text="@string/diet_benefit_text"></TextView>
+		</LinearLayout>
+	</ScrollView>
+	<Button android:layout_width="wrap_content" style="@style/ButtonBlack" android:text="@string/accept_text" android:layout_height="wrap_content" android:id="@+id/button1" android:layout_alignParentBottom="true" android:layout_alignRight="@+id/scrollView1" android:layout_marginBottom="18dp" android:layout_marginRight="20dp"></Button>
+
+</RelativeLayout>

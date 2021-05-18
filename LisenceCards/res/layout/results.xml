@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    style="@style/app_theme"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="100"
+    tools:ignore="UselessParent,HardcodedText" >
+
+    <ScrollView
+        android:id="@+id/ScrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="3dp"
+        android:background="@drawable/back_card"
+        android:padding="2dp" >
+
+        <RelativeLayout android:id="@+id/relativeLayout1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:padding="5dp">
+            <TextView android:id="@+id/textView1" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_width="fill_parent" android:gravity="center" style="@style/style_text" android:text="@string/result_title" android:layout_marginBottom="5dp" android:textSize="30sp" android:layout_marginTop="60dp"></TextView>
+            <LinearLayout android:layout_height="wrap_content" android:orientation="vertical" android:id="@+id/linearLayout1" android:layout_width="fill_parent" android:padding="5dp" android:layout_below="@+id/tableLayout1" android:gravity="center_horizontal" android:layout_centerHorizontal="true" android:layout_marginTop="5dp">
+
+                <LinearLayout
+                    android:id="@+id/linearLayout2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:baselineAligned="false"
+                    android:weightSum="100" >
+
+                    <LinearLayout android:layout_width="wrap_content" android:id="@+id/linearLayout3" android:orientation="vertical" android:layout_height="match_parent" android:gravity="center" android:layout_weight="80" android:padding="2dp"></LinearLayout>
+                    <LinearLayout android:layout_width="wrap_content" android:id="@+id/linearLayout4" android:layout_height="match_parent" android:gravity="center" android:layout_gravity="center" android:layout_weight="20"></LinearLayout>
+                </LinearLayout>
+                
+            </LinearLayout>
+            <TableLayout android:layout_height="wrap_content" android:id="@+id/tableLayout1" android:layout_width="wrap_content" android:gravity="center" android:layout_centerHorizontal="true" android:layout_below="@+id/textView1">
+                    <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/tableRow1">
+                        <TableRow android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/TableRow02" android:layout_marginRight="10dp" android:layout_marginLeft="5dp">
+
+                            <TextView
+                                android:id="@+id/TextView02"
+                                style="@style/style_text"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="right"
+                                android:gravity="right"
+                                android:text="@string/result_indice"
+                                android:textAppearance="?android:attr/textAppearanceLarge" >
+</TextView>
+                        </TableRow>
+                        <TextView android:id="@+id/textView3" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_height="wrap_content" style="@style/style_text" android:text="80" android:gravity="center" android:layout_gravity="center" android:layout_width="fill_parent"></TextView>
+                    </TableRow>
+                    <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/tableRow2">
+                        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TableRow01">
+                            <TextView android:id="@+id/TextView01" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_height="wrap_content" android:layout_width="wrap_content" style="@style/style_text" android:layout_marginLeft="5dp" android:layout_marginRight="10dp" android:text="@string/result_good_answer" android:gravity="right" android:layout_gravity="right"></TextView>
+                        </TableRow>
+                        <TextView android:id="@+id/textView4" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_height="wrap_content" style="@style/style_text" android:text="3" android:gravity="center" android:layout_gravity="center" android:layout_width="fill_parent"></TextView>
+                    </TableRow>
+                    <TableRow android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/TableRow04">
+                        <TableRow android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/TableRow03">
+                            <TextView android:id="@+id/TextView04" android:textAppearance="?android:attr/textAppearanceLarge" style="@style/style_text" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_marginRight="10dp" android:layout_marginLeft="5dp" android:text="@string/result_total_answer" android:gravity="right" android:layout_gravity="right"></TextView>
+                        </TableRow>
+                        <TextView android:id="@+id/TextView03" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_height="wrap_content" style="@style/style_text" android:text="10" android:gravity="center" android:layout_gravity="center" android:layout_width="fill_parent"></TextView>
+                    </TableRow>
+                    <TableRow android:id="@+id/TableRow05" android:layout_height="wrap_content" android:layout_width="fill_parent">
+                        <TableRow android:id="@+id/TableRow06" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                            <TextView android:layout_width="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" style="@style/style_text" android:text="@string/result_time" android:layout_height="wrap_content" android:id="@+id/textView2" android:gravity="right" android:layout_marginLeft="5dp" android:layout_marginRight="10dp" android:layout_gravity="right"></TextView>
+                        </TableRow>
+                        <TextView android:textAppearance="?android:attr/textAppearanceLarge" style="@style/style_text" android:text="TextView" android:layout_height="wrap_content" android:id="@+id/textView5" android:layout_weight="1" android:layout_width="fill_parent"></TextView>
+                    </TableRow>
+                </TableLayout>
+            <ImageView android:layout_width="wrap_content" android:src="@drawable/approved" android:layout_height="wrap_content" android:id="@+id/imageView1" android:layout_alignParentLeft="true" android:layout_marginLeft="5dp" android:layout_marginTop="5dp" android:contentDescription="image_set_result"></ImageView>
+        </RelativeLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/buton_text_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/left_button_selector"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        android:text="@string/result_button_setting"
+        android:textSize="16sp" >
+
+</Button>
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/buton_text_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/button_rigth_selector"
+        android:text="@string/result_button_about"
+        android:textSize="16sp" >
+</Button>
+    <Button android:id="@+id/button3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:background="@drawable/button_center_selector" android:text="@string/result_button_again" style="@style/buton_center_style"></Button>
+    
+</RelativeLayout>

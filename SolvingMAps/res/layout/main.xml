@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    >
+<TextView  
+    android:layout_width="fill_parent"
+    android:id="@+id/option_expl" 
+    android:layout_height="wrap_content" 
+    android:gravity="fill_horizontal" 
+    android:layout_margin="20px" 
+    android:layout_gravity="center"
+    android:lineSpacingMultiplier="1.5"
+    android:text="@string/option" 
+    android:textSize="30px" 
+   
+    android:textColor="@color/black"/>
+<RadioGroup android:layout_height="wrap_content" 
+android:id="@+id/radioGroup1" 
+android:orientation="vertical" 
+android:layout_width="fill_parent" 
+android:layout_margin="10px" 
+android:layout_gravity="center" 
+android:paddingLeft="100px">
+    <RadioButton android:layout_width="wrap_content" android:text="Karnough Maps" android:id="@+id/radio0" android:layout_height="wrap_content" android:checked="true"></RadioButton>
+    <RadioButton android:layout_width="wrap_content" android:text="Calculator" android:id="@+id/radio1" android:layout_height="wrap_content"></RadioButton>
+    <RadioButton android:layout_width="wrap_content" android:text="Cache" android:id="@+id/radio2" android:layout_height="wrap_content"></RadioButton>
+    <RadioButton android:layout_width="wrap_content" android:text="RAM" android:id="@+id/radio3" android:layout_height="wrap_content"></RadioButton>
+</RadioGroup>
+<TextView android:textAppearance="?android:attr/textAppearanceMedium" 
+android:layout_height="wrap_content" 
+android:id="@+id/menu_expl"
+android:text="@string/menu_expl" 
+android:layout_width="fill_parent" 
+android:gravity="center" 
+android:layout_margin="40px" android:focusableInTouchMode="true"></TextView>
+<Button android:layout_width="fill_parent" android:layout_margin="30px" android:layout_height="wrap_content" android:text="Accept" android:id="@+id/accept" android:layout_gravity="center" android:gravity="center"></Button>
+</LinearLayout>

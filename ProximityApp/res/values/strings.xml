@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Proximity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_splash">Proximity</string>
+    <string name="title_activity_select_user">Proximity</string>
+    <string name="title_activity_new_user">Proximity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_what_hot">What is hot?</string>
+    <string name="title_activity_post_place">Post a place</string>
+    <string name="title_activity_test_all">TestAllActivity</string>
+    <string name="title_activity_comment_place">CommentPlaceActivity</string>
+    <string name="title_activity_all_comments">AllCommentsActivity</string>
+    <string name="title_activity_what_hot_map">What is hot?</string>
+    <string name="title_activity_select_avatar">SelectAvatarActivity</string>
+
+</resources>

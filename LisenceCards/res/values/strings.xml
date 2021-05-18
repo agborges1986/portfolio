@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TestProff!</string>
+    <string name="app_name">Driver Test</string>
+    
+    <string name="result_bad_answer">Number of bad answer</string>
+    <string name="result_good_answer">Number of good answer</string>
+    <string name="result_total_answer">Number of questions</string>
+    <string name="result_indice">Qualification</string>
+    <string name="result_time">Time of test:</string>
+    
+	<string name="flash_button_check">Evaluate</string>
+	<string name="flash_button_next">Next</string>
+	<string name="flash_skip">Finish</string>
+	
+	<string name="result_title_graf">Results of test</string>
+	<string name="result_bad_answers_graf_legend">Bad</string>
+	<string name="result_good_answers_graf_legend">Good</string>
+	<string name="result_total_answers_graf_legend">Total</string>
+	<string name="result_title">Qualification</string>
+	
+	<string name="result_button_setting">Settings</string>
+	<string name="result_button_again">New Test</string>
+	<string name="result_button_about">About us</string>
+	
+	<string name="finish_text_dialog">Do you really want finish this Test</string>
+	<string name="finish_title_dialog">Attention</string>
+	
+	<string name="cancel_dialog">Cancel</string>
+	<string name="ok_dialog">OK</string>
+	
+	<string name="comment_head">Comment</string>
+	
+	<string name="rigth_reserverd">All rights reserved</string>
+	<string name="year">2013</string>
+	
+	<string name="alarm_time_answer">YOUR ANSWER TIME IS OVER</string>
+	<string name="alarm_time_test">SORRY, EXAMEN TIME IS OVER</string>
+	<string name="alarm_time_down">HURRY UP. EXAMEN TIME IS DOWN</string>
+	
+	<string name="good_answer">GOOD ANSWER</string>
+	<string name="bad_answer">BAD ANSWER</string>
+	
+	<string name="preference_language_title">Language</string>
+	<string name="preference_language_dialog_title"> Test Language</string>
+	<string name="preference_language_sumary">Select your test language</string>
+	
+	<string name="preference_quantity_title">Test Questions</string>
+	<string name="preference_quantity_dialog_title">Number of questions</string>
+	<string name="preference_quantity_sumary">Select your quantity of questions</string>
+	
+	<string name="preference_type_title">Test Type</string>
+	<string name="preference_type_dialog_title">Test Type</string>
+	<string name="preference_type_sumary">Select type of test</string>
+	
+	<string name="number_question">of</string>
+		    
+</resources>

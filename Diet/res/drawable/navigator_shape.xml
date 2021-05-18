@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#000000"></solid>
+    <stroke android:color="#010101"></stroke>
+    
+    <gradient 
+    android:startColor="@color/up_side_navigator_color" 
+    android:useLevel="true"
+    android:angle="45"
+   
+    android:gradientRadius="1%p"
+    android:endColor="@color/down_side_navigator_color"
+    >
+    </gradient>
+    
+</shape>

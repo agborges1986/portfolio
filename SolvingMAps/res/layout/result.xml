@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent" android:gravity="center"
+  android:background="@drawable/background"
+  android:weightSum="1">
+    <TextView android:layout_height="wrap_content" android:id="@+id/textView1" android:textAppearance="?android:attr/textAppearanceMedium" 
+    	android:textStyle="bold"
+    	android:gravity="center" android:layout_gravity="center" android:layout_width="fill_parent" android:minLines="3" android:text="Reduced equation" android:textColor="@color/colortipo1">
+    ></TextView>
+    <TextView 
+    	android:layout_width="wrap_content" 
+    	android:id="@+id/tvResult" 
+    	android:text="Para mostrar el resultado" 
+    	android:layout_height="wrap_content" 
+    	android:textColor="@color/black"
+    	android:textAppearance="?android:attr/textAppearanceLarge" android:layout_weight="0.08" android:layout_margin="15px"></TextView>
+    <LinearLayout android:id="@+id/linearLayout1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_horizontal">
+        <Button 
+        	android:layout_width="wrap_content" 
+        	android:layout_height="wrap_content" 
+        	android:textStyle="bold"
+        	android:id="@+id/bCircuit" android:text="See Circuit">
+        </Button>
+        <Button 
+        	android:layout_width="wrap_content" 
+        	android:layout_height="wrap_content" 
+        	android:textStyle="bold"
+        	android:id="@+id/bVolver" android:text="Back">
+        </Button>
+        <Button 
+        	android:layout_width="wrap_content" 
+        	android:text="Exit" 
+        	android:textStyle="bold"
+        	android:layout_height="wrap_content" 
+        	android:id="@+id/bExit">
+        </Button>
+    </LinearLayout>
+    
+</LinearLayout>

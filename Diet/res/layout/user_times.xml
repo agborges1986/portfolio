@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<View android:id="@+id/view1" android:layout_width="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentBottom="true" android:layout_height="36dp"
+		android:background="@color/c82"></View>
+	<View android:id="@+id/view2" android:layout_width="wrap_content"
+		android:layout_above="@+id/view1" android:layout_alignParentLeft="true"
+		android:layout_height="44dp" android:background="@color/cad"></View>
+	<Button style="@style/ButtonBlack" android:id="@+id/button1"
+		android:layout_height="wrap_content" android:layout_width="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true" android:layout_marginRight="38dp"
+		android:layout_marginBottom="20dp" android:text="@string/save_text"></Button>
+	<Button style="@style/ButtonBlack" android:id="@+id/button3"
+		android:layout_height="wrap_content" android:layout_width="wrap_content"
+		android:layout_alignBaseline="@+id/button1"
+		android:layout_alignBottom="@+id/button1"
+		android:layout_alignParentLeft="true" android:layout_marginLeft="50dp"
+		android:text="@string/back_text"></Button>
+	<ScrollView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:layout_alignParentLeft="true"
+		android:layout_alignParentTop="true" android:layout_alignParentRight="true"
+		android:layout_above="@+id/view2" android:paddingBottom="10dp">
+		<LinearLayout 
+			android:orientation="vertical" 
+			android:layout_width="fill_parent"
+			android:gravity="center" android:layout_height="wrap_content">
+			<ImageView android:src="@drawable/icon" android:id="@+id/imageView1"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_marginTop="4dp" android:layout_marginBottom="2dp"></ImageView>
+			<LinearLayout android:layout_height="wrap_content"
+				android:layout_width="fill_parent" android:orientation="vertical"
+				android:background="@drawable/diet_info_border"
+				android:layout_margin="2dp">
+				<LinearLayout android:layout_height="wrap_content"
+					android:orientation="vertical" android:layout_width="fill_parent">
+					<TextView android:layout_marginLeft="10dp"
+						android:textSize="22sp" android:layout_height="wrap_content"
+						android:textColor="@color/black" android:text="@string/usual_wake_up_text"
+						android:layout_width="wrap_content"></TextView>
+					<TextView android:textSize="30sp" android:layout_height="wrap_content"
+						android:gravity="right" android:textAppearance="?android:attr/textAppearanceMedium"
+						android:layout_marginRight="20dp" android:id="@+id/textView1"
+						android:paddingRight="4dp" android:layout_gravity="right"
+						android:background="@drawable/cf1_round_both" android:paddingLeft="4dp"
+						android:layout_width="150dp"></TextView>
+				</LinearLayout>
+				<LinearLayout android:layout_height="wrap_content"
+					android:orientation="vertical" android:layout_width="fill_parent"
+					android:id="@+id/lineraLayout1" android:layout_marginBottom="4dp">
+					<CheckBox android:textSize="22sp" android:checked="true"
+						android:layout_marginLeft="10dp" android:text="@string/on_weekends_text"
+						android:layout_height="wrap_content" android:layout_width="wrap_content"
+						android:id="@+id/checkBox1"></CheckBox>
+					<TextView android:textSize="30sp" android:layout_height="wrap_content"
+						android:gravity="right" android:textAppearance="?android:attr/textAppearanceMedium"
+						android:layout_marginRight="20dp" android:id="@+id/textView2"
+						android:paddingRight="4dp" android:layout_gravity="right"
+						android:background="@drawable/cf1_round_both" android:paddingLeft="4dp"
+						android:layout_width="150dp"></TextView>
+				</LinearLayout>
+			</LinearLayout>
+			<LinearLayout android:layout_height="wrap_content"
+				android:layout_width="fill_parent" android:orientation="vertical"
+				android:background="@drawable/diet_info_border"
+				android:layout_margin="2dp">
+				<LinearLayout android:layout_height="wrap_content"
+					android:layout_marginTop="20dp" android:orientation="vertical"
+					android:layout_width="fill_parent">
+					<TextView android:layout_marginLeft="10dp"
+						android:textSize="22sp" android:layout_height="wrap_content"
+						android:textColor="@color/black" android:text="@string/usual_sleep_time_text"
+						android:layout_width="wrap_content"></TextView>
+					<TextView android:textSize="30sp" android:layout_height="wrap_content"
+						android:gravity="right" android:textAppearance="?android:attr/textAppearanceMedium"
+						android:layout_marginRight="20dp" android:id="@+id/textView3"
+						android:paddingRight="4dp" android:layout_gravity="right"
+						android:background="@drawable/cf1_round_both" android:paddingLeft="4dp"
+						android:layout_width="150dp"></TextView>
+				</LinearLayout>
+				<LinearLayout android:layout_height="wrap_content"
+					android:orientation="vertical" android:layout_width="fill_parent"
+					android:id="@+id/lineraLayout2" android:layout_marginBottom="4dp">
+					<CheckBox android:textSize="22sp" android:checked="false"
+						android:layout_marginLeft="10dp" android:text="@string/on_weekends_text"
+						android:layout_height="wrap_content" android:layout_width="wrap_content"
+						android:id="@+id/checkBox2"></CheckBox>
+					<TextView android:textSize="30sp" android:layout_height="wrap_content"
+						android:gravity="right" android:textAppearance="?android:attr/textAppearanceMedium"
+						android:layout_marginRight="20dp" android:id="@+id/textView4"
+						android:paddingRight="4dp" android:layout_gravity="right"
+						android:background="@drawable/cf1_round_both" android:paddingLeft="4dp"
+						android:layout_width="150dp"></TextView>
+				</LinearLayout>
+			</LinearLayout>
+		</LinearLayout>
+	</ScrollView>
+</RelativeLayout>

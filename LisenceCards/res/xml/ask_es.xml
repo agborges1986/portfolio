@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<lista>
+<Excersice>1<head>¿Quién necesita licencia de conducir en la Florida?</head><image></image>
+<options><item>Persona que está de visita en La Florida</item>
+<item>Personas que viven en otro Estado</item>
+<item>Persona que vive en la Florida y quiere conducir un vehículo.</item></options><solution>3</solution>
+<comment>Si usted vive en la Florida y quiere conducir un vehículo motorizado en las calles y carreteras públicas necesita una licencia de conducción.</comment><image_comment></image_comment></Excersice>
+<Excersice>2<head>¿Quién de estas personas no necesita licencia de conducir en La Florida?</head><image></image>
+<options><item>Persona con licencia válida de otro país o estado sin ser residente</item>
+<item>Persona con licencia válida de otro estado menor de 16 años.</item>
+<item>Residentes en la Florida mayores de 16 años</item></options><solution>1</solution>
+<comment>Las personas pueden conducir en la Florida sin tener una licencia de conducir de la Florida si es que tienen una licencia válida de otro Estado o país, si no son residentes y si son mayores de 16 años</comment><image_comment></image_comment></Excersice>
+<Excersice>3<head>¿Puede una persona, temporalmente, operar un tractor agrícola en la carretera sin una licencia de conducción?</head><image></image>
+<options><item>No</item>
+<item>Sí</item>
+<item>Solo en ocasiones</item></options><solution>3</solution>
+<comment>Comentario: Personas que solamente conduzcan vehículos como tractores  agrícolas o maquinaria de carreteras temporalmente pueden conducir sin una licencia.</comment><image_comment></image_comment></Excersice>
+<Excersice>4<head>¿Una persona que no sea residente y que trabaje de contrato para el gobierno de los EEUU necesita licencia en la Florida?</head><image></image>
+<options><item>No</item>
+<item>Sí</item>
+<item>Sí el contrato es por 3 meses.</item></options><solution>1</solution>
+<comment>Comentario: Cualquier persona que no sea residente y que trabaje para una empresa bajo contrato con el gobierno de los Estados Unidos no necesita licencia.</comment><image_comment></image_comment></Excersice>
+<Excersice>5<head>¿Hasta qué edad se necesita del consentimiento de los padres para obtener una licencia de conducción en La Florida?</head><image></image>
+<options><item>Hasta 18 años</item>
+<item>Hasta 16 años</item>
+<item>Hasta 22 años</item></options><solution>1</solution>
+<comment>Si usted es menor de 18 años y no está casado, su solicitud de licencia de conducir debe estar firmada por un padre o guardián legal.</comment><image_comment></image_comment></Excersice>
+<Excersice>6<head>¿Qué exámenes se requieren para obtener la licencia de aprendizaje en La Florida?</head><image></image>
+<options><item>Examen de vista y oído</item>
+<item>Examen de vista oído, señales y normas de la carretera.</item>
+<item>Examen de normas de la carretera.</item></options><solution>2</solution>
+<comment>Para obtener la Licencia de Conducir de Aprendizaje es necesario exámenes de vista, oído, señales de la carretera y normas de la carretera de la Clase E</comment><image_comment></image_comment></Excersice>
+<Excersice>7<head>¿Pueden usarse los lentes telescópicos para pasar el examen de visión en la Florida?</head><image></image>
+<options><item>Si</item>
+<item>No</item>
+<item>Solo personas mayores de 55 años</item></options><solution>2</solution>
+<comment>El uso de lentes telescópicos para cumplir con los normas no es reconocido en el Estado de la Florida.</comment><image_comment></image_comment></Excersice>
+<Excersice>8<head>¿Qué curso es requerido para personas que nunca han obtenido licencia en ninguna juridicción ?</head><image></image>
+<options><item>Curso para principiantes</item>
+<item>Curso de Aprendizaje Intensivo</item>
+<item>Curso de Educación sobre Leyes del Tráfico y Abuso de Sustancias Controladas.</item></options><solution>3</solution>
+<comment>Si usted nunca ha tenido una licencia de conducir en ninguna jurisdicción (estado o país), se le requerirá que complete un curso de educación sobre las leyes de tráfico y el abuso de sustancias controladas antes de que se le otorgue una licencia.</comment><image_comment></image_comment></Excersice>
+<Excersice>9<head>¿Cuál es el mínimo de edad requerido para obtener una licencia de aprendizaje en La Florida?</head><image></image>
+<options><item>18 años</item>
+<item>15 años</item>
+<item>16 años</item></options><solution>1</solution>
+<comment>Las leyes del estado requieren que cualquier hombre tenga al menos 18 años de edad pero menos de 26 años, para solicitar una licencia de  aprendizaje</comment><image_comment></image_comment></Excersice>
+<Excersice>10<head> ¿Si usted no se presentó a una citación por una infracción de tráfico, ¿pudiera renovar su licencia?</head><image></image>
+<options><item>No</item>
+<item>En algunos casos</item>
+<item>Si</item></options><solution>1</solution>
+<comment>No puede renovar su licencia si no se presentó a una citación efectuada por motivo de una violación de tráfico.</comment><image_comment></image_comment></Excersice>
+<Excersice>11<head>¿Si pierde la licencia y necesita una copia dónde la solicitaría?</head><image></image>
+<options><item>A través del sitio www.ReunaVengaObtenga.com</item>
+<item>En el Departamento Correccional de La Florida.</item>
+<item>En cualquier oficina de los recaudadores de impuestos</item></options><solution>3</solution>
+<comment>La licencia de reemplazo se puede obtener en cualquier oficina de los recaudadores de impuestos.</comment><image_comment></image_comment></Excersice>
+<Excersice>12<head>Dentro de cuántos días, después de la mudanza a La Florida, usted debe obtener una nueva licencia.</head><image></image>
+<options><item>10 días</item>
+<item>15 días</item>
+<item>21 días</item></options><solution>1</solution>
+<comment>Usted tiene que obtener otra licencia con su nueva dirección antes de haber transcurrido 10 días de la mudanza.</comment><image_comment></image_comment></Excersice>
+<Excersice>13<head>¿Si usted desea agregar un endoso de motocicleta a su licencia de conducir en La Florida debe?</head><image></image>
+<options><item>Completar un curso de motocicletas </item>
+<item>Proporcionar una licencia de motocicleta de Alabama</item>
+<item>Tener licencia clase A.</item></options><solution>1</solution>
+<comment>Todas las personas que soliciten un endoso de motocicleta deben tener la licencia Clase E o mayor. Tienen que completar un curso de motocicletas, Curso Básico para Conductores de Bicicletas o proporcionar  una licencia de motocicleta de otro estado (excepto Alabama)</comment><image_comment></image_comment></Excersice>
+<Excersice>14<head>¿Cuál es la edad mínima para que una persona pueda obtener una tarjeta Id de La Florida?</head><image></image>
+<options><item>5 años mínimo</item>
+<item>16 años mínimo</item>
+<item>21 años mínimo</item></options><solution>1</solution>
+<comment>Para obtener la tarjeta de identificación, tiene que tener 5 años de edad o más</comment><image_comment></image_comment></Excersice>
+<Excersice>15<head>¿Por cuánto tiempo son válidas las tarjetas de identificación de La Florida  emitidas a una persona entre 5 y 14 años?</head><image></image>
+<options><item>Por tres años</item>
+<item>Por cuatro años</item>
+<item>Por ocho años</item></options><solution>2</solution>
+<comment>Comentario: Las tarjetas de identificación  otorgadas a  personas de 5 a 14 años de edad serán válidas por cuatro años; para todos los demás serán válidas por ocho años.</comment><image_comment></image_comment></Excersice>
+<Excersice>16<head>¿Cómo los veteranos retirados pueden obtener una (V) adicionada a su licencia de conducir o Tarjeta de ID?</head><image></image>
+<options><item>Mediante el cargo de 1 $ pagadero una sola vez</item>
+<item>Solicitud formal a oficina de impuestos</item>
+<item>Mediante el pagadero de 1 $ a la semana.</item></options><solution>1</solution>
+<comment>Comentario: Todo veterano de los EE.UU. dado de baja honorablemente puede incluir una Designación de Veterano “V” incluida en su licencia de conducir o su tarjeta de identificación mediante el cargo de $1 pagadero una sola vez.</comment><image_comment></image_comment></Excersice>
+<Excersice>17<head>¿Qué le sucede a una persona cuando se ve involucrado en un accidente y causa la muerte o hiere a otra?</head><image></image>
+<options><item>Se le suspende la licencia</item>
+<item>Se le cancela</item>
+<item>Se le revoca</item></options><solution>3</solution>
+<comment>Su licencia  tendrá que  ser  REVOCADA  si es declarado culpable cuando el vehículo que conducía estuvo involucrado en un accidente que causó lesiones o muertes.</comment><image_comment></image_comment></Excersice>
+<Excersice>18<head>¿Si usted recibe 12 puntos en 12 meses por cuánto tiempo se le suspenderá la licencia?</head><image></image>
+<options><item>1 semana</item>
+<item>30 días</item>
+<item>3 meses</item></options><solution>2</solution>
+<comment>Duración de la suspensión  por puntos: 12 puntos en 12 meses, 30 días de suspensión. 18 puntos en 18 meses, 3 meses. 24 puntos en 36 meses, 1 año.</comment><image_comment></image_comment></Excersice>
+<Excersice>19<head>Usted puede ser acusado de conducir bajo la influencia del alcohol o las drogas si tiene un nivel en sangre mayor que:</head><image></image>
+<options><item>.08</item>
+<item>.06</item>
+<item>.07</item></options><solution>1</solution>
+<comment>Usted puede ser culpado por DUI si usted es detenido manejando o físicamente conduciendo o en control físico de un vehículo motorizado bajo la influencia del alcohol si tiene un nivel en la sangre de .08 o más.</comment><image_comment></image_comment></Excersice>
+<Excersice>20<head>Su juicio y su visión están afectadas después de beber alcohol. ¿Cuál es la primera que se afecta?</head><image></image>
+<options><item>la visión</item>
+<item>el juicio</item>
+<item>los dos a la vez</item></options><solution>2</solution>
+<comment>El alcohol llega al cerebro pocos minutos después de haber sido  ingeridas y afecta  las zonas de su cerebro que controlan el juicio y las habilidades físicas. El juicio es lo que primero se afecta después de tomar una bebida alcohólica.</comment><image_comment></image_comment></Excersice>
+<Excersice>21<head>¿Cuáles son las penalidades por no tomar la prueba de sangre, de orina o de aliento?</head><image></image>
+<options><item>Multa de 500 pesos.</item>
+<item>Suspensión licencia por un año.</item>
+<item>Servicio Comunitario de 50 horas.</item></options><solution>2</solution>
+<comment>Si usted se niega a someterse a las pruebas cuando se lo piden, su licencia será suspendida automáticamente por un año. Si se niega una segunda vez eso dará como resultado una suspensión de 18 meses y constituye como un delito menor de segundo grado.</comment><image_comment></image_comment></Excersice>
+<Excersice>22<head>¿Cuándo se aplica la Ley de Responsabilidad Financiera?</head><image></image>
+<options><item>Cuando causa daños a otra persona conduciendo.</item>
+<item>Cuando causa daños a otro automóvil.</item>
+<item>Cuando causa daños a su integridad física.</item></options><solution>1</solution>
+<comment>El propósito de la ley de la responsabilidad financiera es el de requerir que los propietarios y conductores de vehículos motorizados asuman la responsabilidad financiera por los daños o las lesiones que puedan causar a otras personas en un accidente automovilístico</comment><image_comment></image_comment></Excersice>
+<Excersice>23<head>Si no usted no tiene un seguro otorgado en La Florida para un vehículo de motor de cuatro ruedas que haya circulado por más de 90 días, se aplica:</head><image></image>
+<options><item>Ley de Responsabilidad Financiera.</item>
+<item>Ley de Daños Corporales.</item>
+<item>Ley de No Culpabilidad.</item></options><solution>3</solution>
+<comment>La Ley de No Culpabilidad de la Florida requiere que propietarios de los vehículos motorizados de cuatro ruedas o más (excluyendo los taxis y las limosinas), que han estado en el estado al menos 90 días compren una póliza distribuida u otorgada para que sea distribuida en este estado</comment><image_comment></image_comment></Excersice>
+<Excersice>24<head>¿A quién debe notificar el conductor cuando a causa de un accidente produce daños a la propiedad?</head><image></image>
+<options><item>Patrulla de Carreteras.</item>
+<item>Oficina del sheriff.</item>
+<item>Cualquiera de las dos.</item></options><solution>3</solution>
+<comment>Si el accidente causa lesiones, muertes, o daños a la propiedad, tiene que ser reportado. Llame a la policía, la Patrulla de Carreteras de la Florida, o la Oficina del Sheriff de su condado.</comment><image_comment></image_comment></Excersice>
+<Excersice>25<head>Si choca con un automóvil estacionado y no puede localizar al dueño qué debe hacer</head><image></image>
+<options><item>Notifique a una agencia legal</item>
+<item>Dejar nota con sus datos en el vehículo dañado.</item>
+<item>Cualquiera de ambas.</item></options><solution>3</solution>
+<comment> Asegúrese de dar su nombre, dirección y chapa de matrícula personalmente al propietario o en una nota pegada al objeto dañado. Notifique inmediatamente del accidente a la agencia legal correspondiente.</comment><image_comment></image_comment></Excersice>
+<Excersice>26<head>¿Necesita el conductor enviar un informe al Departamento de Seguridad en Carreteras y Vehículos Motorizados si un policía investiga un accidente donde esté involucrado?</head><image></image>
+<options><item>Sí</item>
+<item>En casos excepcionales</item>
+<item>No</item></options><solution>3</solution>
+<comment>Si un policía investiga el accidente, usted (el conductor) no necesita hacer un informe escrito. Si el daño a la propiedad resulta ser más de $500 y la policía no hace un informe escrito, usted debe hacer un informe escrito del accidente y presentarlo al Departamento de Seguridad de Carreteras y Vehículos Motorizados antes de que transcurran 10 días.</comment><image_comment></image_comment></Excersice>
+<Excersice>27<head>¿Cuáles son las penalidades por tirar basuras?</head><image></image>
+<options><item>Suspensión de la licencia</item>
+<item>Multa hasta 500$</item>
+<item>Pasar curso de mejoramiento del conductor.</item></options><solution>2</solution>
+<comment>El echar basura a las carreteras es un crimen. Quieren tiren basura a las calles y autopistas pueden ser multados hasta $500 o encarcelados hasta 60 días. Usted puede ser acusado de un delito menor de primer grado y ser multado hasta $1000 si vacía más de quince libras de basura.</comment><image_comment></image_comment></Excersice>
+<Excersice>28<head>¿Si un policía detiene su vehículo por una violación y encuentra un pasajero en el asiento delantero de 17 años de edad o menor que no lleve el cinturón de seguridad, quién será multado?</head><image></image>
+<options><item>El muchacho</item>
+<item>El conductor</item>
+<item>Los padres del muchacho.</item></options><solution>2</solution>
+<comment>Es ilegal operar un vehículo en este estado a menos que todos los pasajeros del vehículo menores de 18 años estén sujetados por un cinturón de seguridad o por un dispositivo para niños, sin importar su ubicación dentro del vehículo</comment><image_comment></image_comment></Excersice>
+<Excersice>29<head>¿Hasta qué edad aplica la Ley de Seguridad de Restricción de niños?</head><image></image>
+<options><item>Menos de 5 años.</item>
+<item>Menos de 7 años</item>
+<item>Menos de13 años</item></options><solution>1</solution>
+<comment>La ley requiere que todos los conductores aseguren correctamente a los niños de 5 años de edad o menores con los dispositivos de retención para niños que viajan en un automóvil como camioneta o pick-up, no importando si el vehículo  está  inscrito en este estado.</comment><image_comment></image_comment></Excersice>
+<Excersice>30<head>¿Cuál es el máximo límite de velocidad que es permitido en área residencial si no hay letrero que lo indique?</head><image></image>
+<options><item>50 MPH</item>
+<item>20 MPH</item>
+<item>30 MPH</item></options><solution>3</solution>
+<comment>Límites de Velocidad “Estándar” de la Florida son: Zonas de velocidad municipal (30MPH). Zona comercial o residencial (30MPH). Carreteras interestatales rurales (70MPH)  Autopistas de acceso limitado (70MPH). Todas las demás carreteras y autopistas (55MPH). Zonas escolares (2MPH)</comment><image_comment></image_comment></Excersice>
+<Excersice>31<head>Cuál es el máximo límite de velocidad en carreteras interestatales?</head><image></image>
+<options><item>70 MPH</item>
+<item>55 MPH</item>
+<item>60 MPH</item></options><solution>1</solution>
+<comment>Límites de Velocidad “Estándar” de la Florida son: Zonas de velocidad municipal (30MPH). Zona comercial o residencial (30MPH). Carreteras interestatales rurales (70MPH)  Autopistas de acceso limitado (70MPH). Todas las demás carreteras y autopistas (55MPH). Zonas escolares (2MPH)</comment><image_comment></image_comment></Excersice>
+<Excersice>32<head>¿Usted puede recibir una multa si maneja muy despacio?</head><image></image>
+<options><item>Sólo en autopistas.</item>
+<item>Puede ser multado.</item>
+<item>No puede ser multado</item></options><solution>2</solution>
+<comment>Usted puede recibir una multa por conducir demasiado despacio. Cuando el límite de velocidad indicado sea 70 MPH, el límite de velocidad mínimo es de 50 MPH.</comment><image_comment></image_comment></Excersice>
+<Excersice>33<head>Si se acerca a un semáforo en rojo y un oficial de tránsito le indica que debe pasar por la intersección sin parar ¿qué debe hacer?</head><image></image>
+<options><item>Obedecer las señales del tránsito</item>
+<item>Obedecer al policía </item>
+<item>Preguntar al policía</item></options><solution>2</solution>
+<comment>Si  un oficial de la policía está dirigiendo el tráfico donde hay un semáforo, obedezca al policía, no a las señales.</comment><image_comment></image_comment></Excersice>
+<Excersice>34<head>¿Cuándo debe conducir en el carril izquierdo de una carretera con 4 o más carriles con tráfico en ambas direcciones? </head><image></image>
+<options><item>Cuando va a doblar a la izquierda</item>
+<item>Cuando esté adelantando a otro vehículo</item>
+<item>En cualquier momento</item></options><solution>2</solution>
+<comment>Si la carretera tiene cuatro carriles o más, conduzca en los carriles de la derecha  excepto cuando esté adelantando a otro vehículo.</comment><image_comment></image_comment></Excersice>
+<Excersice>35<head>Después de pasar un vehículo en la carretera, ¿cuál es la distancia mínima a la que debe regresar al lado derecho si se aproxima un auto aproxima en dirección contraria?</head><image></image>
+<options><item>300 pies</item>
+<item>150 pies</item>
+<item>200 pies</item></options><solution>3</solution>
+<comment>Usted debe regresar al lado derecho de la carretera antes de estar a 200 pies de cualquier vehículo que se aproxime en dirección contraria.</comment><image_comment></image_comment></Excersice>
+<Excersice>36<head>¿Puede pasar a otro vehículo en el cruce de un ferrocarril?</head><image></image>
+<options><item>Si el tren no se aproxima</item>
+<item>Nunca</item>
+<item>Sólo si es de día.</item></options><solution>2</solution>
+<comment>Usted no puede pasar  a otro vehículo en una carretera de dos carriles con tráfico que se está  moviendo en dirección contraria a menos de 100 pies de un puente, viaducto, túnel o cruce de ferrocarril.</comment><image_comment></image_comment></Excersice>
+<Excersice>37<head>¿Cuál es la recomendación segura de guardar distancia entre un auto y otro?</head><image></image>
+<options><item>Utilizar la regla de los 2 segundos.</item>
+<item>Saber la velocidad permitida en la carretera.</item>
+<item>Utilizar un medidor de distancia.</item></options><solution>1</solution>
+<comment>A cualquier velocidad usted puede usar la regla de los dos segundos para saber si ha dejado  suficiente espacio entre usted y el vehículo delante de usted siempre que las condiciones de la carretera sean buenas.</comment><image_comment></image_comment></Excersice>
+<Excersice>38<head>¿En qué dirección se giran las ruedas al estacionar cuesta arriba cuando hay una bordillo?</head><image></image>
+<options><item>Izquierda</item>
+<item>Derecha</item>
+<item>Cualquiera de las dos.</item></options><solution>1</solution>
+<comment>En una subida con bordillo estacione girando las ruedas lejos del bordillo. O sea, en dirección izquierda.</comment><image_comment></image_comment></Excersice>
+<Excersice>39<head>¿En qué dirección se giran las ruedas cuando no hay un borde?</head><image></image>
+<options><item>En ninguna</item>
+<item>A la izquierda</item>
+<item>A la derecha.</item></options><solution>3</solution>
+<comment>En una subida sin bordillo estacione girando las ruedas hacia el bordillo. O sea, en dirección derecha.</comment><image_comment></image_comment></Excersice>
+<Excersice>40<head>¿Qué se debe hacer si se pasa la salida de una autopista donde usted quería bajarse?</head><image></image>
+<options><item>Incorporarse a la rampa de salida a última hora</item>
+<item>Seguir hasta la próxima</item>
+<item>Retornar a la salida que pretendía bajarse.</item></options><solution>2</solution>
+<comment>No trate de incorporarse a una rampa de salida a última hora. Si pasa la salida en la que tenía que bajarse, usted debe seguir hasta la próxima.</comment><image_comment></image_comment></Excersice>
+<Excersice>41<head>¿A qué hora deberá utilizar las luces delanteras?</head><image></image>
+<options><item>Días nublados.</item>
+<item>Entre el anochecer o el amanecer.</item>
+<item>Cuando atardece.</item></options><solution>2</solution>
+<comment>Use siempre sus faros delanteros (luces cortas o luces largas) entre las horas del anochecer y el amanecer</comment><image_comment></image_comment></Excersice>
+<Excersice>42<head>¿Al acercarse a otro vehículo por detrás por la noche, dentro de cuantos pies debe usted bajar las luces altas?</head><image></image>
+<options><item>400 pies</item>
+<item>500 pies</item>
+<item>300 pies</item></options><solution>3</solution>
+<comment>Cuando esté detrás de otros vehículos, use las luces cortas cuando se encuentre a una distancia de 300 pies o menos del vehículo delante de usted.  </comment><image_comment></image_comment></Excersice>
+<Excersice>43<head>¿A cuántos pies de un vehículo que se aproxima usted debe bajar las luces delanteras?</head><image></image>
+<options><item>A menos de 500 pies</item>
+<item>A menos de 300 pies</item>
+<item>A menos de 150 pies</item></options><solution>1</solution>
+<comment>No use las luces largas a  menos de 500 pies  de los vehículos que se aproximan en dirección contraria</comment><image_comment></image_comment></Excersice>
+<Excersice>44<head>¿Cuándo se puede conducir solamente con las luces de estacionamiento, en lugar de las luces delanteras?</head><image></image>
+<options><item>Cuando llueve</item>
+<item>A la salida del sol </item>
+<item>Nunca</item></options><solution>3</solution>
+<comment>Las luces de estacionamiento no satisfacen los requisitos de esta ley.para conducir solamente con ellas.</comment><image_comment></image_comment></Excersice>
+<Excersice>45<head>¿Al conducir bajo la lluvia, la niebla o el humo durante el día, cuáles luces enciendes?</head><image></image>
+<options><item>Luces cortas</item>
+<item>Luces de emergencia.</item>
+<item>Luces largas.</item></options><solution>1</solution>
+<comment>Es mejor no conducir cuando hay neblina o humo. Si tiene que hacerlo, reduzca la velocidad, encienda las luces cortas y esté listo para frenar de pronto.</comment><image_comment></image_comment></Excersice>
+<Excersice>46<head>¿Deben los conductores detenerse o ceder el paso a peatones que cruzan la calle?</head><image></image>
+<options><item>Siempre</item>
+<item>Si son ciegos solamente</item>
+<item>Si son ancianos.</item></options><solution>1</solution>
+<comment>Es responsabilidad del conductor en hacer todo lo posible por evitar la colisión con peatones. Ciclistas, patinadores y patinetas en un paso de peatones o en la entrada se consideran peatones.</comment><image_comment></image_comment></Excersice>
+<Excersice>47<head>¿Qué debes hacer cuando ves a un peatón con un bastón blanco en la calle delante de usted?</head><image></image>
+<options><item>Tocar la bocina para advertir.</item>
+<item>Ceder el derecho de vía</item>
+<item>Pasar con cuidado.</item></options><solution>2</solution>
+<comment>Los conductores siempre deben ceder el derecho de vía a las personas que son ciegas. Cuando un peatón esté cruzando una calle o carretera siendo guiado por un perro o un bastón blanco (bastón blanco con una punta roja) los vehículos se deben de detener por completo</comment><image_comment></image_comment></Excersice>
+<Excersice>48<head>¿Cuál es la distancia mínima que un automovilista debe mantenerle a un ciclista?</head><image></image>
+<options><item>10 pies</item>
+<item>5 pies</item>
+<item>3 pies</item></options><solution>3</solution>
+<comment>La Ley de la Florida requiere a los motociclistas darle al ciclista un mínimo de 3 pies de distancia y reducir su velocidad.</comment><image_comment></image_comment></Excersice>
+<Excersice>49<head>¿Cuándo puede un conductor que se está preparando a girar a la derecha, pasar al carril de la bicicleta?</head><image></image>
+<options><item>En cualquier momento</item>
+<item>En cualquier momento siempre que prenda su señal</item>
+<item>Cuando no haya ningún ciclista en ese carril.</item></options><solution>3</solution>
+<comment>Al hacer un giro a la derecha, prenda su señal, revise que no haya ciclistas Cuando la línea de bicicleta esté presente ponga su señal para girar y ceda el camino a cualquier ciclista que esté en la línea de bicicleta y después de cruzar entre usted para voltear a la derecha y seguidamente haga su derecha.</comment><image_comment></image_comment></Excersice>
+<Excersice>50<head>Cuando se prepara para girar a la derecha en un carril con bicicleta Ud. debe:</head><image></image>
+<options><item>Prender señal de derecha, ceder paso a cualquier ciclista y luego girar.</item>
+<item>Prender señal de giro y girar inmediatamente.</item>
+<item>Ceder paso al primer ciclista y girar.</item></options><solution>1</solution>
+<comment>Al hacer un giro a la derecha, prenda su señal, revise que no haya ciclistas Cuando la línea de bicicleta esté presente ponga su señal para girar y ceda el camino a cualquier ciclista que esté en la línea de bicicleta y después de cruzar entre usted para voltear a la derecha y seguidamente haga su derecha</comment><image_comment></image_comment></Excersice>
+<Excersice>51<head>¿En una carretera los conductores de bicicleta y de ciclomotor tiene las mismas obligaciones que los demás conductores?</head><image></image>
+<options><item>Sí</item>
+<item>No</item>
+<item>Existen excepciones.</item></options><solution>1</solution>
+<comment>Personas manejando ciclomotores tienen los mismos derechos y deberes que los conductores de vehículos.</comment><image_comment></image_comment></Excersice>
+<Excersice>52<head>¿Quién está obligado a usar casco de bicicleta?</head><image></image>
+<options><item>Todos los ciclistas.</item>
+<item>Ciclistas y pasajeros menores de 16 años.</item>
+<item>Todos los pasajeros.</item></options><solution>2</solution>
+<comment>Operadores de 16 años de edad o más no están obligados a llevar casco</comment><image_comment></image_comment></Excersice>
+<Excersice>53<head>¿En una carretera dividida por una barrera elevada los vehículos que viajan en dirección opuesta deben detenerse si un autobús escolar está dejando niños?</head><image></image>
+<options><item>Si</item>
+<item>No.</item>
+<item>En raras ocasiones.</item></options><solution>2</solution>
+<comment>Si la carretera está dividida por una barrera elevada o por una división  sin pavimentar de por lo menos 5 pies de ancho, usted no tiene que parar si usted se está moviendo en dirección opuesta del autobús escolar.</comment><image_comment></image_comment></Excersice>
+<Excersice>54<head>Si un autobús escolar se detiene para bajar niños en una carretera de 4 carriles dividida solamente por un tramo de pavimento de 4 pies, ¿deben detenerse los vehículos que viajan en dirección contraria?</head><image></image>
+<options><item>Solo si es de noche.</item>
+<item>Sí.</item>
+<item>No.</item></options><solution>2</solution>
+<comment>Sólo se permite seguir si la carretera está dividida por una barrera elevada o por una  división  sin pavimentar de por lo menos 5 pies de ancho.</comment><image_comment></image_comment></Excersice>
+<Excersice>55<head>Cuando niños o guardias de cruces escolares están presentes en un paso de peatones, ¿qué debe hacer el conductor?</head><image></image>
+<options><item>Ceder el paso y detenerse en la línea de alto.</item>
+<item>Ceder paso con una marcha lenta</item>
+<item>Detenerse dentro del cruce de peatones</item></options><solution>1</solution>
+<comment>Cuando los niños (caminan, patinan o andan en bicicleta) o guardias de cruces escolares están presentes en un paso de peatones, los conductores deben ceder el paso o detenerse en la línea del alto marcada y sin detenerse dentro del cruce de peatones.</comment><image_comment></image_comment></Excersice>
+<Excersice>56<head>¿Qué significado tiene la luz roja en el tránsito?</head><image></image>
+<options><item>Ceder paso a los conductores de la otra vía.</item>
+<item>Parada completa en línea de stop.</item>
+<item>Conducir con cuidado.</item></options><solution>2</solution>
+<comment>La Luz Roja indica pare completamente en la línea marcada “STOP” o antes de entrar en el paso de peatones o la intersección. Cualquier persona que es condenada por llevarse la luz roja tendrá que completar el curso básico para el mejoramiento del conductor</comment><image_comment></image_comment></Excersice>
+<Excersice>57<head>¿Qué significado tiene la luz roja intermitente en el tránsito?</head><image></image>
+<options><item>El mismo que una luz roja normal.</item>
+<item>Precaución en la vía.</item>
+<item>Continuar la marcha.</item></options><solution>1</solution>
+<comment>Una luz roja intermitente significa  lo mismo que una señal de “pare”. Se utiliza en las intersecciones peligrosas.</comment><image_comment></image_comment></Excersice>
+<Excersice>58<head>Después de hacer un pare completo en luz roja, ¿puede el conductor voltear a la derecha si el camino está libre?</head><image></image>
+<options><item>Siempre</item>
+<item>Sólo si no hay señales de NO TURN ON RED</item>
+<item>Nunca.</item></options><solution>2</solution>
+<comment>Después de parar, podrá doblar a la derecha con la luz roja en la mayoría de las intersecciones si la vía está libre y no existen señales de “NO TURN ON RED” (no doblar con la luz roja), el cual tiene que obedecer</comment><image_comment></image_comment></Excersice>
+<Excersice>59<head>¿Qué debe hacer cuando ve una flecha verde y el semáforo muestra luz roja al mismo tiempo?</head><image></image>
+<options><item>Parar la marca completamente.</item>
+<item>Virar en la dirección de la flecha si está en el carril apropiado.</item>
+<item>Virar en la dirección de la flecha.</item></options><solution>2</solution>
+<comment>Una flecha verde, que señala hacia la izquierda o derecha, significa que puede doblar en la dirección de la flecha. Si la luz roja está encendida al mismo tiempo, usted debe estar en el carril apropiado para hacer dicho viraje y deberá ceder el paso a los vehículos y a los peatones que están en la intersección.</comment><image_comment></image_comment></Excersice>
+<Excersice>60<head>¿Debe usted proceder con precaución cuando se aproxima a una luz amarilla intermitente?</head><image></image>
+<options><item>Siempre.</item>
+<item>En raras ocasiones.</item>
+<item>Solo para girar.</item></options><solution>1</solution>
+<comment>Pare si puede hacerlo de forma segura. Pronto la luz cambiará a rojo</comment><image_comment></image_comment></Excersice>
+<Excersice>61<head>Si más de un vehículo se aproxima a una señal de pare de 4 vías y usted es el primero en llegar y detenerse, ¿tiene usted el derecho de avanzar primero?</head><image></image>
+<options><item>Sí</item>
+<item>Si está a la derecha.</item>
+<item>No</item></options><solution>1</solution>
+<comment>El primer vehículo en llegar a la intersección debe ser el primero en proceder. Si dos vehículos llegan a la intersección a la misma vez, el conductor de la izquierda debe ceder el paso al conductor de la derecha.</comment><image_comment></image_comment></Excersice>
+<Excersice>62<head>Los letreros de YIELD RIGTH-OF-WAY se encuentran usualmente en:</head><image></image>
+<options><item>Carreteras principales.</item>
+<item>Carreteras secundarias</item>
+<item>Carreteras secundarias que conducen a principales.</item></options><solution>3</solution>
+<comment>Los letreros de ceder el paso se colocan generalmente donde las carreteras secundarias conducen a las carreteras principales.</comment><image_comment></image_comment></Excersice>
+<Excersice>63<head>¿Qué significa una línea amarilla sólida a la derecha de la línea central de la carretera?</head><image></image>
+<options><item>Prohibición de pasar o cruzar en ese carril.</item>
+<item>Delimitación del carril.</item>
+<item>Prohibición de pasar bicicletas.</item></options><solution>1</solution>
+<comment>Una línea amarilla continua a mano derecha de una línea central amarilla intermitente significa que está prohibido pasar a otro vehículo o cruzar en ese carril, excepto cuando se dobla a la izquierda</comment><image_comment></image_comment></Excersice>
+<Excersice>64<head>¿Qué significa una doble línea amarilla continua en el centro de la carretera?</head><image></image>
+<options><item>Carretera de un solo sentido.</item>
+<item>Prohibición de cruzar líneas en ambas direcciones.</item>
+<item>Prohibición de girar izquierda.</item></options><solution>2</solution>
+<comment>Las líneas amarillas dobles y continuas  prohíben que los vehículos en ambas direcciones crucen las líneas.</comment><image_comment></image_comment></Excersice>
+<Excersice>65<head>¿Qué significa una línea blanca discontinua en la carretera?</head><image></image>
+<options><item>Prohibición de cruzar carril.</item>
+<item>Separación de dos carriles que se mueven en la misma dirección.</item>
+<item>Separación del borde de un carril de tránsito.</item></options><solution>2</solution>
+<comment>Una línea blanca discontinua separa dos carriles de tránsito que se mueve en la misma dirección. Una vez que haya dado la señal, si es seguro hacerlo, puede cruzar esta línea al cambiar de carril.</comment><image_comment></image_comment></Excersice>
+<Excersice>66<head>¿Cuándo se presiona un freno, cuál luz debe encenderse?</head><image></image>
+<options><item>Luz blanca para chapa de licencia.</item>
+<item>Dos luces rojas traseras.</item>
+<item>Dos luces rojas traseras de freno.</item></options><solution>3</solution>
+<comment>Su vehículo tiene que tener dos luces rojas traseras de freno. Tienen que ser visibles a 300 pies durante el día y tienen que iluminarse al aplicar el freno.</comment><image_comment></image_comment></Excersice>
+<Excersice>67<head>¿Una luz blanca que haga visible la chapa es un equipo?</head><image></image>
+<options><item>Requerido</item>
+<item>No requerido</item>
+<item>No permitido</item></options><solution>1</solution>
+<comment>Su vehículo tiene que tener una luz blanca que haga visible la chapa de la licencia desde 50 pies (la chapa tiene que mantenerse limpia).</comment><image_comment></image_comment></Excersice>
+<Excersice>68<head>¿A cuántos pies hacia atrás debe usted ser capaz de ver objetos en el espejo retrovisor?</head><image></image>
+<options><item>Mínimo 200 pies por detrás.</item>
+<item>Mínimo 100 pies por detrás.</item>
+<item>Mínimo 150 pies por detrás.</item></options><solution>1</solution>
+<comment>Su vehículo tiene que tener por los menos un espejo retrovisor que permita ver la carretera a un mínimo de 200 pies por detrás del vehículo.</comment><image_comment></image_comment></Excersice>
+<Excersice>69<head>¿Si el remolque cubre la luz del freno del vehículo siendo remolcado, donde debe haber una luz de freno?</head><image></image>
+<options><item>En la parte trasera del remolque.</item>
+<item>En los laterales del remolque.</item>
+<item>En la parte superior derecha del remolque.</item></options><solution>1</solution>
+<comment>Cada remolque, semirremolque o remolque de postes que pese 3,000 libras o menos debe tener, en la parte trasera, dos reflectores, uno a cada lado. Cada remolque tiene que tener una luz de freno si el remolque cubre las luces de frenos del vehículo que remolca.</comment><image_comment></image_comment></Excersice>
+<Excersice>70<head>¿Dónde se montan los reflectores en los remolques?</head><image></image>
+<options><item>Un reflector a cada lateral.</item>
+<item>Un solo reflector delantero.</item>
+<item>Dos reflectores traseros, uno a cada lado.</item></options><solution>3</solution>
+<comment>Cada remolque, semirremolque o remolque de postes que pese 3,000 libras o menos debe tener, en la parte trasera, dos reflectores, uno a cada lado</comment><image_comment></image_comment></Excersice>
+<Excersice>71<head>Cuándo un vehículo está siendo remolcado por medio de una cadena. ¿Qué es lo que se requiere mostrar en la cadena?</head><image></image>
+<options><item>Un cartel en el remolque.</item>
+<item>Una bandera blanca cuadrada.</item>
+<item>Una bandera amarilla cuadrada.</item></options><solution>2</solution>
+<comment>Si utiliza una cadena, una cuerda o un cable como conexión de remolque, debe amarrar a la conexión una bandera blanca de por lo menos 12 pulgadas cuadradas</comment><image_comment></image_comment></Excersice>
+<Excersice>72<head>¿Cuán larga debe ser la barra de remolque entre un vehículo que remolca y el vehículo remolcado?</head><image></image>
+<options><item>No debe tener más de 15 pies de largo.</item>
+<item>No debe tener más de 10 pies de largo.</item>
+<item>No debe tener más de 8 pies de largo.</item></options><solution>1</solution>
+<comment>La barra de tracción o la conexión del remolcador debe ser lo suficientemente fuerte para tirar de todo el peso remolcado. No debe tener más de 15 pies de largo, a menos que esté remolcando postes, tuberías y maquinaria u otros objetos que no pueden desarmarse con facilidad. </comment><image_comment></image_comment></Excersice>
+<Excersice>73<head> Si transporta arena, cal, grava, sílice o basura en un equipo de carga usted debe:</head><image></image>
+<options><item>Proteger la carga con cadenas.</item>
+<item>Señalizar con banderas y proteger la carga.</item>
+<item>Utilizar lona para proteger la carga.</item></options><solution>3</solution>
+<comment>Debe usar una lona bien ajustada cuando esté transportando cargas que puedan caer o ser sopladas a la carretera. Ejemplos: tierra,  arena, cal, grava, sílice o basura.</comment><image_comment></image_comment></Excersice>
+<Excersice>74<head> Asuma que una carga se extiende 4 o más pies más allá de la plataforma o carrocería de un vehículo conducido durante el día en una carretera. ¿Cómo debe marcarse?</head><image></image>
+<options><item>Banderas blancas en la parte trasera externa y los laterales.</item>
+<item>Banderas rojas en los laterales.</item>
+<item>Banderas rojas en la parte donde su usan las luces rojas en la noche.</item></options><solution>3</solution>
+<comment>Cualquier carga que sobresalga 4 pies o más hacia atrás fuera de la plataforma o carrocería del vehículo cargado, debe estar marcada claramente</comment><image_comment></image_comment></Excersice>
+<Excersice>75<head>¿Cuál es la manera correcta de usar antibloqueo de frenos en una situación de emergencia?</head><image></image>
+<options><item>Bombeando frenos.</item>
+<item>Presionar fuerte hacia abajo el pedal del freno y sostenerlo.</item>
+<item>Girar el volante para salir del peligro.</item></options><solution>2</solution>
+<comment>Comentario</comment><image_comment></image_comment></Excersice>
+<Excersice>76<head>¿Qué evita el sistema de anti-bloqueo de freno cuando se utiliza durante una parada de emergencia?  </head><image></image>
+<options><item>Patinazos y mayor pérdida del control.</item>
+<item>Desgaste en los frenos convencionales.</item>
+<item>Roturas en el sistema de frenos.</item></options><solution>1</solution>
+<comment>os frenos antibloqueo impiden los patinazos y permiten a los conductores dirigir al vehículo durante una situación de emergencia y de necesidad de frenar. El ABS puede ayudar a mejorar la estabilidad del vehículo, la capacidad de controlar el volante y la capacidad para frenar (la distancia necesaria para detener el vehículo).</comment><image_comment></image_comment></Excersice>
+<Excersice>77<head>  Usted debe encender las luces cortas cuando llueve o hay niebla</head><image></image>
+<options><item>Sí debo usarlas en esa situación.</item>
+<item>Solo en ocasiones de mucha lluvia.</item>
+<item>No debo usar las luces largas en esa situación.</item></options><solution>1</solution>
+<comment>Comentario</comment><image_comment></image_comment></Excersice>
+<Excersice>78<head>El límite de velocidad permitido en la Florida para carreteras interestatales rurales es:</head><image></image>
+<options><item>30 MPH</item>
+<item>70 MPH</item>
+<item>20 MPH </item></options><solution>2</solution>
+<comment>Los límites de velocidad pueden cambiarse en otras carreteras de carriles múltiples y en las áreas donde las condiciones requieren velocidades más bajas. Observe y obedezca los letreros de velocidad, ya que de una zona a otra, a lo largo de ciertas carreteras o autopistas, puede haber cambios frecuentes.</comment><image_comment></image_comment></Excersice>
+<Excersice>79<head>El  límite de velocidad permitido en la Florida para zonas escolares es:</head><image></image>
+<options><item>30 MPH</item>
+<item>70 MPH</item>
+<item>20 MPH </item></options><solution>3</solution>
+<comment>Los límites de velocidad pueden cambiarse en otras carreteras de carriles múltiples y en las áreas donde las condiciones requieren velocidades más bajas. Observe y obedezca los letreros de velocidad, ya que de una zona a otra, a lo largo de ciertas carreteras o autopistas, puede haber cambios frecuentes.</comment><image_comment></image_comment></Excersice>
+<Excersice>80<head>El límite de velocidad permitido en la Florida para zonas de velocidad municipal es:</head><image></image>
+<options><item>30 MPH</item>
+<item>70 MPH</item>
+<item>20 MPH </item></options><solution>1</solution>
+<comment>Los límites de velocidad pueden cambiarse en otras carreteras de carriles múltiples y en las áreas donde las condiciones requieren velocidades más bajas. Observe y obedezca los letreros de velocidad, ya que de una zona a otra, a lo largo de ciertas carreteras o autopistas, puede haber cambios frecuentes.</comment><image_comment></image_comment></Excersice>
+<Excersice>81<head>Si a usted lo para un oficial de la policía usted debe:</head><image></image>
+<options><item>Llevar el vehículo al extremo derecho. Apagar el motor.</item>
+<item>Reducir la velocidad según lo establecido en la carretera.</item>
+<item>Estacionar inmediatamente.</item></options><solution>1</solution>
+<comment>Si lo para un agente de la policía, lleve su vehículo hacia el extremo derecho de la carretera y, si es posible, fuera del tráfico. Apague el motor. De noche, cambie los faros a las luces de estacionamiento. Siéntese tranquilo y siga las instrucciones del  oficial. </comment><image_comment></image_comment></Excersice>
+<Excersice>82<head> A que se le denomina una intersección libre:</head><image></image>
+<options><item>Aquella en la que usted tiene preferencia para pasar.</item>
+<item>Las intersecciones que están señalizadas como FREE</item>
+<item>Las intersecciones sin señales de tráfico</item></options><solution>3</solution>
+<comment>Una intersección libre es aquella sin señales de tráfico. </comment><image_comment></image_comment></Excersice>
+<Excersice>83<head>En las intersecciones libres usted debe ceder el paso si:</head><image></image>
+<options><item>Entra o cruza una carretera estatal desde una carretera secundaria.</item>
+<item>Llega de último a la intersección.</item>
+<item>Está conduciendo a una velocidad de 20 MPH.</item></options><solution>1</solution>
+<comment>Una intersección libre usted debe ceder el paso si: un vehículo ya está en la intersección. Entra o cruza una carretera estatal desde  una carretera  secundaria. Entra a una carretera pavimentada desde una carretera que no está pavimentada. Usted piensa doblar a la izquierda y un vehículo se aproxima en dirección contraria.</comment><image_comment></image_comment></Excersice>
+<Excersice>84<head>En una rotonda  los conductores que entran a ella deben:</head><image></image>
+<options><item>Seguir las señales del tráfico</item>
+<item>Ceder el paso al tráfico que se encuentra en la rotonda</item>
+<item>Ocupar el carril derecho.</item></options><solution>2</solution>
+<comment>Los conductores entrando en la rotonda tienen que cederle el paso al tráfico que ya se encuentra dentro del círculo en la rotonda y que se está moviendo  en sentido contrario a las agujas del reloj. </comment><image_comment></image_comment></Excersice>
+<Excersice>85<head> Si usted está saliendo de una rotonda y se encuentra un peatón en el cruce de salida debe:</head><image></image>
+<options><item>Ceder el paso al peatón.</item>
+<item>Seguir dentro de la rotonda.</item>
+<item>Encender los indicadores izquierdos.</item></options><solution>1</solution>
+<comment>Antes de entrar o salir la rotonda, los conductores deben cederles el paso a los peatones en los cruces. Los ciclistas pueden usar el carril de la rotonda, o pueden usar la acera.</comment><image_comment></image_comment></Excersice>
+<Excersice>86<head>En una vía de un solo sentido y dos carriles. En una esquina el carril correcto para doblar a la derecha es:</head><image></image>
+<options><item>El carril de la izquierda</item>
+<item>El carril de la derecha.</item>
+<item>Cualquier carril</item></options><solution>2</solution>
+<comment>Proceda al carril correcto a medida que se acerca a la intersección. El carril que es correcto para doblar a la derecha es el carril junto al borde derecho de la carretera.</comment><image_comment></image_comment></Excersice>
+<Excersice>87<head>En la figura, ¿cuál de los autos va a hacer un movimiento indebido</head><image>ochenta_y_siete</image>
+<options><item>A</item>
+<item>B</item>
+<item>C</item></options><solution>2</solution>
+<comment>En  una carretera de dos vías con tráfico en una direccion, el intento para doblar a la izquierda debe hacerse en la mitad izquierda de la carretera.</comment><image_comment></image_comment></Excersice>
+<Excersice>88<head>Si llega a una intersección donde quiere doblar derecha o izquierda y no está en el carril apropiado usted debe:</head><image></image>
+<options><item>Tratar de ubicarse en el carril apropiado.</item>
+<item>Doblar de todas maneras.</item>
+<item>Seguir hasta la siguiente intersección y doblar desde el carril apropiado.</item></options><solution>3</solution>
+<comment>Comentario: Si usted llega a una intersección donde quiere doblar a la derecha o a la izquierda y no está en el carril apropiado, tendrá que seguir hasta la siguiente intersección.  Y después  doble desde el carril apropiado.</comment><image_comment></image_comment></Excersice>
+<Excersice>89<head>Si usted maneja el auto A de la figura está en el carril apropiado para doblar hacia el carril</head><image>ochenta_y_nueve</image>
+<options><item>1</item>
+<item>2</item>
+<item>3</item></options><solution>2</solution>
+<comment>En  una carretera de dos vías con tráfico en ambas direcciones, el intento para doblar a la izquierda debe hacerse en la mitad derecha de la carretera lo más cerca posible de la línea central.</comment><image_comment></image_comment></Excersice>
+<Excersice>90<head>Si usted necesita hacer un U-Turn y la carretera es muy estrecha y no puede seguir adelante usted debe:</head><image></image>
+<options><item>Dar marcha atrás hasta la intersección más cercana.</item>
+<item>Tratar de hacer un viraje de 3 puntos.</item>
+<item>Utilizar parte de la acera para hacer el U- Turn.</item></options><solution>2</solution>
+<comment>Emplee el viraje de tres puntos sólo si la carretera es demasiado estrecha para  hacer un cambio de dirección (U-turn) y no puede dar la vuelta a la cuadra. Nunca haga un viraje de tres puntos o un cambio de dirección (U-turn) en una curva o una subida, o cuando existe un letrero indicando que está prohibido el cambio de dirección.</comment><image_comment></image_comment></Excersice>
+<Excersice>91<head>En una situación de emergencia sin luces la señal de emergencia de la figura indica a los vehículos traseros que:</head><image>noventa_y_uno</image>
+<options><item>Usted va a doblar a la derecha.</item>
+<item>Que los vehículos pueden pasarlo.</item>
+<item>Que pare o reduzca la velocidad.</item></options><solution>1</solution>
+<comment>Usted debe hacer señales con la mano o usar  los indicadores de dirección para indicar que va a doblar. Los indicadores de dirección son requeridos al cambiar de carril. Es contra la ley usar los indicadores para indicarles a los conductores detrás de usted que pueden pasar.</comment><image_comment></image_comment></Excersice>
+<Excersice>92<head>Si  ve reflectantes  rojos frente a usted en las líneas del carril:</head><image></image>
+<options><item>Está en el carril equivocado.</item>
+<item>Reduzca la velocidad.</item>
+<item>Conduzca normalmente.</item></options><solution>1</solution>
+<comment>Si  ve reflectantes  rojos frente a usted en las líneas del carril usted está sobre el lado equivocado de la carretera. ¡Cámbiese! Los reflectantes  rojos siempre  significan que usted está viajando contra el  tráfico por el carril equivocado y podría tener una colisión de impacto frontal.</comment><image_comment></image_comment></Excersice>
+<Excersice>93<head>La regla de los Dos Segundos se utiliza para:</head><image></image>
+<options><item>Frenar en una autopista</item>
+<item>Saber la distancia suficiente entre usted y vehículo delante.</item>
+<item>Distancia para frenar delante de un camión.</item></options><solution>2</solution>
+<comment>A cualquier velocidad  usted  puede usar la regla de los dos segundos para saber si ha dejado  suficiente  espacio entre usted y el vehículo delante de usted.</comment><image_comment></image_comment></Excersice>
+<Excersice>94<head>¿Es permitido en La Florida estacionar al lado de la carretera junto a otro auto (Doble fila)?</head><image></image>
+<options><item>Si</item>
+<item>No</item>
+<item>A veces.</item></options><solution>2</solution>
+<comment>No Se Permite Estacionar en el lado de la carretera junto a otro que esté estacionado (estacionar en doble fila).</comment><image_comment></image_comment></Excersice>
+<Excersice>95<head>¿Es permitido en La Florida estacionar a más de 20 pies de una intersección?</head><image></image>
+<options><item>Si</item>
+<item>No</item>
+<item>A veces.</item></options><solution>1</solution>
+<comment>No Se Permite Estacionar a menos de 20 pies de una intersección y a menos de 20 pies de la entrada de una estación de bomberos, de ambulancias o de una brigada de rescate.</comment><image_comment></image_comment></Excersice>
+<Excersice>96<head> ¿Es permitido en La Florida estacionar a menos de 50 pies de un cruce de ferrocarril?</head><image></image>
+<options><item>Si</item>
+<item>No</item>
+<item>A veces.</item></options><solution>2</solution>
+<comment>No Se Permite Estacionar a menos de 50 pies de un cruce de ferrocarril.</comment><image_comment></image_comment></Excersice>
+<Excersice>97<head>¿Es permitido en La Florida estacionar en sendas destinadas a las bicicletas?</head><image></image>
+<options><item>Si</item>
+<item>No</item>
+<item>A veces.</item></options><solution>2</solution>
+<comment>No Se Permite Estacionar en el paso de peatones, en las aceras y en sendas para bicicletas</comment><image_comment></image_comment></Excersice>
+<Excersice>98<head>Si usted está estacionado a la orilla de la carretera, en las afueras de una ciudad o pueblo, ¿debe usar las luces de estacionamiento?</head><image></image>
+<options><item>Siempre</item>
+<item>Si es de noche</item>
+<item>Nunca</item></options><solution>2</solution>
+<comment>Las luces de estacionamiento se deben usar por la noche en cualquier vehículo que esté estacionado en una carretera o en la orilla de una carretera  fuera de las ciudades y los pueblos.</comment><image_comment></image_comment></Excersice>
+<Excersice>99<head>¿Qué necesita una persona discapacitada para estacionar su vehículo en calles o carreteras públicas sin tener que pagar cargos de estacionamiento?</head><image></image>
+<options><item>Un permiso de estacionamiento</item>
+<item>Un documento de discapacitado</item>
+<item>Pagar un impuesto mensual de 10 dólares</item></options><solution>1</solution>
+<comment>Las personas  con impedimentos de movilidad  no tienen que pagar cargos de estacionamiento en ninguna calle o carretera pública. Para estacionar el vehículo en estos espacios, la persona necesita obtener un permiso de estacionamiento.</comment><image_comment></image_comment></Excersice>
+<Excersice>100<head>¿Qué necesita la persona discapacitada para estacionar en espacios reservados? </head><image></image>
+<options><item>Un carnet de discapacitado</item>
+<item>Una chapa especial autorizada</item>
+<item>Una licencia de discapacitado</item></options><solution>2</solution>
+<comment>Para estacionar el vehículo en espacios reservados la persona discapacitada debe tener una chapa espacial autorizada. </comment><image_comment></image_comment></Excersice>
+<Excersice>101<head>¿Dónde pueden obtenerse los Permisos Especiales de Estacionamiento?</head><image></image>
+<options><item>En la oficina del recaudador de impuestos</item>
+<item>En el Departamento Correccional de la Florida</item>
+<item>En el Departamento de la Policía</item></options><solution>1</solution>
+<comment>Estos permisos pueden obtenerse en la oficina del recaudador de impuestos.</comment><image_comment></image_comment></Excersice>
+<Excersice>102<head>¿Cada cuántos años deben renovarse estos Permisos Especiales de Estacionamiento? </head><image></image>
+<options><item>Cada 6</item>
+<item>Cada 4</item>
+<item>Cada 8</item></options><solution>2</solution>
+<comment>Estos permisos pueden obtenerse en la oficina del recaudador de impuestos y se deben renovar cada cuatro años.</comment><image_comment></image_comment></Excersice>
+<Excersice>103<head>Las autopistas son carreteras de múltiples carriles que:</head><image></image>
+<options><item>Que poseen sólo carriles en una dirección.</item>
+<item>No poseen señales de STOP, semáforos o cruces de ferrocarriles</item>
+<item>Poseen tres carriles en cada dirección.</item></options><solution>2</solution>
+<comment>Las autopistas -también llamadas carreteras interestatales, “freeways” y “turnpikes”- son carreteras de carriles múltiples sin señales de  STOP, semáforos, o cruces de  ferrocarriles.</comment><image_comment></image_comment></Excersice>
+<Excersice>104<head>Si usted posee una motoneta de 150 centímetros cúbicos, ¿puede viajar por una autopista?</head><image></image>
+<options><item>No</item>
+<item>Si </item>
+<item>Con un permiso especial</item></options><solution>1</solution>
+<comment>Los peatones, los “autoestopistas” (hitchikers), las bicicletas, los vehículos tirados por animales, las motocicletas y lasmotonetas motorizadas con un desplazamiento de 150 centímetros cúbicos o menos no son permitidos  en las autopistas.</comment><image_comment></image_comment></Excersice>
+<Excersice>105<head>En una rampa de entrada a una autopista usted debe:</head><image></image>
+<options><item>Poner su indicador de dirección y observar el tránsito en la autopista</item>
+<item>Acelerar rápidamente para unirse al tráfico</item>
+<item>Desacelerar el carro y poner indicador de dirección</item></options><solution>1</solution>
+<comment>En la rampa de entrada, comience a observar si tiene suficiente espacio para incorporarse al tránsito.  Ponga su indicador de dirección.</comment><image_comment></image_comment></Excersice>
+<Excersice>106<head>El carril de aceleración en la entrada a una autopista se utiliza para</head><image></image>
+<options><item>Observar el tráfico de la autopista</item>
+<item>Tratar de ajustar la velocidad del auto para incorporarse</item>
+<item>Desacelerar para salir de una autopista</item></options><solution>2</solution>
+<comment>Cuando la rampa se endereza y se convierte en el carril de aceleración, aumente la velocidad. Trate de ajustar su velocidad para que se pueda incorporar al tránsito cuando llegue al final del carril de aceleración.</comment><image_comment></image_comment></Excersice>
+<Excersice>107<head>Si la autopista tiene tres carriles y usted conduce a velocidades bajas utilice</head><image></image>
+<options><item>El carril del centro</item>
+<item>El carril izquierdo</item>
+<item>El carril derecho</item></options><solution>3</solution>
+<comment>Conduzca en el carril derecho y pase a un vehículo por el carril izquierdo. Si hay tres carriles, use el carril derecho para conducir a velocidades bajas, y el izquierdo para pasar a un vehículo</comment><image_comment></image_comment></Excersice>
+<Excersice>108<head>Utilice siempre el carril izquierdo de una autopista para</head><image></image>
+<options><item>Conducir a velocidades bajas</item>
+<item>Pasar a otro vehículo</item>
+<item>Estacionarse</item></options><solution>2</solution>
+<comment>Conduzca en el carril derecho y pase a un vehículo por el carril izquierdo. Si hay tres carriles, use el carril derecho para conducir a velocidades bajas, y el izquierdo para pasar a un vehículo</comment><image_comment></image_comment></Excersice>
+<Excersice>109<head>Las luces cortas sólo son eficaces para velocidades hasta:</head><image></image>
+<options><item>20 y 25 MPH</item>
+<item>30 y 35 MPH</item>
+<item>25 y 30 MPH</item></options><solution>1</solution>
+<comment>Las luces cortas sólo son eficaces para velocidades hasta 20 y 25 millas por hora. Usted debe tener cuidado especialmente cuando conduce a velocidades más rápidas, ya que será incapaz de distinguir a los peatones, los ciclistas y a los demás.</comment><image_comment></image_comment></Excersice>
+<Excersice>110<head>Las luces largas pueden revelar objeto hasta una distancia de:</head><image></image>
+<options><item>300 pies</item>
+<item>450 pies</item>
+<item>600 pies</item></options><solution>2</solution>
+<comment>Las luces largas pueden revelar objetos hasta una distancia de por lo menos 450 pies y son más eficaces a velocidades más rápidas de 25 MPH.</comment><image_comment></image_comment></Excersice>
+<Excersice>111<head>Si usted se estaciona debido a neblina densa o humo debe:</head><image></image>
+<options><item>Encender las luces largas</item>
+<item>Encender las luces cortas</item>
+<item>Encender luces intermitentes de emergencia</item></options><solution>3</solution>
+<comment>Si la neblina o el humo se vuelve tan denso que no puede ver lo suficientemente bien para seguir conduciendo, sálgase del pavimento y pare. Encienda las luces intermitentes de emergencia.</comment><image_comment></image_comment></Excersice>
+<Excersice>112<head>Conduciendo con lluvia usted necesitará para frenar</head><image></image>
+<options><item>Dos veces más distancia que lo normal</item>
+<item>Cuatro veces más distancia que lo normal</item>
+<item>La misma distancia que lo normal</item></options><solution>1</solution>
+<comment>Las carreteras están más resbalosas justo cuando comienza a llover debido a que el aceite que cae de los  vehículos todavía no ha sido barrido por la lluvia. Reduzca la velocidad y tenga en cuenta que necesitará dos veces la distancia normal para parar.</comment><image_comment></image_comment></Excersice>
+<Excersice>113<head>Si usted se acerca por detrás a un auto detenido en un cruce</head><image></image>
+<options><item>Debe parar y asumir que hay peatones cruzando aunque no los vea</item>
+<item>Debe acelerar y pasar al auto</item>
+<item>Debe seguir si no ve peatones en su ángulo de visión</item></options><solution>1</solution>
+<comment>La ley requiere que el conductor del auto que se aproxima por detrás del auto detenido debe asumir que hay un peatón en el cruce incluso aunque no lo vea en el momento.  La violación de esta regla puede causar lesiones graves debido a que el conductor que adelanta conduce a gran velocidad.</comment><image_comment></image_comment></Excersice>
+<Excersice>114<head>Para cruzar una calle los peatones deben:</head><image></image>
+<options><item>Correr rápidamente para cruzar</item>
+<item>Levantar la mano para advertir a los autos</item>
+<item>Mirar en ambas direcciones</item></options><solution>3</solution>
+<comment>Antes  de comenzar a cruzar una calle mire hacia la izquierda, a la derecha y a la izquierda nuevamente que venga tráfico y continúe mirando al cruzar.</comment><image_comment></image_comment></Excersice>
+<Excersice>115<head>Al caminar por una calle sin acera debe hacerlo:</head><image></image>
+<options><item>Por el lado derecho a favor del tráfico</item>
+<item>Por el lado izquierdo de frente al tráfico</item>
+<item>Por cualquier lado de la carretera</item></options><solution>2</solution>
+<comment>Cuando camine por una vía sin acera, hágalo siempre sobre el lado izquierdo de frente al tráfico. Use ropa de color claro y fosforescente o utilice una linterna para hacerse más visible frente a los conductores en horas de la noche.</comment><image_comment></image_comment></Excersice>
+<Excersice>116<head>Los conductores deben detenerse completamente cuando cruzan personas ciegas</head><image></image>
+<options><item>Siempre</item>
+<item>Si poseen un bastón blanco solamente</item>
+<item>Si poseen un perro guía solamente</item></options><solution>1</solution>
+<comment> Los conductores siempre deben ceder el derecho de vía a las personas que son ciegas. Cuando un peatón esté cruzando una calle o carretera siendo guiado por un perro o un bastón blanco (bastón blanco con una punta roja) los vehículos se deben de detener por completo.</comment><image_comment></image_comment></Excersice>
+<Excersice>117<head>En el Estado de la Florida las bicicletas son legalmente definidas como un vehículo, por lo tanto:</head><image></image>
+<options><item>Los ciclistas en la vía pública tienen los mismos derechos y responsabilidades que los conductores de vehículos motorizados </item>
+<item>Los ciclistas en la vía pública tienen las mismas responsabilidades que los conductores de vehículos motorizados. </item>
+<item>Los ciclistas en la vía pública tienen los mismos derechos y responsabilidades que los conductores de vehículos motorizados con excepción de las autopistas</item></options><solution></solution>
+<comment>Comentario: En el Estado de la Florida las bicicletas son legalmente definidas como un vehículo y tienen todos los privilegios, derechos y responsabilidades de utilizar el camino como lo hace un operador de vehículo de motor. Los ciclistas en la vía pública (con excepción de las autopistas) tienen los mismos derechos y responsabilidades que los conductores de vehículos motorizados.</comment><image_comment></image_comment></Excersice>
+<Excersice>118<head>Los ciclistas pueden utilizar las aceras a diferencia de los motoristas pero deben:</head><image></image>
+<options><item>Ceder el paso a peatones en las aceras.</item>
+<item>Utilizar todas las aceras sin excepciones.</item>
+<item>Viajar a velocidades de 5 MPH.</item></options><solution>3</solution>
+<comment>A diferencia de los motoristas, ciclistas también pueden operar en las aceras (excepto donde esté prohibido por la autoridad local), pero debe ceder el paso a los peatones en las aceras y en los cruces peatonales.</comment><image_comment></image_comment></Excersice>
+<Excersice>119<head>Un ciclista puede moverse yendo en dirección contraria del tráfico en un carril de circulación adyacente.</head><image></image>
+<options><item>Es completamente ilegal</item>
+<item>No es ilegal</item>
+<item>Sólo a determinadas horas.</item></options><solution>2</solution>
+<comment>Ciclistas yendo en dirección contraria del flujo del tráfico en un  carril de circulación adyacente a la acera no es ilegal.  Sin embargo, pone a los ciclistas en una posición en donde los conductores que entran o salen de la calzada en las intersecciones de caminos de acceso no prevén el tráfico de un ciclista.</comment><image_comment></image_comment></Excersice>
+<Excersice>120<head>Las bicicletas deben estar equipadas con un freno o frenos el cual le permita frenar</head><image></image>
+<options><item>Dentro de 25 pies viajando a 10MPH</item>
+<item>Dentro de 40 pies viajando a 10MPH</item>
+<item>Dentro de 30 pies viajando a 5MPH</item></options><solution>1</solution>
+<comment>Toda bicicleta debe estar equipada con un freno o frenos el cual le permitan al ciclista parar dentro de 25 pies cuando esté viajando a una velocidad de 10 millas por hora en un pavimento seco, nivelado y limpio.</comment><image_comment></image_comment></Excersice>
+<Excersice>121<head>Si un motociclista está pasando a un vehículo el conductor del vehículo debe:</head><image></image>
+<options><item>Mantener la velocidad y esperar a que el motociclista complete la maniobra</item>
+<item>Aumentar la velocidad del vehículo.</item>
+<item>Sonar el claxon y disminuir la velocidad del vehículo</item></options><solution>1</solution>
+<comment>Cuando su vehículo se siendo pasado por un motociclista mantenga su posición y velocidad en el carril. Deje que la motocicleta complete la maniobra y la posición en el carril correcto.</comment><image_comment></image_comment></Excersice>
+<Excersice>122<head>Conducir siguiendo muy cerca de una motocicleta puede ser peligroso debido a:</head><image></image>
+<options><item>Las motocicletas pueden detenerse más rápido que otros vehículos</item>
+<item>Las motociclistas son conductores sin mucha experiencia</item>
+<item>Las motocicletas no tienen luces traseras.</item></options><solution>1</solution>
+<comment>Cuando esté siguiendo a una motocicleta recuerde que las motocicletas tienen la habilidad de detenerse más rápidamente que otros vehículos. Seguir muy de cerca pone en peligro su vida y la de los motociclistas.</comment><image_comment></image_comment></Excersice>
+<Excersice>123<head>Hay situaciones en las que el motociclista puede reducir la velocidad sin avisos visuales.</head><image></image>
+<options><item>Verdadero</item>
+<item>Falso</item></options><solution>2</solution>
+<comment>Los motociclistas a menudo reducen la velocidad bajando el cambio o soltando el acelerador, con lo que no activan la luz del freno. El motociclista puede bajar de velocidad sin tener un aviso visual.</comment><image_comment></image_comment></Excersice>
+<Excersice>124<head>Si usted conduce detrás de un motociclista en condiciones normales de tiempo debe dejar una zona de amortiguación de</head><image></image>
+<options><item>2 segundos al menos</item>
+<item>3 segundos al menos</item>
+<item>4 segundos al menos</item></options><solution>3</solution>
+<comment>Por las condiciones que presenta una motocicleta en la vía la zona de amortiguación para evitar accidentes debe ser de 4 segundos al menos</comment><image_comment></image_comment></Excersice>
+<Excersice>125<head>Para conducir un ciclomotor en la vía pública la edad mínima del conductor debe ser:</head><image></image>
+<options><item>16 años</item>
+<item>14 años</item>
+<item>18 años</item></options><solution>1</solution>
+<comment>Debe tener 16 años de edad para conducir un ciclomotor en la vía pública.</comment><image_comment></image_comment></Excersice>
+<Excersice>126<head>Los ciclomotores se deben registrar y comprar una placa</head><image></image>
+<options><item>Cada 3 años</item>
+<item>Anualmente</item>
+<item>Cada 2 años</item></options><solution>2</solution>
+<comment>Ciclomotores deben estar registrado anualmente y comprar una placa.</comment><image_comment></image_comment></Excersice>
+<Excersice>127<head>¿Cuál de los autos no está conduciendo en los puntos ciegos del camión</head><image>ciento_veinte_y_siete</image>
+<options><item>1</item>
+<item>2</item>
+<item>3</item></options><solution>1</solution>
+<comment>Aunque vehículos más grandes tengan varios espejos retrovisores es fácil para un vehículo, motocicleta o bicicleta estás oculto en un gran parte ciego de un vehículo.  No siga muy de cerca a un camión o autobús. Cuando conduzca cerca de un vehículo grande tenga en cuenta los puntos ciegos del conductor al lado derecho, delantera izquierda, y parte de atrás.</comment><image_comment></image_comment></Excersice>
+<Excersice>128<head>¿Cuál es uno de los factores importantes para evitar accidentes si compartes la carretera con un camión?</head><image></image>
+<options><item>Conocer la velocidad a la que viaja el camión</item>
+<item>Conocer las Zonas Prohibidas o Puntos Ciegos</item>
+<item>Centrar la vista en el tráfico que viene en dirección contraria.</item></options><solution>2</solution>
+<comment>Aunque vehículos más grandes tengan varios espejos retrovisores es fácil para un vehículo, motocicleta o bicicleta estás oculto en un gran parte ciego de un vehículo.  No siga muy de cerca a un camión o autobús. Cuando conduzca cerca de un vehículo grande tenga en cuenta los puntos ciegos del conductor al lado derecho, delantera izquierda, y parte de atrás.</comment><image_comment></image_comment></Excersice>
+<Excersice>129<head>Para volver al carril luego de pasar a un camión debe asegurarse de:</head><image></image>
+<options><item>Ver la parte delantera del camión en el espejo retrovisor</item>
+<item>Que el camión esté al lado derecho del carril.</item>
+<item>asegurarse de que el conductor del camión a parpadeado sus luces</item></options><solution>1</solution>
+<comment>Asegúrese de regresar al carril solamente cuando pueda ver la parte delantera del camión a través de su espejo retrovisor.  Conserve su velocidad después de pasar un camión.</comment><image_comment></image_comment></Excersice>
+<Excersice>130<head>Para operar un carro de golf entre el amanecer y el anochecer debe estas equipado con:</head><image></image>
+<options><item>Frenos eficientes</item>
+<item>Espejo retrovisor</item>
+<item>Ambos</item></options><solution>3</solution>
+<comment>Para operar con seguridad en determinadas carreteras, el carro de golf debe estar equipado con frenos eficientes, espejo retrovisor, aparato de dirección fiable, dispositivos reflejantes rojos de advertencia en la parte delantera y trasera del carro de golf y neumáticos seguros</comment><image_comment></image_comment></Excersice>
+<Excersice>131<head>Un carro de golf en la vía pública no debe ser manejado por nadie menor de:</head><image></image>
+<options><item>14 años</item>
+<item>18 años</item>
+<item>16 años</item></options><solution>1</solution>
+<comment>Comentario: Un carro de golf no debe ser manejado por cualquier persona menor de 14 años de edad</comment><image_comment></image_comment></Excersice>
+<Excersice>132<head>La señal mostrada significa</head><image>ciento_treinta_y_dos</image>
+<options><item>No puede voltear en esta dirección</item>
+<item>No puede girar en U en esta zona</item>
+<item>No puede girar a la izquierda</item></options><solution>2</solution>
+<comment>PROHIBIDO EL CAMBIO DE DIRECCIÓN (NO U-TURN). Donde esté colocado este letrero, usted no puede doblar para viajar en dirección opuesta.</comment><image_comment></image_comment></Excersice>
+<Excersice>133<head>La señal mostrada significa</head><image>ciento_treinta_y_tres</image>
+<options><item>No puede voltear a la derecha.</item>
+<item>No puede girar en U en esta zona</item>
+<item>No puede girar a la izquierda</item></options><solution>1</solution>
+<comment>Recuerde que un círculo rojo con una barra inclinada significa NO. El letrero le indica lo que no está permitido. No puede doblar a la derecha en esta intersección.</comment><image_comment></image_comment></Excersice>
+<Excersice>134<head>La señal mostrada significa</head><image>ciento_treinta_y_cuatro</image>
+<options><item>Carretera de doble sentido adelante.</item>
+<item>Termina carretera de doble sentido</item>
+<item>Carretera de un solo sentido</item></options><solution>1</solution>
+<comment>TRÁFICO EN AMBAS DIRECCIONES ADELANTE: La calle o carretera de sentido único termina adelante. Se encontrará con tráfico en dirección contraria a la suya.</comment><image_comment></image_comment></Excersice>
+<Excersice>135<head>La señal mostrada significa</head><image>ciento_treinta_y_cinco</image>
+<options><item>No puede voltear a la derecha.</item>
+<item>Curva a la derecha</item>
+<item>Posibilidad de girar en U</item></options><solution>2</solution>
+<comment>CURVA A LA DERECHA: Reduzca la velocidad y manténgase bien a la izquierda. La carretera tendrá una curva hacia la derecha.</comment><image_comment></image_comment></Excersice>
+<Excersice>136<head>La señal mostrada significa</head><image>ciento_treinta_y_seis</image>
+<options><item>Fin de carretera de dos vías.</item>
+<item>Carril de la derecha termina adelante</item>
+<item>Cruce de vías adelante</item></options><solution>2</solution>
+<comment>REDUCCIÓN DE CARRILES: Habrán menos carriles adelante. El tránsito debe incorporarse a la izquierda. Los conductores en el carril de la izquierda deben permitir que otros se puedan incorporar sin dificultad. El carril de la mano derecha se termina.</comment><image_comment></image_comment></Excersice>
+<Excersice>137<head>La señal mostrada significa</head><image>ciento_treinta_y_siete</image>
+<options><item>Información de velocidad permitida.</item>
+<item>Información de baja altura para vehículos</item>
+<item>Información de tiempo para detenerse</item></options><solution>2</solution>
+<comment>BAJA ALTURA: No entre si su vehículo es más alto que la altura indicada en el letrero.</comment><image_comment></image_comment></Excersice>
+<Excersice>138<head>La señal mostrada significa</head><image>ciento_treinta_y_ocho</image>
+<options><item>Cruce de niños.</item>
+<item>Cruce de personas discapacitadas</item>
+<item>Información de cruce</item></options><solution>1</solution>
+<comment>Pentágono: Letrero Escolar. Este letrero de cinco lados significa que usted está cerca de una escuela. Tenga cuidado con los niños.</comment><image_comment></image_comment></Excersice>
+<Excersice>139<head>La señal mostrada significa</head><image>ciento_treinta_y_nueve</image>
+<options><item>Termina zona de 20 MPH.</item>
+<item>Velocidad máxima permitida 30 MPH</item>
+<item>Termina zona de 20 MPH y comienza de 30 MPH máximo.</item></options><solution>3</solution>
+<comment>Señal de prohibición e información al mismo tiempo. Termina zona de 20 MPH y comienza de 30 MPH máximo.</comment><image_comment></image_comment></Excersice>
+<Excersice>140<head>La señal mostrada significa</head><image>ciento_cuarenta</image>
+<options><item>No se permiten vehículos motorizados.</item>
+<item>No se permiten autos ligeros.</item>
+<item>No se permiten motocicletas.</item></options><solution>1</solution>
+<comment>Señal de prohibición (círculo en color rojo) para vehículos motorizados.</comment><image_comment></image_comment></Excersice>
+<Excersice>141<head>La señal mostrada significa</head><image>ciento_cuarenta_y_uno</image>
+<options><item>No se permiten camiones o trailers.</item>
+<item>Sólo camiones o trailers.</item>
+<item>No se permiten vehículos de mayor longitud que la indicada.</item></options><solution>3</solution>
+<comment>Señal de prohibición (círculo en color rojo) para vehículos motorizados con mayor longitud que la indicada.</comment><image_comment></image_comment></Excersice>
+<Excersice>142<head>La señal mostrada significa</head><image>ciento_cuarenta_y_dos</image>
+<options><item>No se permiten U-turns.</item>
+<item>Se puede hacer U-turns.</item>
+<item>No se permiten giros a la derecha.</item></options><solution>1</solution>
+<comment>Señal de prohibición (círculo en color rojo) para giros en U</comment><image_comment></image_comment></Excersice>
+<Excersice>143<head>La señal mostrada significa</head><image>ciento_cuarenta_y_tres</image>
+<options><item>No adelantar.</item>
+<item>No parquear en doble fila.</item>
+<item>No adelantar por la izquierda.</item></options><solution>1</solution>
+<comment>Señal de prohibición (círculo en color rojo) para adelantar a otros autos.</comment><image_comment></image_comment></Excersice>
+<Excersice>144<head>La señal mostrada significa</head><image>ciento_cuarenta_y_cuatro</image>
+<options><item>No adelantar a los vehículos.</item>
+<item>Carril ancho para vehículos que vienen.</item>
+<item>Prioridad para los vehículos que vienen.</item></options><solution>3</solution>
+<comment>Los autos que vienen por la carretera tienen prioridad. </comment><image_comment></image_comment></Excersice>
+<Excersice>145<head>La señal mostrada significa</head><image>ciento_cuarenta_y_cinco</image>
+<options><item>No hay entrada para los vehículos.</item>
+<item>Detenerse.</item>
+<item>Detenerse en el cruce próximo.</item></options><solution>1</solution>
+<comment>Señal de prohibición. No hay entrada para vehículos.</comment><image_comment></image_comment></Excersice>
+<Excersice>146<head>La señal mostrada significa</head><image>ciento_cuarenta_y_seis</image>
+<options><item>No es permitido conducir a baja velocidad.</item>
+<item>No son permitidos remolques.</item>
+<item>No son permitidos dos carros cerca uno de otro.</item></options><solution>2</solution>
+<comment>Señal de prohibición. Prohibido remolcar en esta zona.</comment><image_comment></image_comment></Excersice>
+<Excersice>147<head>La señal mostrada significa</head><image>ciento_cuarenta_y_siete</image>
+<options><item>Reducir velocidad .</item>
+<item>Seguir adelante.</item>
+<item>Quedarse en el carril de la derecha</item></options><solution>2</solution>
+<comment>Las señales azules sin borde rojos dan consejos a seguir. Señal de continuar adelante</comment><image_comment></image_comment></Excersice>
+<Excersice>148<head>La señal mostrada significa</head><image>ciento_cuarenta_y_ocho</image>
+<options><item>Máxima velocidad permitida.</item>
+<item>Velocidad permitida.</item>
+<item>Mínima velocidad permitida.</item></options><solution>3</solution>
+<comment>Las señales azules sin borde rojos dan consejos a seguir. Señal de mínima velocidad permitida.</comment><image_comment></image_comment></Excersice>
+<Excersice>149<head>La señal mostrada significa</head><image>ciento_cuarenta_y_nueve</image>
+<options><item>Ruta solo para ciclistas.</item>
+<item>Prohibición para ciclistas.</item>
+<item>Ceder paso a los ciclistas.</item></options><solution>1</solution>
+<comment>Las señales azules sin borde rojos dan consejos a seguir. Señal de ruta sólo para ciclistas.</comment><image_comment></image_comment></Excersice>
+<Excersice>150<head>La señal mostrada significa</head><image>ciento_cincuenta</image>
+<options><item>Ceder el paso.</item>
+<item>Seguir adelante.</item>
+<item>Carretera de una sola dirección.</item></options><solution>1</solution>
+<comment>Señal azul para indicar que la carretera sólo tiene un sentido de tráfico.</comment><image_comment></image_comment></Excersice>
+<Excersice>151<head>La señal mostrada significa</head><image>ciento_cincuenta_y_uno</image>
+<options><item>Fin de la carretera con dos carriles.</item>
+<item> Puente adelante.</item>
+<item>Carretera de una sola dirección.</item></options><solution>1</solution>
+<comment>Señal de cuidado en forma de triángulo. La carretera de dos carriles termina adelante</comment><image_comment></image_comment></Excersice>
+<Excersice>152<head>La señal mostrada significa</head><image>ciento_cincuenta_y_dos</image>
+<options><item>Desvío hacia la derecha.</item>
+<item> Intersección adelante.</item>
+<item>Tráfico viniendo de ambas direcciones.</item></options><solution>2</solution>
+<comment>Señal de cuidado en forma de triángulo. Hay una intersección adelante</comment><image_comment></image_comment></Excersice>
+<Excersice>153<head>El color verde en las señales de tránsito significa</head><image></image>
+<options><item>Parada, no entrar, vía errónea.</item>
+<item>Guía, información direccional.</item>
+<item>Información de cruce</item></options><solution>2</solution>
+<comment>Cada color tiene un significado exacto, así que usted debe llegar a conocerlos todos. Verde: Guía, información direccional.  </comment><image_comment></image_comment></Excersice>
+<Excersice>154<head>El color Azul en las señales de tránsito significa</head><image></image>
+<options><item>Parada, no entrar, vía errónea.</item>
+<item>Guía, información direccional.</item>
+<item>Guía de servicios para el conductor.</item></options><solution>3</solution>
+<comment>Cada color tiene un significado exacto, así que usted debe llegar a conocerlos todos. Azul: Guía de servicios para el conductor. También se usa para señalar  los espacios de estacionamiento para los conductores discapacitados.</comment><image_comment></image_comment></Excersice>
+<Excersice>155<head>El color Rojo en las señales de tránsito significa</head><image></image>
+<options><item>Parada, no entrar, vía errónea.</item>
+<item>Guía, información direccional.</item>
+<item>Información de cruce</item></options><solution>1</solution>
+<comment>Cada color tiene un significado exacto, así que usted debe llegar a conocerlos todos. Rojo: Parar, no entrar, o vía equivocada. </comment><image_comment></image_comment></Excersice>
+<Excersice>156<head>El color Naranja en las señales de tránsito significa</head><image></image>
+<options><item>Parada, no entrar, vía errónea.</item>
+<item>Advertencia, construcción y mantenimiento.</item>
+<item>Guía, información direccional.</item></options><solution>2</solution>
+<comment>Cada color tiene un significado exacto, así que usted debe llegar a conocerlos todos. Naranja: Advertencia de construcción y mantenimiento.</comment><image_comment></image_comment></Excersice>
+<Excersice>157<head>El color Marrón en las señales de tránsito significa</head><image></image>
+<options><item>Parada, no entrar, vía errónea.</item>
+<item>Advertencia, construcción y mantenimiento.</item>
+<item>Áreas públicas de recreación.</item></options><solution>3</solution>
+<comment>Cada color tiene un significado exacto, así que usted debe llegar a conocerlos todos. Marrón: Áreas públicas de recreación, guía a áreas  de significado cultural e histórico.</comment><image_comment></image_comment></Excersice>
+<Excersice>158<head>El color Amarrillo en las señales de tránsito significa</head><image></image>
+<options><item>Parada, no entrar, vía errónea.</item>
+<item>Advertencia, construcción y mantenimiento.</item>
+<item>Advertencia general. Aviso de condiciones imprevistas.</item></options><solution>3</solution>
+<comment>Cada color tiene un significado exacto, así que usted debe llegar a conocerlos todos. Amarillo: Advertencia general y aviso de las condiciones en la carretera imprevistas.</comment><image_comment></image_comment></Excersice>
+<Excersice>159<head>El color Blanco en las señales de tránsito significa</head><image></image>
+<options><item>Advertencia, construcción y mantenimiento.</item>
+<item>Regulatorio.</item>
+<item>Guía, información direccional.</item></options><solution>2</solution>
+<comment>Cada color tiene un significado exacto, así que usted debe llegar a conocerlos todos. Blanco: Regulatorio.</comment><image_comment></image_comment></Excersice>
+<Excersice>160<head>El diseño en octágono de las señales de tránsito significa</head><image>ciento_sesenta</image>
+<options><item>Exclusivo para letreros de “PARE”.</item>
+<item>Para letreros de guía.</item>
+<item>Advertencia de zonas de NO PASAR.</item></options><solution>1</solution>
+<comment>El diseño de la señal que esté en la carretera es una indicación del mensaje que transmite. Octágono: Exclusivamente para letreros de “Pare.”</comment><image_comment></image_comment></Excersice>
+<Excersice>161<head>El diseño en rectángulo vertical de las señales de tránsito significa</head><image>ciento_sesenta_y_uno</image>
+<options><item>Exclusivo para letreros de “PARE”.</item>
+<item>Letreros regulatorios.</item>
+<item>Advertencia de zonas de NO PASAR.</item></options><solution>2</solution>
+<comment>El diseño de la señal que esté en la carretera es una indicación del mensaje que transmite. Rectángulo Vertical: Generalmente para letreros  regulatorios.</comment><image_comment></image_comment></Excersice>
+<Excersice>162<head>El diseño en rectángulo horizontal de las señales de tránsito significa</head><image>ciento_sesenta_y_dos</image>
+<options><item>Exclusivo para letreros de “PARE”.</item>
+<item>Para letreros de guía.</item>
+<item>Advertencia de zonas de NO PASAR.</item></options><solution>2</solution>
+<comment>El diseño de la señal que esté en la carretera es una indicación del mensaje que transmite. Rectángulo Horizontal: Generalmente para letreros de guía.</comment><image_comment></image_comment></Excersice>
+<Excersice>163<head>El diseño en triángulo de las señales de tránsito significa</head><image>ciento_sesenta_y_tres</image>
+<options><item>Exclusivo para letreros de “PARE”.</item>
+<item>Para letreros de guía.</item>
+<item>Advertencia de zonas de NO PASAR.</item></options><solution>3</solution>
+<comment>El diseño de la señal que esté en la carretera es una indicación del mensaje que transmite. Triangulo: Exclusivamente para  letreros de Ceder el Paso.  </comment><image_comment></image_comment></Excersice>
+<Excersice>164<head>El diseño en diamante de las señales de tránsito significa</head><image>ciento_sesenta_y_cuatro</image>
+<options><item>Exclusivo para advertir peligros en la vía.</item>
+<item>Para proximidad de ferrocarril.</item>
+<item>Advertencia de zonas de NO PASAR.</item></options><solution>1</solution>
+<comment>El diseño de la señal que esté en la carretera es una indicación del mensaje que transmite. Diamante: Exclusivamente para advertir de la existencia o la posibilidad de peligros en las carreteras o zonas adyacentes.  </comment><image_comment></image_comment></Excersice>
+<Excersice>165<head>El diseño en forma de pentágono de las señales de tránsito significa</head><image>ciento_sesenta_y_cinco</image>
+<options><item>Exclusivo para advertir peligros en la vía.</item>
+<item>Para proximidad de ferrocarril.</item>
+<item>Cruce escolar o proximidad de escuelas.</item></options><solution>3</solution>
+<comment>El diseño de la señal que esté en la carretera es una indicación del mensaje que transmite. Pentágono: Letreros de proximidad de una escuela o cruce escolar.  </comment><image_comment></image_comment></Excersice>
+<Excersice>166<head>El diseño redondo de las señales de tránsito significa</head><image>ciento_sesenta_y_seis</image>
+<options><item>Letreros regulatorios.</item>
+<item>Para proximidad de ferrocarril.</item>
+<item>Advertencia de zonas de NO PASAR.</item></options><solution>2</solution>
+<comment>El diseño de la señal que esté en la carretera es una indicación del mensaje que transmite. Redondo: Letreros de advertencia de proximidad de ferrocarril. </comment><image_comment></image_comment></Excersice>
+<Excersice>167<head>Cualquier persona que se aproxime caminando o conduciendo un vehículo a un cruce de ferrocarril cuando exista el inminente paso de un tren debe detenerse a</head><image>ciento_sesenta_y_siete</image>
+<options><item>Entre 15 y 50 pies de la vía férrea más cercana</item>
+<item>Entre 5 y 15 pies de la vía férrea más cercana</item>
+<item>Entre 15 y 30 pies de la vía férrea más cercana</item></options><solution>1</solution>
+<comment>Cualquier persona que se aproxime caminando o conduciendo un vehículo a un cruce de ferrocarril debe detenerse a 50 pies y no menos de 15 pies de la vía férrea más cercana cuando los dispositivos de advertencia eléctricos o mecánicos estén encendidos; o la barrera del cruce esté bajada o el oficial de tráfico le advierta de la proximidad de un tren; o si hay un tren aproximándose claramente visible y está cerca del cruce de ferrocarril.</comment><image_comment></image_comment></Excersice>
+<Excersice>168<head>¿Cómo se denomina esta señal en los cruces de ferrocarril?</head><image>ciento_sesenta_y_ocho</image>
+<options><item>Señal en forma de cruz</item>
+<item>Letrero de advertencia anticipado</item>
+<item>Barrera de cruce ferroviario</item></options><solution>2</solution>
+<comment>Comentario:</comment><image_comment></image_comment></Excersice>
+<Excersice>169<head>¿Qué significa la siguiente señal en un cruce de ferrocarril si las luces rojas se encuentran encendidas?</head><image>ciento_sesenta_y_nueve</image>
+<options><item>Detenerse inmediatamente porque un tren se acerca</item>
+<item>Reducir velocidad</item>
+<item>Avanzar sin peligro</item></options><solution>1</solution>
+<comment>En muchos cruces de ferrocarril, la  señal en forma de cruz tiene luces rojas intermitentes y campanillas. Cuando las luces se enciendan, ¡Deténgase! Un tren está acercándose. </comment><image_comment></image_comment></Excersice>
+<Excersice>170<head>¿Es ilegal conducir alrededor o por debajo de las barreras del cruce ferroviario, cuando estas se están subiendo o bajando?</head><image></image>
+<options><item>Sí</item>
+<item>No</item>
+<item>Solo cuando las barreras están bajando</item></options><solution>1</solution>
+<comment>Es en contra de la ley conducir alrededor o por debajo de las barreras, cuando éstas se están subiendo o bajando.</comment><image_comment></image_comment></Excersice>
+<Excersice>171<head>¿Qué debe hacer usted si su vehículo se detiene en las vías del ferrocarril accidentalmente?</head><image></image>
+<options><item>Intentar conducir el vehículo fuera de las vías</item>
+<item>Mantener las luces encendidas </item>
+<item>Salir del vehículo inmediatamente</item></options><solution>3</solution>
+<comment>Si su vehículo se detiene en las vías no pierda el tiempo. Haga salir a sus pasajeros y salga usted mismo fuera de las vías y fuera del vehículo inmediatamente.</comment><image_comment></image_comment></Excersice>
+<Excersice>172<head>Si es inminente una colisión entre el tren y su vehículo ¿cuál es la dirección más segura en la que usted debe ir?</head><image></image>
+<options><item>Hacia el tren, pero quedándose fuera de las vías. </item>
+<item>En la misma dirección que el tren</item>
+<item>Debe permanecer en el lugar donde está</item></options><solution>1</solution>
+<comment>Si es inminente una colisión entre el tren y su vehículo, la dirección más segura en la que usted debe ir es hacia el tren, pero quedándose fuera de las vías. De este modo habrá menos probabilidades de que las personas que salieron del vehículo sean golpeadas por el vehículo o por cualquier otro desecho de la colisión.</comment><image_comment></image_comment></Excersice>
+<Excersice>173<head>¿Qué significa la luz amarilla cerca de un puente levadizo?</head><image></image>
+<options><item>Puede pasar de forma segura</item>
+<item>Reduzca velocidad</item>
+<item>El puente está a punto de comenzar a funcionar</item></options><solution>3</solution>
+<comment>Con la luz amarilla, en un puente levadizo, deténgase si puede hacerlo de forma segura. El puente está a punto de comenzar a funcionar.</comment><image_comment></image_comment></Excersice>
+<Excersice>174<head>¿Qué significa la luz intermitente amarilla cerca de un puente levadizo?</head><image></image>
+<options><item>Reduzca velocidad y busque la señal del puente levadizo</item>
+<item>Puede pasar sin preocupaciones</item>
+<item>El puente levadizo está a punto de comenzar a funcionar</item></options><solution>1</solution>
+<comment>La luz  intermitente amarilla es la primera señal que usted ve al acercarse a un puente levadizo. Esta señal le indica que reduzca la velocidad y busque la SEÑAL DEL PUENTE LEVADIZO.</comment><image_comment></image_comment></Excersice>
+<Excersice>175<head>¿Qué función tienen los letreros azules y blancos en la carretera? </head><image></image>
+<options><item>Informar sobre las direcciones y las distancias</item>
+<item>Informar sobre determinados servicios</item>
+<item>Indicar las vistas panorámicas y los parques</item></options><solution>2</solution>
+<comment>Los letreros azules y blancos le dirigen a servicios tales como gasolina, comida,  moteles y hospitales. </comment><image_comment></image_comment></Excersice>
+<Excersice>176<head>¿Qué función tienen los letreros verdes y blancos?</head><image></image>
+<options><item>Informar sobre las direcciones y distancias</item>
+<item>Indicar las vistas panorámicas y los parques</item>
+<item>Informar sobre determinados servicios</item></options><solution>1</solution>
+<comment>Los letreros verde y blanco le dan información sobre las direcciones y distancias. Los letreros de guía en las autopistas indican qué carriles debe usar para llegar a su destino. Las rutas que corren de Este a Oeste generalmente tienen números pares y aquellas que corren de Norte  a Sur  tienen números nones.  </comment><image_comment></image_comment></Excersice>
+<Excersice>177<head>¿Qué significan las marcas en el pavimento de uso compartido (Sharrows)?</head><image></image>
+<options><item>Señales de sentido del tráfico</item>
+<item>Señales para alertar de la posibilidad de ciclistas en la vía</item>
+<item>Señales para alertar sobre la posibilidad de cruces en la vía</item></options><solution>2</solution>
+<comment>Las marcas llamadas Sharrows sirven para alertar a los conductores sobre la posibilidad de que haya ciclistas usando el camino, además de indicarles a los ciclistas por donde deben circular y desalentarles de circular en dirección contraria.  </comment><image_comment></image_comment></Excersice>
+<Excersice>178<head>¿Cuántos sistemas de frenos debe tener cada vehículo?</head><image></image>
+<options><item>2 sistemas</item>
+<item>1 sistema</item>
+<item>3 sistemas</item></options><solution>1</solution>
+<comment>Comentario: Su vehículo tiene que tener dos sistemas de frenos. Cada uno por sí solo debe tener la capacidad de parar el  vehículo.</comment><image_comment></image_comment></Excersice>
+<Excersice>179<head>El sistema de frenos de emergencia debe ser suficientemente fuerte para:</head><image></image>
+<options><item>Frenar el vehículo en terrenos resbaladizos</item>
+<item>Frenar el vehículo en una cuesta.</item>
+<item>Frenar el vehículo en menos de 1 segundo.</item></options><solution>2</solution>
+<comment>El freno de emergencia o de estacionamiento tiene que ser suficientemente fuerte para detener el vehículo en una cuesta.</comment><image_comment></image_comment></Excersice>
+<Excersice>180<head>Si usted está conduciendo a una velocidad entre 40 y 50 MPH su vehículo debería frenar, después de aplicar los frenos, a una distancia entre:</head><image></image>
+<options><item>15 y 25 pies</item>
+<item>72 y 120 pies</item>
+<item>113 y 190 pies</item></options><solution>3</solution>
+<comment>El rango de distancia recorrida a 50 MPH para unos frenos en buen estado es entre 113 y 190 pies</comment><image_comment></image_comment></Excersice>
+<Excersice>181<head>Para bloquear la dirección en un sistema de estacionamiento por transmisión, usted debe, después de estacionar el auto:</head><image></image>
+<options><item>Oprimir el botón que está debajo del volante o columna de dirección y girar la llave a la posición de lock.</item>
+<item>Cambiar la transmisión a la posición “park” y girar la llave a la posición lock.</item>
+<item>Girar la llave a la posición de lock.</item></options><solution>2</solution>
+<comment>En un Sistema de estacionamiento por transmisión para bloquear la dirección: Estacione. Cambie la  transmisión  a la  posición  park” (estacionar).  Haga  girar la llave para  llevaría  a la  posición LOCK (cerrar) y quítela.</comment><image_comment></image_comment></Excersice>
+<Excersice>182<head>¿A qué distancia deben ser visibles las luces traseras rojas de un auto?</head><image></image>
+<options><item>800 pies</item>
+<item>1000 pies</item>
+<item>900 pies</item></options><solution>2</solution>
+<comment>Su vehículo tiene que tener dos luces traseras rojas, visibles desde 1,000 pies.</comment><image_comment></image_comment></Excersice>
+<Excersice>183<head>Las luces largas iluminan objetos que están hasta una distancia de:</head><image></image>
+<options><item>450 pies</item>
+<item>550 pies</item>
+<item>350 pies</item></options><solution>1</solution>
+<comment>En los vehículos las luces largas que iluminan objetos que están a 450 pies más adelante.</comment><image_comment></image_comment></Excersice>
+<Excersice>184<head>¿A qué distancia debe ser visible la chapa de la licencia?</head><image></image>
+<options><item>30 pies</item>
+<item>40 pies</item>
+<item>50 pies</item></options><solution>3</solution>
+<comment>Su auto debe tener una  luz blanca que haga visible la chapa de la licencia desde 50 pies (la chapa tiene que mantenerse limpia).  </comment><image_comment></image_comment></Excersice>
+<Excersice>185<head>La bocina de los autos se considera:</head><image></image>
+<options><item>Un equipo estándar para utilizar.</item>
+<item>Un equipo alternativo</item>
+<item>Un equipo no permitido</item></options><solution>1</solution>
+<comment>Su vehículo tiene que tener una bocina que se pueda oír a una distancia de 200 pies.</comment><image_comment></image_comment></Excersice>
+<Excersice>186<head>Los neumáticos, para que se consideren en buenas condiciones deben tener</head><image></image>
+<options><item>Letreros con nombres del fabricante</item>
+<item>Rodadura visible con algunas partes gastadas</item>
+<item>Rodadura visible sin partes gastadas</item></options><solution>3</solution>
+<comment>Los neumáticos deben tener una rodadura visible de por los menos 2/32 de pulgadas sobre toda la base sin partes gastadas que dejen ver la lona interior. Las llantas gastadas en carreteras mojadas contribuyen a miles de accidentes graves.</comment><image_comment></image_comment></Excersice>
+<Excersice>187<head>Un silenciador que no expulse muchas cantidades de humo y no sea ruidoso es:</head><image></image>
+<options><item>Un equipamiento necesario</item>
+<item>Un equipamiento opcional</item>
+<item>Un equipamiento opcional para autos anteriores al 1980</item></options><solution>1</solution>
+<comment>No está permitido tener en el vehículo un silenciador muy ruidoso o uno que echa humo.</comment><image_comment></image_comment></Excersice>
+<Excersice>188<head>¿Es permitido llevar audífonos mientras conduce?</head><image></image>
+<options><item>Permitido solo de día</item>
+<item>No es permitido</item>
+<item>Es permitido</item></options><solution>2</solution>
+<comment>Los audífonos en el conductor no son permitidos mientras conduce. Aumentan el riesgo de accidentes en la vía.</comment><image_comment></image_comment></Excersice>
+<Excersice>189<head>Las luces rojas y azules de emergencia son permitida usarlas</head><image></image>
+<options><item>Únicamente en vehículos de emergencia y policía</item>
+<item>En días festivos mientras conduce por autopistas.</item>
+<item>Únicamente en zonas de menos de 50 MPH permitida.</item></options><solution>1</solution>
+<comment>Luces rojas o azules de emergencia. Son únicamente para los vehículos de emergencia y de policía. No está permitido el uso en otro tipo de vehículo.</comment><image_comment></image_comment></Excersice>
+<Excersice>190<head>¿El limpiaparabrisas en un equipo requerido en cada vehículo?</head><image></image>
+<options><item>Siempre</item>
+<item>Sólo en zonas de lluvia o nieve</item>
+<item>Es un equipo opcional</item></options><solution>1</solution>
+<comment>Su vehículo tiene que tener un limpiaparabrisas en buenas condiciones para limpiar la lluvia, nieve u otra humedad del parabrisas.  </comment><image_comment></image_comment></Excersice>
+<Excersice>191<head>Es ilegal manipular, quitar, o desconectar el sistema de control de contaminación de aire de su vehículo. Los infractores pueden ser penados con:</head><image></image>
+<options><item>Una multa de entre 1000 y 5000 dólares según la ofensa</item>
+<item>Culpables de un delito menor de primer o segundo grado, según la ofensa.</item>
+<item>Suspensión de la licencia.</item></options><solution>2</solution>
+<comment>Es ilegal manipular, quitar, o desconectar el sistema de control de contaminación de aire de su vehículo. Los que lo hacen son culpables de un delito menor de primer o segundo grado, según la ofensa. El manipular el sistema de control de emisiones causa daños al vehículo y puede ocasionar lo siguiente: Un aumento de contaminación del aire. Un aumento del consumo de gasolina y menos eficiencia del vehículo. Más costos de mantenimiento. Problemas respiratorios</comment><image_comment></image_comment></Excersice>
+<Excersice>192<head>Para obtener su chapa y certificado de registro usted tiene que:</head><image></image>
+<options><item>Probar que es el dueño del vehículo </item>
+<item>Tener seguros de Protección para Lesiones Personales (PIP) para su vehículo</item>
+<item>Ambos</item></options><solution>3</solution>
+<comment>Para obtener su chapa y certificado de registro usted tiene que probar que es el dueño del vehículo y que tiene seguros de Protección para Lesiones Personales (PIP) para su vehículo.</comment><image_comment></image_comment></Excersice>
+<Excersice>193<head>La Ley de Moverse a un Lado está concebida para proteger en la carretera a:</head><image></image>
+<options><item>Conductores de grúas que se encuentran estacionados a un lado de la carretera haciendo su trabajo.</item>
+<item>Policías y personal de emergencia.</item>
+<item>Ambos.</item></options><solution>3</solution>
+<comment>La Ley de Moverse a un Lado protege a los policías, personal de emergencia y conductores de grúas que se encuentran estacionados a un lado de la carretera haciendo su trabajo. Si viola la ley de Moverse a un Lado eso arriesga la posibilidad de que usted y un profesional público de seguridad sea lesionado o cause su muerte y puede tener como resultado multas y puntos en su licencia.</comment><image_comment></image_comment></Excersice>
+<Excersice>194<head>Si usted está conduciendo por una carretera de velocidad máxima permitida de 20 MPH y se acerca a usted una ambulancia con las luces de emergencia encendidas usted debe</head><image></image>
+<options><item>Mantenerse lo más al borde derecho posible de su carril</item>
+<item>Ceder el carril más cercano al vehículo de emergencia y reducir la velocidad a 5 MPH</item>
+<item>Ceder el carril más cercano al vehículo de emergencia </item></options><solution>2</solution>
+<comment>Cuando el límite de velocidad es de 20 millas por hora o menor, usted debe reducir la velocidad a cinco millas por hora y debe que desocupar el carril más cercano al vehículo de emergencia tan pronto como pueda hacerlo de forma segura.</comment><image_comment></image_comment></Excersice>
+<Excersice>195<head>Se considera revocación de la licencia de conducción a:</head><image></image>
+<options><item>Una prohibición contra la operación de ciertos tipos  de vehículos motorizados.</item>
+<item>El retiro temporal que se le hace a un conductor con licencia del privilegio de conducir un vehículo motorizado.</item>
+<item>La terminación del privilegio de conducir que gozaba un conductor con licencia</item></options><solution>3</solution>
+<comment>Revocación: La terminación del privilegio de conducir que gozaba un conductor con licencia.</comment><image_comment></image_comment></Excersice>
+<Excersice>196<head>Para operar un vehículo que requiera letreros de materiales peligrosos o transporte  de material listado como agente selecto o tóxico según 42 CFR parte 73. Usted debe tener una licencia del tipo</head><image></image>
+<options><item>No comercial</item>
+<item>Comercial</item>
+<item>Cualquiera de las dos</item></options><solution>2</solution>
+<comment>Usted debe tener una licencia comercial (CDL) para operar cualquier tamaño de vehículo que requiera letreros de materiales peligrosos o transporte  de material listado como agente selecto o tóxico según 42 CFR parte 73</comment><image_comment></image_comment></Excersice>
+<Excersice>197<head>El Departamento de Seguridad en  Carreteras y Vehículos Motorizados emite las siguientes clases de licencias:</head><image></image>
+<options><item>Clase A, B C y E</item>
+<item>Clase A, B y C</item>
+<item>Clase A , B y D</item></options><solution>1</solution>
+<comment>El Departamento de Seguridad en  Carreteras y Vehículos Motorizados emiten las siguientes clases de licencias: Clase A, B, C y E. Clase E es para conductores con vehículos no comerciales. Clases A, B y C son para conductores de vehículos de motor comerciales tales como camiones largos y buses.</comment><image_comment></image_comment></Excersice>
+<Excersice>198<head>Las licencias comerciales permiten operar vehículos:</head><image></image>
+<options><item>Diseñados para llevar menos de 16 personas.</item>
+<item>Con un peso bruto vehicular (GVWR) de 26,001 libras o más.</item>
+<item>Ambos tipos de vehículos</item></options><solution>2</solution>
+<comment>Usted debe tener una licencia comercial (CDL) para operar cualquier vehículo con un peso bruto vehicular (GVWR) de 26,001 libras o más. Cualquier vehículo diseñado para transportar 16 o más personas (incluyendo al conductor).</comment><image_comment></image_comment></Excersice>
+<Excersice>199<head>Una restricción marcada con la letra “F” para una licencia de conducir significa: </head><image></image>
+<options><item>Transmisión Automática</item>
+<item>Conducir Sólo con la Luz del Día.</item>
+<item>Lentes de Corrección</item></options><solution>1</solution>
+<comment>Transmisión Automática (Restricción F):Significa que la persona sólo puede conducir un vehículo con una transmisión automática.</comment><image_comment></image_comment></Excersice>
+<Excersice>200<head>Una restricción marcada con la letra “A” para una licencia de conducir significa:</head><image></image>
+<options><item>Transmisión Automática</item>
+<item>Conducir sólo con la luz del día.</item>
+<item>Lentes de Corrección</item></options><solution>3</solution>
+<comment>Lentes de Corrección (Restricción A):Significa que una persona debe usar lentes de corrección en todo momento cuando conduce un vehículo.</comment><image_comment></image_comment></Excersice>
+<Excersice>201<head>Si usted usa indebidamente una licencia restringida su licencia puede ser</head><image></image>
+<options><item>Revocada</item>
+<item>Suspendida</item>
+<item>Quitar la restricción</item></options><solution>2</solution>
+<comment>Su licencia puede ser SUSPENDIDA si usted usa indebidamente una licencia restringida.</comment><image_comment></image_comment></Excersice>
+<Excersice>202<head>Conducir bajo la influencia del alcohol conlleva a:</head><image></image>
+<options><item>Revocación de la licencia.</item>
+<item>Suspensión de la licencia.</item>
+<item>Restricción en la licencia.</item></options><solution>1</solution>
+<comment>Su licencia tendrá que ser REVOCADA si es declarado culpable o los expedientes del Departamento indican que usted estaba conduciendo bajo la influencia del alcohol, drogas o de alguna otra sustancia controlada.</comment><image_comment></image_comment></Excersice>
+
+</lista>

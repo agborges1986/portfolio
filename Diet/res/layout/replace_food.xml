@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<View android:background="@color/c82" android:layout_width="wrap_content"
+		android:id="@+id/view1" android:layout_height="36dp"
+		android:layout_alignParentBottom="true"></View>
+	<View android:background="@color/cad" android:layout_width="wrap_content"
+		android:id="@+id/view2" android:layout_height="44dp"
+		android:layout_above="@+id/view1"></View>
+	<LinearLayout android:orientation="vertical" android:id="@+id/linearLayout1"
+		android:layout_width="wrap_content" android:layout_height="200dp"
+		android:background="@drawable/cc4_round_both"
+		android:layout_alignParentLeft="true" android:layout_above="@+id/view2"
+		android:layout_marginBottom="2dp" android:layout_marginTop="10dp"
+		android:layout_below="@+id/tableLayout1" android:layout_marginLeft="4dp" android:layout_marginRight="4dp">
+		<RelativeLayout android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:id="@+id/RelativeLayout1">
+			<TextView android:layout_width="wrap_content"
+				android:layout_centerVertical="true"
+				android:layout_centerHorizontal="true" android:textAppearance="?android:attr/textAppearanceMedium"
+				android:id="@+id/textView3" android:text="@string/categories_text" android:layout_height="40dp" android:gravity="center_vertical"></TextView>
+		</RelativeLayout>
+		<ListView android:layout_width="fill_parent"
+			android:background="@drawable/cf1_round_both" android:layout_height="fill_parent"
+			android:listSelector="@drawable/list_selector" android:layout_margin="2dp"
+			android:id="@+id/listView1"></ListView>
+	</LinearLayout>
+	<Button android:layout_height="wrap_content" style="@style/ButtonBlack"
+		android:layout_width="wrap_content" android:text="@string/find_replacement_text"
+		android:id="@+id/button1" android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true" android:layout_marginRight="16dp"
+		android:layout_marginBottom="17dp"></Button>
+	<Button android:layout_height="wrap_content" style="@style/ButtonBlack"
+		android:layout_width="wrap_content" android:text="@string/back_text"
+		android:id="@+id/button3" android:layout_alignBaseline="@+id/button1"
+		android:layout_alignBottom="@+id/button1"
+		android:layout_alignParentLeft="true" android:layout_marginLeft="20dp"></Button>
+	<ImageView android:layout_width="wrap_content" android:src="@drawable/icon"
+		android:layout_height="wrap_content" android:id="@+id/imageView1"
+		android:layout_alignParentTop="true" android:layout_alignParentLeft="true"
+		android:layout_marginTop="26dp" android:layout_marginLeft="20dp"></ImageView>
+	<TableLayout android:layout_width="wrap_content"
+		android:id="@+id/tableLayout1" android:layout_height="wrap_content"
+		android:layout_below="@+id/imageView1"
+		android:layout_alignParentRight="true" android:layout_alignParentLeft="true"
+		android:stretchColumns="2" android:shrinkColumns="2"
+		android:layout_marginLeft="10dp" android:layout_marginRight="10dp">
+		<TableRow android:id="@+id/tableRow3" android:layout_width="wrap_content"
+			android:layout_height="wrap_content">
+			<TextView android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:id="@+id/textView6"
+				android:textAppearance="?android:attr/textAppearanceMedium"
+				android:text="@string/food_text" android:gravity="right"
+				android:layout_marginRight="4dp" android:layout_gravity="center_vertical"></TextView>
+			<TextView android:layout_width="wrap_content" android:text="TextView"
+				android:id="@+id/textView7" android:textAppearance="?android:attr/textAppearanceMedium"
+				android:layout_column="1" style="@style/TextEditorStyle" android:layout_span="3"
+				android:layout_height="30dp" android:gravity="center_vertical|center_horizontal"></TextView>
+		</TableRow>
+		<TableRow android:id="@+id/tableRow1" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_marginTop="4dp">
+			<TextView android:layout_height="wrap_content"
+				android:layout_width="wrap_content" android:id="@+id/textView2"
+				android:textAppearance="?android:attr/textAppearanceMedium"
+				android:text="@string/calories_text" android:gravity="right"
+				android:layout_marginRight="4dp" android:layout_gravity="center_vertical"></TextView>
+			<TextView android:layout_width="wrap_content" android:text="TextView"
+				android:id="@+id/textView4" android:textAppearance="?android:attr/textAppearanceMedium"
+				android:layout_column="1" style="@style/TextEditorStyle" android:layout_span="3"
+				android:layout_height="30dp" android:gravity="center_vertical|center_horizontal"></TextView>
+		</TableRow>
+		<TableRow android:id="@+id/tableRow2" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_marginTop="4dp">
+			<TextView android:layout_height="wrap_content"
+				android:text="@string/calories_range_text" android:layout_width="wrap_content"
+				android:id="@+id/textView5" android:textAppearance="?android:attr/textAppearanceMedium"
+				android:gravity="right" android:layout_marginRight="4dp"
+				android:layout_gravity="center_vertical"></TextView>
+			<ImageView android:id="@+id/imageView3" android:layout_marginRight="4dp" android:src="@drawable/dec_button_shape_selector" android:layout_height="35dp" android:layout_width="35dp" android:padding="3dp"></ImageView>
+			<EditText style="@style/TextEditorStyle"
+				android:layout_width="60dp" android:layout_weight="1" android:id="@+id/editText1"
+				android:layout_height="30dp" android:inputType="number" android:gravity="center_vertical|center_horizontal" android:layout_gravity="center_vertical">
+				<requestFocus></requestFocus>
+			</EditText>
+			<ImageView android:id="@+id/imageView2" android:layout_marginLeft="4dp" android:src="@drawable/inc_button_shape_selector" android:layout_height="35dp" android:layout_width="35dp" android:padding="3dp"></ImageView>
+		</TableRow>
+	</TableLayout>
+	<TextView android:layout_height="wrap_content"
+		android:text="@string/replace_food_title_text" android:layout_width="wrap_content"
+		android:id="@+id/textView1" android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_alignTop="@+id/imageView1" android:layout_toRightOf="@+id/imageView1"
+		android:layout_marginLeft="20dp"></TextView>
+</RelativeLayout>

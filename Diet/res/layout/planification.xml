@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<View android:background="@color/c82" android:layout_width="wrap_content"
+		android:id="@+id/view1" android:layout_height="36dp"
+		android:layout_alignParentBottom="true"></View>
+	<View android:background="@color/cad" android:layout_width="wrap_content"
+		android:id="@+id/view2" android:layout_height="44dp"
+		android:layout_above="@+id/view1"></View>
+
+	<LinearLayout android:orientation="vertical"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		android:layout_above="@+id/view2" android:layout_marginBottom="2dp">
+		<TextView android:id="@+id/textView1" android:layout_height="wrap_content"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="fill_parent" android:gravity="center_vertical|center_horizontal"
+			android:text="@string/week_planning_text"></TextView>
+		<TextView android:id="@+id/textView2" android:layout_height="wrap_content"
+			android:layout_width="fill_parent" android:gravity="center_vertical|center_horizontal"
+			android:textColor="@color/cff" android:background="#656565"
+			android:paddingTop="2dp" android:paddingBottom="2dp"
+			android:textSize="16dp" android:text="January 2013"></TextView>
+		<LinearLayout android:layout_height="wrap_content"
+			android:id="@+id/linearLayout1" android:layout_width="fill_parent"
+			android:layout_marginTop="8dp" android:background="@color/c82">
+			<Button android:layout_height="wrap_content"
+				android:layout_marginLeft="4dp"
+				android:background="@drawable/week_button_background_selector"
+				android:padding="4dp" android:layout_marginBottom="4dp"
+				android:layout_marginTop="4dp" android:textColor="@color/cff"
+				android:text="@string/actual_week_text" android:layout_weight="1"
+				android:layout_width="0dp" android:id="@+id/button1"></Button>
+			<Button android:layout_height="wrap_content"
+				android:layout_marginLeft="4dp"
+				android:background="@drawable/week_button_background_selector"
+				android:padding="4dp" android:layout_marginBottom="4dp"
+				android:layout_marginTop="4dp" android:textColor="@color/cff"
+				android:text="@string/next_week_text" android:layout_weight="1"
+				android:layout_width="0dp" android:id="@+id/button2"></Button>
+			<Button android:layout_height="wrap_content"
+				android:layout_marginLeft="4dp" android:layout_marginRight="4dp"
+				android:background="@drawable/week_button_background_selector"
+				android:padding="4dp" android:layout_marginBottom="4dp"
+				android:layout_marginTop="4dp" android:textColor="@color/cff"
+				android:text="@string/default_week_text" android:layout_weight="1"
+				android:layout_width="0dp" android:enabled="false" android:id="@+id/button3"></Button>
+		</LinearLayout>
+		<LinearLayout android:id="@+id/linearLayout2"
+			android:layout_width="fill_parent" android:layout_height="40dp"
+			android:layout_marginTop="8dp">
+			<Button android:id="@+id/button4" style="@style/DayButtonStyle"
+				android:layout_height="fill_parent"
+				android:layout_marginLeft="4dp" android:text="@string/sunday_letter"
+				android:layout_width="0dp" android:layout_weight="1"></Button>
+			<Button android:id="@+id/button5" style="@style/DayButtonStyle"
+				android:layout_height="fill_parent"
+				android:layout_marginLeft="1dp" android:text="@string/monday_letter"
+				android:layout_width="0dp" android:layout_weight="1"></Button>
+			<Button android:id="@+id/button6" style="@style/DayButtonStyle"
+				android:layout_height="fill_parent"
+				android:layout_marginLeft="1dp" android:text="@string/tuesday_letter"
+				android:layout_width="0dp" android:layout_weight="1"></Button>
+			<Button android:id="@+id/button7" style="@style/DayButtonStyle"
+				android:layout_height="fill_parent"
+				android:layout_marginLeft="1dp" android:text="@string/wednesday_letter"
+				android:layout_width="0dp" android:layout_weight="1"></Button>
+			<Button android:id="@+id/button8" style="@style/DayButtonStyle"
+				android:layout_height="fill_parent"
+				android:layout_marginLeft="1dp" android:text="@string/thursday_letter"
+				android:layout_width="0dp" android:layout_weight="1"></Button>
+			<Button android:id="@+id/button9" style="@style/DayButtonStyle"
+				android:layout_height="fill_parent"
+				android:layout_marginLeft="1dp" android:text="@string/friday_letter"
+				android:layout_width="0dp" android:layout_weight="1"></Button>
+			<Button android:id="@+id/button10" style="@style/DayButtonStyle"
+				android:layout_height="fill_parent"
+				android:layout_marginLeft="1dp" android:layout_marginRight="4dp"
+				android:text="@string/saturday_letter" android:layout_width="0dp" android:layout_weight="1"></Button>
+		</LinearLayout>
+		<LinearLayout android:layout_height="wrap_content"
+			android:id="@+id/linearLayout3" android:layout_width="fill_parent"
+			android:layout_marginTop="-15dp">
+			<TextView android:id="@+id/textView3" android:layout_height="wrap_content" android:gravity="right|center_vertical"
+				android:layout_marginLeft="4dp" android:textSize="12dp"
+				android:paddingRight="4dp" android:text="27" android:layout_weight="1" android:layout_width="0dp" android:textColor="@color/c00"></TextView>
+			<TextView android:id="@+id/textView4" android:layout_height="wrap_content" android:gravity="right|center_vertical"
+				android:layout_marginLeft="1dp" android:textSize="12dp"
+				android:paddingRight="4dp" android:textColor="@color/c00" android:text="28" android:layout_weight="1" android:layout_width="0dp"></TextView>
+			<TextView android:id="@+id/textView5" android:layout_height="wrap_content" android:gravity="right|center_vertical"
+				android:layout_marginLeft="1dp" android:textSize="12dp"
+				android:paddingRight="4dp" android:textColor="@color/c00" android:text="29" android:layout_weight="1" android:layout_width="0dp"></TextView>
+			<TextView android:id="@+id/textView6" android:layout_height="wrap_content" android:gravity="right|center_vertical"
+				android:layout_marginLeft="1dp" android:textSize="12dp"
+				android:paddingRight="4dp" android:textColor="@color/c00" android:text="30" android:layout_weight="1" android:layout_width="0dp"></TextView>
+			<TextView android:id="@+id/textView7" android:layout_height="wrap_content" android:gravity="right|center_vertical"
+				android:layout_marginLeft="1dp" android:textSize="12dp"
+				android:paddingRight="4dp" android:textColor="@color/c00" android:text="31" android:layout_weight="1" android:layout_width="0dp"></TextView>
+			<TextView android:id="@+id/textView8" android:layout_height="wrap_content" android:gravity="right|center_vertical"
+				android:layout_marginLeft="1dp" android:textSize="12dp"
+				android:paddingRight="4dp" android:textColor="@color/c00" android:text="1" android:layout_weight="1" android:layout_width="0dp"></TextView>
+			<TextView android:id="@+id/textView9" android:layout_height="wrap_content" android:gravity="right|center_vertical"
+				android:layout_marginLeft="1dp" android:layout_marginRight="4dp"
+				android:textSize="12dp" android:paddingRight="4dp" android:textColor="@color/c00" android:text="2" android:layout_weight="1" android:layout_width="0dp"></TextView>
+		</LinearLayout>
+		<ScrollView android:layout_width="fill_parent" android:id="@+id/scrollView1"
+			android:layout_height="fill_parent" android:layout_marginLeft="4dp"
+			android:layout_marginRight="4dp" android:layout_marginTop="8dp">
+			<LinearLayout android:orientation="vertical"
+				android:layout_width="fill_parent" android:layout_height="fill_parent">
+				<RelativeLayout android:id="@+id/tableRow1" android:layout_marginBottom="2dp" android:layout_marginLeft="2dp"
+					android:layout_marginRight="2dp" android:background="@drawable/c82_round_both" android:layout_width="fill_parent" android:layout_height="65dp">
+					<ImageButton android:layout_width="30dp" android:id="@+id/imageButton1" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:layout_height="30dp" android:layout_marginBottom="4dp" android:layout_marginRight="4dp" android:background="@drawable/delete_button_backgroud_selector" android:tag="0"></ImageButton>
+					<ImageButton android:layout_width="30dp" android:id="@+id/imageButton7" android:layout_height="30dp" android:layout_toLeftOf="@+id/imageButton1" android:layout_alignParentBottom="true" android:layout_marginBottom="4dp" android:layout_marginRight="4dp" android:background="@drawable/edit_button_backgroud_selector" android:tag="0"></ImageButton>
+					<ImageButton android:layout_width="30dp" android:background="@drawable/plan_button_backgroud_selector" android:layout_height="30dp" android:id="@+id/imageButton13" android:layout_alignParentBottom="true" android:layout_toLeftOf="@+id/imageButton7" android:layout_marginBottom="4dp" android:layout_marginRight="4dp" android:tag="0"></ImageButton>
+					<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textView16" android:layout_alignParentTop="true" android:layout_alignParentLeft="true" android:layout_marginLeft="4dp" android:layout_marginTop="2dp" android:text="@string/breakfast_text"></TextView>
+					<TextView android:layout_width="wrap_content" android:textSize="18dp" android:layout_height="wrap_content" android:text="TextView" android:id="@+id/textView10" android:layout_below="@+id/textView16" android:layout_alignParentLeft="true" android:layout_marginLeft="10dp" android:tag="0" android:layout_alignRight="@+id/textView22" android:textColor="@color/menu_planification_text_color"></TextView>
+					<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textView22" android:layout_alignBottom="@+id/imageButton13" android:layout_toLeftOf="@+id/imageButton13" android:textColor="@color/cff" android:layout_marginRight="10dp" android:text="-- cal" android:textSize="12dp"></TextView>
+					<TextView android:textAppearance="?android:attr/textAppearanceSmall" android:text="TextView" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView28" android:layout_alignBaseline="@+id/textView22" android:layout_alignLeft="@+id/textView10" android:textSize="12dp" android:layout_marginLeft="20dp"></TextView>
+				</RelativeLayout>
+				<RelativeLayout android:id="@+id/tableRow2" android:layout_marginBottom="2dp" android:layout_marginLeft="2dp"
+					android:layout_marginRight="2dp" android:background="@drawable/c82_round_both" android:layout_width="fill_parent" android:layout_height="65dp">
+					<ImageButton android:layout_width="30dp" android:id="@+id/imageButton2" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:layout_height="30dp" android:layout_marginBottom="4dp" android:layout_marginRight="4dp" android:background="@drawable/delete_button_backgroud_selector" android:tag="1"></ImageButton>
+					<ImageButton android:layout_width="30dp" android:id="@+id/imageButton8" android:layout_height="30dp" android:layout_toLeftOf="@+id/imageButton2" android:layout_alignParentBottom="true" android:layout_marginBottom="4dp" android:layout_marginRight="4dp" android:background="@drawable/edit_button_backgroud_selector" android:tag="1"></ImageButton>
+					<ImageButton android:layout_width="30dp" android:background="@drawable/plan_button_backgroud_selector" android:layout_height="30dp" android:id="@+id/imageButton14" android:layout_alignParentBottom="true" android:layout_toLeftOf="@+id/imageButton8" android:layout_marginBottom="4dp" android:layout_marginRight="4dp" android:tag="1"></ImageButton>
+					<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textView17" android:layout_alignParentTop="true" android:layout_alignParentLeft="true" android:layout_marginTop="2dp" android:layout_marginLeft="4dp" android:text="@string/snack_text"></TextView>
+					<TextView android:layout_width="wrap_content" android:textSize="18dp" android:layout_height="wrap_content" android:text="TextView" android:id="@+id/textView11" android:layout_alignParentLeft="true" android:layout_below="@+id/textView17" android:layout_marginLeft="10dp" android:tag="1" android:layout_alignRight="@+id/textView23" android:textColor="@color/menu_planification_text_color"></TextView>
+					<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textView23" android:layout_alignBottom="@+id/imageButton14" android:layout_toLeftOf="@+id/imageButton14" android:textColor="@color/cff" android:layout_marginRight="10dp" android:text="-- cal" android:textSize="12dp"></TextView>
+					<TextView android:textAppearance="?android:attr/textAppearanceSmall" android:text="TextView" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView29" android:layout_alignBaseline="@+id/textView23" android:layout_alignLeft="@+id/textView11" android:textSize="12dp" android:layout_marginLeft="20dp"></TextView>
+				</RelativeLayout>
+				<RelativeLayout android:id="@+id/tableRow3" android:layout_marginBottom="2dp" android:layout_marginLeft="2dp"
+					android:layout_marginRight="2dp" android:background="@drawable/c82_round_both" android:layout_width="fill_parent" android:layout_height="65dp">
+					<ImageButton android:layout_width="30dp" android:id="@+id/imageButton3" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:layout_height="30dp" android:layout_marginBottom="4dp" android:layout_marginRight="4dp" android:background="@drawable/delete_button_backgroud_selector" android:tag="2"></ImageButton>
+					<ImageButton android:layout_width="30dp" android:id="@+id/imageButton9" android:layout_height="30dp" android:layout_toLeftOf="@+id/imageButton3" android:layout_alignParentBottom="true" android:layout_marginBottom="4dp" android:layout_marginRight="4dp" android:background="@drawable/edit_button_backgroud_selector" android:tag="2"></ImageButton>
+					<ImageButton android:layout_width="30dp" android:background="@drawable/plan_button_backgroud_selector" android:layout_height="30dp" android:id="@+id/imageButton15" android:layout_alignParentBottom="true" android:layout_toLeftOf="@+id/imageButton9" android:layout_marginBottom="4dp" android:layout_marginRight="4dp" android:tag="2"></ImageButton>
+					<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textView18" android:layout_alignParentTop="true" android:layout_alignParentLeft="true" android:layout_marginTop="2dp" android:layout_marginLeft="4dp" android:text="@string/lunch_text"></TextView>
+					<TextView android:layout_width="wrap_content" android:textSize="18dp" android:layout_height="wrap_content" android:text="TextView" android:id="@+id/textView12" android:layout_alignParentLeft="true" android:layout_below="@+id/textView18" android:layout_marginLeft="10dp" android:tag="2" android:layout_alignRight="@+id/textView24" android:textColor="@color/menu_planification_text_color"></TextView>
+					<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textView24" android:layout_alignBottom="@+id/imageButton15" android:layout_toLeftOf="@+id/imageButton15" android:textColor="@color/cff" android:layout_marginRight="10dp" android:text="-- cal" android:textSize="12dp"></TextView>
+					<TextView android:textAppearance="?android:attr/textAppearanceSmall" android:text="TextView" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_alignBaseline="@+id/textView24" android:layout_alignLeft="@+id/textView12" android:id="@+id/textView30" android:textSize="12dp" android:layout_marginLeft="20dp"></TextView>
+				</RelativeLayout>
+				<RelativeLayout android:id="@+id/tableRow4" android:layout_marginBottom="2dp" android:layout_marginLeft="2dp"
+					android:layout_marginRight="2dp" android:background="@drawable/c82_round_both" android:layout_width="fill_parent" android:layout_height="65dp">
+					<ImageButton android:layout_width="30dp" android:id="@+id/imageButton4" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:layout_height="30dp" android:layout_marginBottom="4dp" android:layout_marginRight="4dp" android:background="@drawable/delete_button_backgroud_selector" android:tag="3"></ImageButton>
+					<ImageButton android:layout_width="30dp" android:id="@+id/imageButton10" android:layout_height="30dp" android:layout_toLeftOf="@+id/imageButton4" android:layout_alignParentBottom="true" android:layout_marginBottom="4dp" android:layout_marginRight="4dp" android:background="@drawable/edit_button_backgroud_selector" android:tag="3"></ImageButton>
+					<ImageButton android:layout_width="30dp" android:background="@drawable/plan_button_backgroud_selector" android:layout_height="30dp" android:id="@+id/imageButton16" android:layout_alignParentBottom="true" android:layout_toLeftOf="@+id/imageButton10" android:layout_marginBottom="4dp" android:layout_marginRight="4dp" android:tag="3"></ImageButton>
+					<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textView19" android:layout_alignParentTop="true" android:layout_alignParentLeft="true" android:layout_marginTop="2dp" android:layout_marginLeft="4dp" android:text="@string/snack_text"></TextView>
+					<TextView android:layout_width="wrap_content" android:textSize="18dp" android:layout_height="wrap_content" android:text="TextView" android:id="@+id/textView13" android:layout_alignParentLeft="true" android:layout_below="@+id/textView19" android:layout_marginLeft="10dp" android:tag="3" android:layout_alignRight="@+id/textView25" android:textColor="@color/menu_planification_text_color"></TextView>
+					<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textView25" android:layout_alignBottom="@+id/imageButton16" android:layout_toLeftOf="@+id/imageButton16" android:textColor="@color/cff" android:layout_marginRight="10dp" android:text="-- cal" android:textSize="12dp"></TextView>
+					<TextView android:textAppearance="?android:attr/textAppearanceSmall" android:text="TextView" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_alignBaseline="@+id/textView25" android:layout_alignLeft="@+id/textView13" android:id="@+id/textView31" android:textSize="12dp" android:layout_marginLeft="20dp"></TextView>
+				</RelativeLayout>
+				<RelativeLayout android:id="@+id/tableRow5" android:layout_marginBottom="2dp" android:layout_marginLeft="2dp"
+					android:layout_marginRight="2dp" android:background="@drawable/c82_round_both" android:layout_width="fill_parent" android:layout_height="65dp">
+					<ImageButton android:layout_width="30dp" android:id="@+id/imageButton5" android:layout_height="30dp" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:layout_marginBottom="4dp" android:layout_marginRight="4dp" android:background="@drawable/delete_button_backgroud_selector" android:tag="4"></ImageButton>
+					<ImageButton android:id="@+id/imageButton11" android:layout_toLeftOf="@+id/imageButton5" android:layout_alignParentBottom="true" android:layout_height="30dp" android:layout_width="30dp" android:layout_marginBottom="4dp" android:layout_marginRight="4dp" android:background="@drawable/edit_button_backgroud_selector" android:tag="4"></ImageButton>
+					<ImageButton android:layout_width="30dp" android:background="@drawable/plan_button_backgroud_selector" android:layout_height="30dp" android:id="@+id/imageButton17" android:layout_alignParentBottom="true" android:layout_toLeftOf="@+id/imageButton11" android:layout_marginBottom="4dp" android:layout_marginRight="4dp" android:tag="4"></ImageButton>
+					<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textView20" android:layout_alignParentTop="true" android:layout_alignParentLeft="true" android:layout_marginTop="2dp" android:layout_marginLeft="4dp" android:text="@string/dinner_text"></TextView>
+					<TextView android:layout_width="wrap_content" android:textSize="18dp" android:layout_height="wrap_content" android:text="TextView" android:id="@+id/textView14" android:layout_alignParentLeft="true" android:layout_below="@+id/textView20" android:layout_marginLeft="10dp" android:tag="4" android:layout_alignRight="@+id/textView26" android:textColor="@color/menu_planification_text_color"></TextView>
+					<TextView android:id="@+id/textView26" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_toLeftOf="@+id/imageButton17" android:textColor="@color/cff" android:layout_marginRight="10dp" android:text="-- cal" android:textSize="12dp"></TextView>
+					<TextView android:textAppearance="?android:attr/textAppearanceSmall" android:text="TextView" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView32" android:layout_alignBaseline="@+id/textView26" android:layout_alignLeft="@+id/textView14" android:textSize="12dp" android:layout_marginLeft="20dp"></TextView>
+				</RelativeLayout>
+				<RelativeLayout android:id="@+id/tableRow6"
+					android:layout_marginBottom="2dp" android:layout_marginLeft="2dp"
+					android:layout_marginRight="2dp" android:background="@drawable/c82_round_both" android:layout_width="fill_parent" android:layout_height="65dp">
+					<ImageButton android:layout_width="30dp" android:id="@+id/imageButton6" android:layout_height="30dp" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:layout_marginRight="4dp" android:layout_marginBottom="4dp" android:background="@drawable/delete_button_backgroud_selector" android:tag="5"></ImageButton>
+					<ImageButton android:id="@+id/imageButton12" android:layout_toLeftOf="@+id/imageButton6" android:layout_alignParentBottom="true" android:layout_height="30dp" android:layout_width="30dp" android:layout_marginRight="4dp" android:layout_marginBottom="4dp" android:background="@drawable/edit_button_backgroud_selector" android:tag="5"></ImageButton>
+					<ImageButton android:id="@+id/imageButton18" android:background="@drawable/plan_button_backgroud_selector" android:layout_height="30dp" android:layout_width="30dp" android:layout_alignParentBottom="true" android:layout_toLeftOf="@+id/imageButton12" android:layout_marginBottom="4dp" android:layout_marginRight="4dp" android:tag="5"></ImageButton>
+					<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textView21" android:layout_marginTop="2dp" android:layout_marginLeft="4dp" android:text="@string/snack_text"></TextView>
+					<TextView android:layout_width="wrap_content" android:textSize="18dp" android:layout_height="wrap_content" android:text="TextView" android:id="@+id/textView15" android:layout_alignParentLeft="true" android:layout_below="@+id/textView21" android:layout_marginLeft="10dp" android:tag="5" android:layout_alignRight="@+id/textView27" android:textColor="@color/menu_planification_text_color"></TextView>
+					<TextView android:id="@+id/textView27" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@+id/imageButton18" android:layout_alignParentBottom="true" android:textColor="@color/cff" android:layout_marginRight="10dp" android:text="-- cal" android:textSize="12dp"></TextView>
+					<TextView android:textAppearance="?android:attr/textAppearanceSmall" android:text="TextView" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView33" android:layout_alignBaseline="@+id/textView27" android:layout_alignLeft="@+id/textView15" android:textSize="12dp" android:layout_marginLeft="20dp"></TextView>
+				</RelativeLayout>
+			</LinearLayout>
+		</ScrollView>
+
+	</LinearLayout>
+	<Button android:text="@string/save_text" android:layout_width="wrap_content"
+		style="@style/ButtonBlack"
+		android:layout_height="wrap_content" android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true" android:layout_marginRight="19dp"
+		android:layout_marginBottom="19dp" android:layout_alignBaseline="@+id/view1" android:id="@+id/button11"></Button>
+	<Button android:text="@string/back_text" android:layout_height="wrap_content" android:layout_width="wrap_content" style="@style/ButtonBlack" android:id="@+id/button12" android:layout_alignBaseline="@+id/button11" android:layout_alignBottom="@+id/button11" android:layout_toLeftOf="@+id/button11" android:layout_marginRight="14dp"></Button>
+	<ImageButton android:id="@+id/imageButton19" android:layout_width="50dp" android:layout_height="50dp" style="@style/ButtonBlack" android:layout_alignTop="@+id/view2" android:layout_alignParentLeft="true" android:layout_marginTop="15dp" android:layout_marginLeft="10dp" android:src="@drawable/shop_report" android:scaleType="fitXY" android:padding="5dp"></ImageButton>
+</RelativeLayout>

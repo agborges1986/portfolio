@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Solving Maps</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_accept">Accept</string>
+    <string name="button_back">Back  </string>
+    <string name="input_text_choose">Choose the form of input for the Karnaugh Maps</string>
+	<string name="maps_karnough">Karnough Maps</string>
+	<string name="true_table">Truth Table</string>
+	<string name="logical_function">Logical Function</string>
+</resources>

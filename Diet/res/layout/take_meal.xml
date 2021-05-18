@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<ImageView android:id="@+id/imageView1" android:layout_width="wrap_content"
+		android:src="@drawable/icon" android:layout_height="wrap_content"
+		android:layout_alignParentTop="true" android:layout_alignParentLeft="true"
+		android:layout_marginLeft="18dp" android:layout_marginTop="19dp"></ImageView>
+	<TextView android:layout_width="wrap_content"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_height="wrap_content" android:id="@+id/textView1"
+		android:layout_alignTop="@+id/imageView1" android:layout_toRightOf="@+id/imageView1"
+		android:layout_marginLeft="15dp" android:layout_marginTop="10dp"
+		android:text="@string/take_meal_text"></TextView>
+	<CheckBox android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:id="@+id/checkBox1"
+		android:layout_below="@+id/imageView1" android:layout_alignLeft="@+id/imageView1"
+		android:layout_marginTop="15dp" android:text="@string/with_menu_text"></CheckBox>
+	<View android:id="@+id/view1" android:layout_width="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentBottom="true" android:layout_height="36dp"
+		android:background="@color/c82"></View>
+	<View android:id="@+id/view2" android:layout_width="wrap_content"
+		android:layout_above="@+id/view1" android:layout_alignParentLeft="true"
+		android:layout_height="44dp" android:background="@color/cad"></View>
+	<Button style="@style/ButtonBlack" android:id="@+id/button1"
+		android:layout_height="wrap_content" android:layout_width="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true" android:layout_marginRight="38dp"
+		android:layout_marginBottom="20dp" android:text="@string/accept_text"
+		android:minWidth="60dp"></Button>
+	<TextView android:paddingLeft="4dp"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:paddingRight="4dp" android:id="@+id/textView2"
+		android:background="@drawable/cf1_round_both"
+		android:layout_alignBaseline="@+id/checkBox1"
+		android:layout_alignBottom="@+id/checkBox1" android:paddingBottom="4dp"
+		android:layout_width="wrap_content" android:layout_toRightOf="@+id/checkBox1"
+		android:gravity="center_horizontal" android:layout_marginLeft="4dp"
+		android:layout_alignParentRight="true" android:layout_marginRight="20dp"
+		android:ellipsize="marquee" android:marqueeRepeatLimit="marquee_forever"
+		android:textSize="16dp" android:paddingTop="4dp"
+		android:layout_height="30dp" android:text="@string/none_text"></TextView>
+	<LinearLayout android:layout_width="wrap_content"
+		android:id="@+id/linearLayout1" android:orientation="vertical"
+		android:layout_height="wrap_content" android:layout_below="@+id/checkBox1"
+		android:layout_alignParentRight="true" android:layout_alignLeft="@+id/checkBox1"
+		android:background="@drawable/cc4_round_both"
+		android:layout_marginRight="20dp" android:layout_above="@+id/view2"
+		android:layout_marginBottom="2dp">
+		<RelativeLayout android:layout_width="fill_parent"
+			android:id="@+id/RelativeLayout1" android:layout_height="wrap_content"
+			android:orientation="horizontal">
+			<ImageButton android:id="@+id/imageButton1"
+				android:layout_width="50dp" android:layout_height="50dp" android:layout_alignParentTop="true"
+				android:layout_alignParentRight="true" android:layout_marginRight="14dp"
+				android:layout_marginTop="2dp" android:src="@drawable/add_food"></ImageButton>
+			<TextView android:layout_width="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceMedium"
+				android:layout_height="wrap_content" android:id="@+id/textView3"
+				android:layout_centerVertical="true"
+				android:layout_centerHorizontal="true" android:text="@string/foods_text"></TextView>
+		</RelativeLayout>
+		<ListView android:layout_height="wrap_content" android:id="@+id/listView1"
+			android:layout_margin="2dp" android:background="@drawable/cf1_round_both"
+			android:layout_width="fill_parent" android:listSelector="@drawable/list_selector"></ListView>
+	</LinearLayout>
+	<Button android:id="@+id/button3" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:layout_alignBaseline="@+id/button1"
+		android:layout_alignBottom="@+id/button1" android:layout_toLeftOf="@+id/button1"
+		android:text="@string/cancel_text" android:layout_marginRight="20dp"
+		style="@style/ButtonBlack"></Button>
+	<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textView5" android:layout_alignBaseline="@+id/textView4" android:layout_alignBottom="@+id/textView4" android:layout_toLeftOf="@+id/textView4" android:text="@string/total_calories_text" android:textColor="#000"></TextView>
+	<TextView android:text="2000" android:gravity="left" android:layout_width="60dp" android:paddingLeft="4dp" android:layout_height="wrap_content" android:id="@+id/textView4" android:textColor="#000" android:layout_below="@+id/imageView1" android:layout_alignRight="@+id/textView2"></TextView>
+</RelativeLayout>

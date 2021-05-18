@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="preferences_list_ask">
+   		<item>40</item>
+		<item>45</item>
+		<item>50</item>
+		<item>55</item>
+		<item>60</item>
+		<item>65</item>
+	</string-array> 
+	<string-array name="lenguajes">
+		<item>Spanish</item>
+		<item>English</item>
+	</string-array>
+	<string-array name="lenguajes_value">
+	    <item>sp</item>
+	    <item>en</item>
+	</string-array>
+	<string-array name="examen_type">
+	    <item>For trucks license</item>
+	    <item>Normal license</item>
+	</string-array>
+	<string-array name="examen_type_value">
+	    <item>true</item>
+	    <item>false</item>
+	</string-array>
+</resources>

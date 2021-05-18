@@ -1,0 +1,81 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kaymansoft.proximity"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main" >
+        </activity>
+        <activity
+            android:name=".gui.SplashActivity"
+            android:label="@string/title_activity_splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".gui.SelectUserActivity"
+            android:label="@string/title_activity_select_user" >
+        </activity>
+        <activity
+            android:name=".gui.NewUserActivity"
+            android:label="@string/title_activity_new_user" >
+        </activity>
+        <activity
+            android:name=".gui.HomeActivity"
+            android:label="@string/title_activity_home" >
+        </activity>
+        <activity
+            android:name=".gui.LoginActivity"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name=".gui.WhatHotListActivity"
+            android:label="@string/title_activity_what_hot" >
+        </activity>
+        <activity
+            android:name=".gui.PostPlaceActivity"
+            android:label="@string/title_activity_post_place" >
+        </activity>
+        <activity
+            android:name=".tmp.TestAllActivity"
+            android:label="@string/title_activity_test_all" >
+        </activity>
+        <activity
+            android:name=".gui.CommentPlaceActivity"
+            android:label="@string/title_activity_comment_place" >
+        </activity>
+        <activity
+            android:name=".gui.AllCommentsActivity"
+            android:label="@string/title_activity_all_comments" >
+        </activity>
+
+        <uses-library android:name="com.google.android.maps" />
+
+        <activity
+            android:name=".gui.WhatHotMapActivity"
+            android:label="@string/title_activity_what_hot_map" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.google.android.maps.MapActivity" />
+        </activity>
+        <activity
+            android:name=".gui.SelectAvatarActivity"
+            android:label="@string/title_activity_select_avatar" >
+        </activity>
+    </application>
+
+</manifest>

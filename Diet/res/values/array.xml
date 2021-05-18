@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+	<string-array name="languages_list" tools:ignore="MissingTranslation,MissingTranslation">
+		<item>Spanish</item>
+		<item>English</item>
+	</string-array>
+	<string-array name="preferences_languages_list_values">
+		<item>es</item>
+		<item>en</item>
+	</string-array>
+	<string-array name="sexs_list">
+		<item>Male</item>
+		<item>Female</item>
+	</string-array>
+	<string-array name="sex_values_list">
+		<item>M</item>
+		<item>F</item>
+	</string-array>
+	<string-array name="daily_activity_list">
+		<item>Sedentary</item>
+		<item>Lightly Active</item>
+		<item>Active</item>
+		<item>Very Active</item>
+	</string-array>
+	<string-array name="daily_activity_values_list">
+		<item>S</item>
+		<item>LA</item>
+		<item>A</item>
+		<item>VA</item>
+	</string-array>
+	<string-array name="bmi_class_text">
+		<item>Severely Underweight</item>
+		<item>Underweight</item>
+		<item>Healthy</item>
+		<item>Overweight</item>
+		<item>Obese</item>
+		<item>Morbidly Obese</item>
+	</string-array>
+	<string-array name="month_text">
+		<item>January</item>
+		<item>February</item>
+		<item>March</item>
+		<item>April</item>
+		<item>May</item>
+		<item>June</item>
+		<item>July</item>
+		<item>August</item>
+		<item>September</item>
+		<item>October</item>
+		<item>November</item>
+		<item>December</item>
+	</string-array>
+	<string-array name="hints_text">
+		<item>Explore the application!
+		In every list long press an item to access the item based menu or click the menu button of your device to see a list menu.
+		To search foods or menus in a list start typing or click the search button of your device!</item>
+		<item>You can see and update your info in the \"User Info\" tab</item>
+		<item>You can see a track of your diet in the \"General\" tab, also you can explore the foods and menus</item>
+		<item>The tab "Diet" shows you the general info about your diet today</item>
+		<item>You can replace a food when you are entring the meal data, just long press the food and select replace</item>
+		<item>Keep your weight updated, go to \"User Info\" tab and click on \"Edit Info\" button</item>
+		<item>To activate/deactivate the alarms click on the menu button of your device and click on Preferences</item>
+		<item>You can activate/deactivate this hints: go to Preferences or click the checkbox below</item>
+		<item>The planning of your diet is accessible through menu/Planning, there you can set default menus for your meals</item>
+		<item>If you think you had configured your diet with wrong data (about your personal info or usual wake/sleep time), don\'t worry, go to \"User Info\" tab and click on \"Edit Info\"(\"Edit Times\") button then enter the correct data.
+		Now press menu and click on \"Reset Diet\".</item>
+	</string-array>
+</resources>

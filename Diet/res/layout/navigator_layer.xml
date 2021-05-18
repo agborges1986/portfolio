@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/LinearLayout1"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+   <LinearLayout android:layout_height="wrap_content" 
+   	android:layout_width="fill_parent" 
+   	android:id="@+id/linearLayout1" 
+   	android:gravity="center" 
+   	android:layout_alignParentLeft="true" 
+   	android:layout_alignParentRight="true" 
+   	android:layout_alignParentTop="true">
+        <ScrollView android:layout_height="wrap_content" android:layout_width="fill_parent" android:background="@color/background_white" android:id="@+id/scrollView1">
+            <FrameLayout android:layout_height="fill_parent" android:layout_width="fill_parent" android:background="@color/background_white" android:id="@+id/frameInflate"></FrameLayout>
+        </ScrollView>
+    </LinearLayout>
+  <View android:id="@+id/view1" android:layout_width="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentBottom="true" android:layout_height="36dp"
+		android:background="@color/c82"></View>
+	<View android:id="@+id/view2" android:layout_width="wrap_content"
+		android:layout_above="@+id/view1" android:layout_alignParentLeft="true"
+		android:layout_height="44dp" android:background="@color/cad"></View>
+	<Button style="@style/ButtonBlack" android:id="@+id/bFoward"
+		android:layout_height="wrap_content" android:layout_width="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true" android:layout_marginRight="38dp"
+		android:layout_marginBottom="20dp" android:text="@string/forward_text"></Button>
+	<Button style="@style/ButtonBlack" android:id="@+id/bBack"
+		android:layout_height="wrap_content" android:layout_width="wrap_content"
+		android:layout_alignBaseline="@+id/bFoward"
+		android:layout_alignBottom="@+id/bFoward"
+		android:layout_alignParentLeft="true" android:layout_marginLeft="50dp"
+		android:text="@string/back_text"></Button>
+</RelativeLayout>

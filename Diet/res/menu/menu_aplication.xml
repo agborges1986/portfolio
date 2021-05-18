@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item android:id="@+id/item4" android:title="@string/planification_text" android:icon="@android:drawable/ic_input_get"></item><item
+    android:alphabeticShortcut="p"
+    android:icon="@android:drawable/ic_menu_preferences" android:id="@+id/item2" android:title="@string/preferences_text"/><item android:id="@+id/item5" android:title="@string/help_text" android:icon="@android:drawable/ic_menu_help"></item>
+    
+    <item android:id="@+id/item7" android:title="@string/share_text" android:icon="@android:drawable/ic_menu_share"></item><item android:id="@+id/item6" android:title="@string/reset_diet_text" android:icon="@android:drawable/ic_menu_revert"></item><item android:alphabeticShortcut="a" android:title="@string/about_text" android:icon="@android:drawable/ic_menu_info_details" android:id="@+id/item1" /><item android:alphabeticShortcut="e" android:title="@string/exit_text" android:icon="@android:drawable/ic_menu_close_clear_cancel" android:id="@+id/item3" />
+    
+    
+    
+    
+</menu>

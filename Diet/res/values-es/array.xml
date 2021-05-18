@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string-array name="sexs_list">
+		<item>Masculino</item>
+		<item>Femenino</item>
+	</string-array>
+	<string-array name="daily_activity_list">
+		<item>Sedentario</item>
+		<item>Ligeramente Activo</item>
+		<item>Activo</item>
+		<item>Muy Activo</item>
+	</string-array>
+	<string-array name="bmi_class_text">
+		<item>Bajo peso severo</item>
+		<item>Bajo peso</item>
+		<item>Saludable</item>
+		<item>Sobrepeso</item>
+		<item>Obeso</item>
+		<item>Muy Obeso</item>
+	</string-array>
+	<string-array name="month_text">
+		<item>Enero</item>
+		<item>Febrero</item>
+		<item>Marzo</item>
+		<item>Abril</item>
+		<item>Mayo</item>
+		<item>Junio</item>
+		<item>Julio</item>
+		<item>Agosto</item>
+		<item>Septiembre</item>
+		<item>Octubre</item>
+		<item>Noviembre</item>
+		<item>Diciembre</item>
+	</string-array>
+	<string-array name="hints_text">
+		<item>¡Explore la aplicación!
+		En cada lista presione largo un elemento para acceder al menú de elementos o haga click en el botón de menú de su dispositivo para acceder al menú de la lista.
+		Para buscar	alimentos o menús en una lista comience a escribir o haga click en el botón de búsqueda de su dispositivo</item>
+		<item>Puede ver y actualizar su información en la pestaña \"Usuario\"</item>
+		<item>Puede ver la información recopilada sobre su dieta en la pestaña \"General\", aquí también puede explorar los alimentos y menús</item>
+		<item>La pestaña \"Diet\" muestra información general sobre su dieta hoy</item>
+		<item>Puede reemplazar un alimento cuando está introduciendo datos sobre su comida, simplemente presione largo el alimento y seleccione	reemplazar</item>
+		<item>Mantenga su peso actualizado, vaya a la pestaña \"Usuario\" y haga click en \"Editar info.\"</item>
+		<item>Para activar/desactivar las alarmas oprima el botón de menú de su dispositivo y haga click en Preferencias</item>
+		<item>En las Preferencias puede activar/desactivar estos consejos o	marcando la opción que aparece aquí debajo</item>
+		<item>Puede acceder a la planificación de su dieta en menú/Planificación, ahí podrá definir menús para cada una de sus
+			comidas</item>
+		<item>Si usted cree que configuró la dieta con algún dato erróneo (sobre su información personal u horarios habituales de levantarse/dormir), no se preocupe, en la pestaña \"Usuario\" haga click en \"Editar info\"(\"Editar Hor.\") y entre al información correcta.
+		Luego oprima \"menu\" y haga click en \"Reiniciar Dieta\".</item>
+	</string-array>
+</resources>

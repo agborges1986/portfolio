@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<CheckBoxPreference android:defaultValue="true"
+		android:key="alarm_check" android:persistent="true"
+		android:disableDependentsState="false" android:summaryOn="@string/alarms_on_text" android:summaryOff="@string/alarms_off_text" android:title="@string/alarms_text"/>
+	<CheckBoxPreference android:key="vibration_check" android:summaryOn="@string/vibration_on_text" android:disableDependentsState="true" android:title="@string/vibration_check" android:summaryOff="@string/vibration_off_text" android:dependency="alarm_check" android:persistent="true" android:defaultValue="true"></CheckBoxPreference>
+	<CheckBoxPreference android:summaryOn="@string/sound_on_text" android:summaryOff="@string/sound_off_text" android:key="sound_check" android:title="@string/alarms_sound_text" android:dependency="alarm_check" android:disableDependentsState="true" android:persistent="true" android:defaultValue="true"></CheckBoxPreference>
+	<CheckBoxPreference android:summaryOn="@string/dont_hints_on_text" android:summaryOff="@string/dont_hints_off_text" android:key="hints_check" android:defaultValue="false" android:persistent="true" android:title="@string/dont_hints_on_text"></CheckBoxPreference>
+  
+</PreferenceScreen>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TestProff!</string>
+    <string name="app_name">Driver Test</string>
+    
+    <string name="result_bad_answer">Respuestas incorrectas</string>
+    <string name="result_good_answer">Respuestas correctas</string>
+    <string name="result_total_answer">Total de preguntas</string>
+    <string name="result_indice">Calificación</string>
+    <string name="result_time">Tiempo del examen:</string>
+    
+	<string name="flash_button_check">Evaluar</string>
+	<string name="flash_button_next">Siguiente</string>
+	<string name="flash_skip">Terminar</string>
+	
+	<string name="result_title_graf">Resultados del Examen</string>
+	<string name="result_bad_answers_graf_legend">Incorrectas</string>
+	<string name="result_good_answers_graf_legend">Correctas</string>
+	<string name="result_total_answers_graf_legend">Total</string>
+    <string name="result_title">Calificación</string>
+    
+    <string name="result_button_setting">Configurar</string>
+	<string name="result_button_again">Nuevo Examen</string>
+	<string name="result_button_about">Acerca de</string>
+	
+	<string name="finish_text_dialog">Desea terninar el Examen</string>
+	<string name="finish_title_dialog">Atención</string>
+	
+	<string name="cancel_dialog">Cancelar</string>
+	<string name="ok_dialog">Aceptar</string>
+	
+	<string name="comment_head">Comentario</string> 
+	
+	<string name="rigth_reserverd">Todos los derechos reservados</string>
+	<string name="year">2013</string>
+	
+	<string name="alarm_time_answer">TERMINÓ EL TIEMPO DE LA PREGUNTA</string>
+	<string name="alarm_time_test">TERMINÓ EL TIEMPO DEL EXAMEN</string>
+	<string name="alarm_time_down">EL TIEMPO DEL EXAMEN ESTÁ FINALIZANDO</string>
+	
+	<string name="good_answer">RESPUESTA CORRECTA</string>
+	<string name="bad_answer">RESPUESTA INCORRECTA</string>
+	
+	<string name="preference_language_title">Lenguaje</string>
+	<string name="preference_language_dialog_title"> Lenguaje del Examen</string>
+	<string name="preference_language_sumary">Selecciona el lenguaje</string>
+	
+	<string name="preference_quantity_title">Preguntas del Examen</string>
+	<string name="preference_quantity_dialog_title">Cantidad de preguntas</string>
+	<string name="preference_quantity_sumary">Selecciona el número de preguntas</string>
+	
+	<string name="preference_type_title">Tipo de examen</string>
+	<string name="preference_type_dialog_title">Tipo de examen</string>
+	<string name="preference_type_sumary">Selecciona el tipo de examen</string>
+	
+	<string name="number_question">de</string>
+</resources>

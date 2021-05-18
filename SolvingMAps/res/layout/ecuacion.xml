@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent" android:gravity="center" android:background="@drawable/background" android:layout_gravity="center">
+    <TextView android:textAppearance="?android:attr/textAppearanceLarge" android:textStyle="bold" android:textColor="@color/colortipo1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/tvEcuacionHeader" android:gravity="center" android:layout_gravity="center" android:text="Introduce your Equation" android:layout_margin="10px"></TextView>
+    <EditText android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@+id/eTecuacion" android:layout_gravity="center">
+        <requestFocus></requestFocus>
+    </EditText>
+    <TextView android:textAppearance="?android:attr/textAppearanceLarge" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/tvEcuaExpl" android:text="Always use Upercase. Example: (A'+B) or AB'CD" android:layout_margin="10px" android:layout_gravity="center" android:gravity="center"></TextView>
+    <Button android:layout_width="wrap_content" android:textStyle="bold" android:layout_height="wrap_content" android:id="@+id/bSolveEcuacion" android:text="Solve/Reduce" style="@style/finishButton"></Button>
+    
+</LinearLayout>

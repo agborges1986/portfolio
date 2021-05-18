@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="wrap_content"
+	android:orientation="horizontal" style="@style/ExpandableListChildItemWrapperStyle">
+	<TableLayout android:layout_height="fill_parent"
+		android:layout_width="fill_parent" style="@style/ExpandableListChildItemStyle" android:stretchColumns="0,1">
+		<TableRow android:layout_height="wrap_content"
+			android:layout_width="fill_parent">
+			<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+				android:id="@+id/textView8" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:gravity="right" android:text="@string/unit_text"></TextView>
+			<TextView android:text="TextView" android:textAppearance="?android:attr/textAppearanceMedium"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="5dp"
+				android:id="@+id/food_expandable_properties_item_unit_value" android:layout_width="fill_parent"></TextView>
+		</TableRow>
+		<TableRow android:layout_height="wrap_content"
+			android:layout_width="fill_parent">
+			<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+				android:id="@+id/textView1" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:gravity="right" android:text="@string/calories_text"></TextView>
+			<TextView android:text="TextView" android:textAppearance="?android:attr/textAppearanceMedium"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="5dp"
+				android:id="@+id/food_expandable_properties_item_calories_value" android:layout_width="fill_parent"></TextView>
+		</TableRow>
+		<TableRow android:layout_height="wrap_content"
+			android:layout_width="fill_parent">
+			<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+				android:id="@+id/textView1" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:gravity="right" android:text="@string/fat_text"></TextView>
+			<TextView android:text="TextView" android:textAppearance="?android:attr/textAppearanceMedium"
+				android:id="@+id/food_expandable_properties_item_fat_value"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="5dp" android:layout_width="fill_parent"></TextView>
+		</TableRow>
+		<TableRow android:layout_height="wrap_content"
+			android:layout_width="fill_parent">
+			<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+				android:id="@+id/textView1" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:gravity="right" android:text="@string/carbohydrates_text"></TextView>
+			<TextView android:text="TextView" android:textAppearance="?android:attr/textAppearanceMedium"
+				android:id="@+id/food_expandable_properties_item_carbohydrates_value"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="5dp" android:layout_width="fill_parent"></TextView>
+		</TableRow>
+		<TableRow android:layout_height="wrap_content"
+			android:layout_width="fill_parent">
+			<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+				android:id="@+id/textView1" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:gravity="right" android:text="@string/proteins_text"></TextView>
+			<TextView android:text="TextView" android:textAppearance="?android:attr/textAppearanceMedium"
+				android:id="@+id/food_expandable_properties_item_proteins_value"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="5dp" android:layout_width="fill_parent"></TextView>
+		</TableRow>
+	</TableLayout>
+</LinearLayout>

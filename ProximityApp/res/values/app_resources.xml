@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="user_tiles">
+        <item>@drawable/user_tile_01</item>
+        <item>@drawable/user_tile_02</item>
+        <item>@drawable/user_tile_03</item>
+        <item>@drawable/user_tile_04</item>
+        <item>@drawable/user_tile_05</item>
+        <item>@drawable/user_tile_06</item>
+        <item>@drawable/user_tile_07</item>
+        <item>@drawable/user_tile_08</item>
+        <item>@drawable/user_tile_09</item>
+        <item>@drawable/user_tile_10</item>
+        <item>@drawable/user_tile_11</item>
+        <item>@drawable/user_tile_12</item>
+        <item>@drawable/user_tile_13</item>
+        <item>@drawable/user_tile_14</item>
+        <item>@drawable/user_tile_15</item>
+        <item>@drawable/user_tile_16</item>
+        <item>@drawable/user_tile_17</item>
+        <item>@drawable/user_tile_18</item>
+        <item>@drawable/user_tile_19</item>
+        <item>@drawable/user_tile_20</item>
+    </integer-array>
+        
+</resources>

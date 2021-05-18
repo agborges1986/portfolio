@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical" android:gravity="center_vertical">
+
+	<LinearLayout android:layout_width="fill_parent"
+		android:orientation="horizontal" android:layout_margin="10dp"
+		android:layout_height="220dp" android:background="@drawable/alarm_backgroud">
+
+		<RelativeLayout android:gravity="center"
+			android:layout_gravity="center" android:layout_width="fill_parent"
+			android:layout_height="fill_parent" android:background="@drawable/alarm_backgroud">
+			<ProgressBar android:layout_below="@+id/textView2"
+				android:id="@+id/progressBar1" android:layout_height="wrap_content" android:layout_width="fill_parent"
+				android:layout_marginLeft="20dp" android:layout_marginRight="20dp"
+				android:contentDescription="0 cal" android:layout_centerHorizontal="true"
+				android:layout_marginTop="10dp" style="@style/ProgressBarStyle"></ProgressBar>
+			<TextView android:layout_height="wrap_content"
+				android:text="@string/meal_time_secundary_text" android:id="@+id/textView2"
+				android:layout_width="wrap_content" android:layout_centerVertical="true"
+				android:layout_marginRight="20dp" android:layout_marginLeft="20dp"></TextView>
+			<TextView android:layout_height="wrap_content" android:text="@string/meal_time_text"
+				android:id="@+id/textView1" android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_width="wrap_content" android:layout_above="@+id/textView2"
+				android:layout_centerHorizontal="true" android:layout_marginBottom="10dp"
+				android:layout_toRightOf="@+id/imageView1"
+				android:layout_marginLeft="10dp"></TextView>
+			<Button style="@style/ButtonBlack" android:id="@+id/button1"
+				android:text="@string/later_text" android:layout_alignLeft="@+id/progressBar1"
+				android:layout_marginLeft="15dp" android:layout_marginTop="10dp"
+				android:layout_width="wrap_content"
+				android:layout_alignParentBottom="true" android:layout_height="wrap_content"></Button>
+			<Button style="@style/ButtonBlack" android:id="@+id/button2"
+				android:text="@string/ok_text" android:layout_width="wrap_content"
+				android:layout_alignBaseline="@+id/button1"
+				android:layout_alignRight="@+id/progressBar1"
+				android:layout_marginRight="15dp" android:layout_height="35dp"
+				android:layout_alignParentBottom="true" android:layout_alignTop="@+id/button1"></Button>
+			<ImageView android:layout_height="wrap_content" android:id="@+id/imageView1"
+				android:layout_width="wrap_content" android:layout_above="@+id/textView2"
+				android:layout_alignLeft="@+id/button1" android:layout_marginBottom="3dp"
+				android:src="@drawable/alarm_clock"></ImageView>
+			<TextView android:text="TextView" android:layout_width="wrap_content"
+				android:id="@+id/textView3" android:layout_height="wrap_content"
+				android:layout_alignTop="@+id/progressBar1"
+				android:layout_centerHorizontal="true" android:layout_marginTop="1dp"></TextView>
+
+		</RelativeLayout>
+
+	</LinearLayout>
+
+</LinearLayout>
+

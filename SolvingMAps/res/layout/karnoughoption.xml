@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:weightSum="100"
+  android:background="@drawable/background"
+  >
+  
+    <TextView style="@style/styleName" 
+    	android:layout_height="wrap_content" 
+    	android:id="@+id/text_background_maps" 
+    	android:background="@drawable/blacktransinfo"
+    	android:text="TextView" 
+    	android:textStyle="bold"
+    	android:layout_width="fill_parent" 
+    	android:layout_gravity="center" 
+    	android:layout_weight="20" android:gravity="center" android:textColor="@color/colortipo1" android:textSize="36px">
+    </TextView>
+    <RadioGroup  
+    	android:layout_height="wrap_content" 
+    	android:id="@+id/SelectInputMaps" 
+    	android:padding="10px" 
+    	android:layout_width="wrap_content" 
+    	android:layout_gravity="center" 
+    	android:layout_marginRight="40px" 
+    	android:layout_weight="40" android:gravity="center_vertical" android:layout_marginLeft="40px">
+        <RadioButton android:id="@+id/Eq" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Equation" android:checked="true" android:gravity="center" android:textColor="@color/black"></RadioButton>
+        <RadioButton android:id="@+id/Map" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Maps" android:textColor="@color/black"></RadioButton>
+        <RadioButton android:id="@+id/TrueTable" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Truth Table" android:textColor="@color/black"></RadioButton>
+    </RadioGroup>
+    <TextView 
+    	style="@style/styleName"
+    	android:layout_weight="25" 
+    	android:textStyle="bold"
+    	android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 
+    	android:background="@drawable/blacktransinfo"
+    	android:id="@+id/FormsInputExpl" 
+    	android:text="TextView" 
+    	android:textAppearance="?android:attr/textAppearanceMedium" android:gravity="center" android:layout_gravity="center" android:textColor="@color/colortipo3">
+    </TextView>
+    <Button 
+    	android:layout_width="fill_parent" 
+    	android:layout_margin="30px" 
+    	android:layout_height="wrap_content" 
+    	android:id="@+id/acceptFormInput" 
+    	android:layout_gravity="center" 
+    	android:gravity="center"
+    	android:layout_weight="15" style="@style/styleButtonAccept" android:text="ACCEPT" android:textSize="30px">
+    </Button>
+    
+</LinearLayout>

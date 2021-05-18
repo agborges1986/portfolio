@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.Maps"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="7" />
+
+    <application android:icon="@drawable/icon2" android:label="@string/app_name">
+        <activity android:name=".Splash"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".aplicationMenu"
+                  android:label="@string/app_name"
+                  android:icon="@drawable/icon2">
+            <intent-filter>
+                <action android:name="com.maps.APLICATIONMENU" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".karnoughoption"
+                  android:label="@string/app_name"
+                  android:icon="@drawable/icon2">
+            <intent-filter>
+                <action android:name="com.maps.KARNOUGHOPTION" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".map"
+                  android:label="@string/app_name"
+                  android:icon="@drawable/icon2">
+            <intent-filter>
+                <action android:name="com.maps.MAP" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".mapsParameters"
+                  android:label="@string/app_name"
+                  android:icon="@drawable/icon2">
+            <intent-filter>
+                <action android:name="com.maps.MAPSPARAMETERS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".gridMap"
+                  android:label="@string/app_name"
+                  android:icon="@drawable/icon2">
+            <intent-filter>
+                <action android:name="com.maps.GRIDMAP" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".resultado"
+                  android:label="@string/app_name"
+                  android:icon="@drawable/icon2">
+            <intent-filter>
+                <action android:name="com.maps.RESULTADO" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".tabla_verdad"
+                  android:label="@string/app_name"
+                  android:icon="@drawable/icon2">
+            <intent-filter>
+                <action android:name="com.maps.TABLA_VERDAD" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         <activity android:name=".ecuacion"
+                  android:label="@string/app_name"
+                  android:icon="@drawable/icon2">
+            <intent-filter>
+                <action android:name="com.maps.ECUACION" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Circuito"
+                  android:label="@string/app_name"
+                  android:icon="@drawable/icon2">
+            <intent-filter>
+                <action android:name="com.maps.CIRCUITO" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+    </application>
+</manifest>

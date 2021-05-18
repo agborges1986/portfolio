@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="style_text" parent="android:Widget.TextView">
+    	<item name="android:textColor">#000000</item>
+    	<item name="android:textSize">24sp</item>
+    	<item name="android:gravity">center</item>
+    	
+    </style>
+    <style name="alarm_chronometer_test" parent="android:Widget.TextView">
+    	<item name="android:textColor">#FF0A0E</item>
+    	<item name="android:textStyle">bold</item>
+    	<item name="android:textSize">16sp</item>
+    	
+    </style>
+    <style name="buton_text_style" parent="android:Widget.Button" >
+    	<item name="android:textColor">#000000</item>
+    	<item name="android:textStyle">bold</item>
+    	<item name="android:textSize">18sp</item>
+    </style>
+    
+    <style name="buton_center_style" parent="android:Widget.Button" >
+    	<item name="android:textColor">#000000</item>
+    	<item name="android:textStyle">bold</item>
+    	<item name="android:textSize">20sp</item>
+    </style>
+    
+    <style name="app_theme">
+        <item name="android:background">@drawable/back_general</item>
+    </style>
+    
+    
+</resources>

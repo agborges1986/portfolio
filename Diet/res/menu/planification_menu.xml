@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item1" android:title="@string/on_current_week_text">
+        <menu>
+            <item android:title="@string/apply_all_week_text" android:id="@+id/item7"></item>
+            <item android:title="@string/apply_weekend" android:id="@+id/item8"></item>
+            <item android:title="@string/apply_working_days" android:id="@+id/item9"></item>
+        </menu>
+    </item>
+    <item android:id="@+id/item2" android:title="@string/on_next_week_text">
+        <menu>
+            <item android:title="@string/apply_all_week_text" android:id="@+id/item10"></item>
+            <item android:title="@string/apply_weekend" android:id="@+id/item11"></item>
+            <item android:title="@string/apply_working_days" android:id="@+id/item12"></item>
+        </menu>
+    </item>
+    <item android:id="@+id/item3" android:title="@string/on_default_week_text">
+        <menu>
+            <item android:title="@string/apply_all_week_text" android:id="@+id/item13"></item>
+            <item android:title="@string/apply_weekend" android:id="@+id/item14"></item>
+            <item android:title="@string/apply_working_days" android:id="@+id/item15"></item>
+        </menu>
+    </item>
+    <item android:id="@+id/item4" android:title="@string/apply_to_this_week_text"></item>
+    <item android:id="@+id/item5" android:title="@string/apply_to_next_week"></item><item android:title="@string/apply_as_default_text" android:id="@+id/item6"></item>
+    
+    
+	
+    
+</menu>

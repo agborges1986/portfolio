@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/LinearLayout1"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+
+	<View android:id="@+id/view1" android:layout_width="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentBottom="true" android:layout_height="36dp"
+		android:background="@color/c82"></View>
+	<View android:id="@+id/view2" android:layout_width="wrap_content"
+		android:layout_above="@+id/view1" android:layout_alignParentLeft="true"
+		android:layout_height="44dp" android:background="@color/cad"></View>
+
+	<Button android:text="@string/perform_meal_text" android:id="@+id/button1"
+		style="@style/ButtonBlack" android:layout_alignParentBottom="true"
+		android:layout_centerHorizontal="true" android:layout_height="60dp"
+		android:layout_marginBottom="10dp" android:layout_width="220dp"></Button>
+
+	<ScrollView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:layout_alignParentTop="true"
+		android:layout_alignParentLeft="true" android:layout_alignParentRight="true"
+		android:layout_above="@+id/view2" android:id="@+id/scrollView1"
+		android:padding="10dp">
+
+		<RelativeLayout android:layout_width="fill_parent"
+			android:layout_height="fill_parent">
+
+			<TextView android:layout_centerHorizontal="true"
+				android:layout_alignParentTop="true" android:layout_height="wrap_content"
+				android:id="@+id/textView1" android:layout_width="wrap_content"
+				android:layout_gravity="center_horizontal" android:textAppearance="?android:attr/textAppearanceLarge"
+				android:text="@string/today_info_text" android:layout_marginTop="5dp"></TextView>
+			<TableLayout android:layout_marginBottom="18dp"
+				android:stretchColumns="0" android:gravity="right"
+				android:layout_height="wrap_content" android:layout_marginTop="10dp"
+				android:id="@+id/TableLayout1" android:layout_below="@+id/TableLayout2"
+				android:layout_width="wrap_content" android:background="@drawable/diet_info_border"
+				android:paddingBottom="10dp" android:paddingLeft="10dp"
+				android:paddingRight="10dp" android:paddingTop="2dp">
+				<TextView android:layout_height="wrap_content"
+					android:textStyle="bold" android:id="@+id/textView7" android:text="@string/next_meal_text"
+					android:layout_width="wrap_content"></TextView>
+				<TableRow android:layout_height="wrap_content"
+					android:layout_width="fill_parent">
+					<TextView android:layout_marginRight="10dp"
+						android:layout_height="wrap_content" android:id="@+id/textView8"
+						android:text="@string/time_next_meal_text" android:gravity="right"
+						android:layout_width="fill_parent"></TextView>
+					<TextView android:layout_gravity="bottom"
+						android:layout_height="wrap_content" android:id="@+id/textView9"
+						android:text="TextView" android:layout_width="fill_parent"></TextView>
+				</TableRow>
+				<TableRow android:layout_height="wrap_content"
+					android:layout_width="wrap_content">
+					<TextView android:layout_marginRight="10dp"
+						android:layout_height="wrap_content" android:id="@+id/textView10"
+						android:text="@string/time_left_text" android:layout_width="wrap_content"
+						android:gravity="right"></TextView>
+					<TextView android:layout_gravity="bottom"
+						android:layout_height="wrap_content" android:id="@+id/textView11"
+						android:text="TextView" android:layout_width="wrap_content"></TextView>
+				</TableRow>
+			</TableLayout>
+			<TableLayout android:layout_height="wrap_content"
+				android:stretchColumns="0" android:gravity="right"
+				android:layout_marginTop="10dp" android:id="@+id/TableLayout2"
+				android:layout_below="@+id/textView1" android:layout_width="wrap_content"
+				android:background="@drawable/diet_info_border"
+				android:paddingBottom="10dp" android:paddingLeft="10dp"
+				android:paddingRight="10dp" android:paddingTop="2dp">
+				<TextView android:layout_height="wrap_content"
+					android:textStyle="bold" android:id="@+id/textView2" android:text="@string/calories_text"
+					android:layout_width="wrap_content"></TextView>
+				<TableRow android:layout_height="wrap_content"
+					android:layout_width="wrap_content">
+					<TextView android:layout_marginRight="10dp"
+						android:layout_height="wrap_content" android:id="@+id/textView3"
+						android:text="@string/calories_per_day_text" android:layout_width="wrap_content"
+						android:gravity="right"></TextView>
+					<TextView android:layout_height="wrap_content" android:id="@+id/textView4"
+						android:text="TextView" android:layout_width="wrap_content"
+						android:gravity="right" android:layout_gravity="bottom|right"></TextView>
+				</TableRow>
+				<TableRow android:layout_height="wrap_content"
+					android:layout_width="wrap_content">
+					<TextView android:layout_marginRight="10dp"
+						android:layout_height="wrap_content" android:id="@+id/textView5"
+						android:text="@string/calories_today_text" android:layout_width="wrap_content"
+						android:gravity="right"></TextView>
+					<TextView android:layout_height="wrap_content" android:id="@+id/textView6"
+						android:text="TextView" android:layout_width="wrap_content"
+						android:gravity="right" android:layout_gravity="bottom|right"></TextView>
+				</TableRow>
+				<TableRow android:layout_width="wrap_content"
+					android:layout_height="wrap_content">
+					<TextView android:id="@+id/textView12"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:text="@string/remaining_colories_text" android:gravity="right"
+						android:layout_marginRight="10dp"></TextView>
+					<TextView android:text="TextView" android:id="@+id/textView13"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:gravity="right" android:layout_gravity="bottom|right"></TextView>
+				</TableRow>
+				<ProgressBar android:id="@+id/progressBar1"
+					android:layout_marginTop="10dp" android:layout_height="wrap_content"
+					android:layout_marginLeft="20dp" android:layout_gravity="right"
+					android:layout_width="200dp" style="@style/ProgressBarStyle"></ProgressBar>
+			</TableLayout>
+		</RelativeLayout>
+	</ScrollView>
+</RelativeLayout>

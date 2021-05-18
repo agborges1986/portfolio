@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<View android:background="@color/c82" android:layout_width="wrap_content"
+		android:id="@+id/view1" android:layout_height="36dp"
+		android:layout_alignParentBottom="true"></View>
+	<View android:background="@color/cad" android:layout_width="wrap_content"
+		android:id="@+id/view2" android:layout_height="44dp"
+		android:layout_above="@+id/view1"></View>
+	<SurfaceView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:id="@+id/surfaceView1"
+		android:layout_alignParentTop="true" android:layout_alignParentLeft="true"
+		android:layout_alignParentRight="true" android:layout_above="@+id/view2"></SurfaceView>
+	<Button android:layout_width="wrap_content" android:id="@+id/button1"
+		style="@style/ButtonBlack" android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true" android:layout_marginRight="19dp"
+		android:layout_marginBottom="19dp" android:layout_alignBaseline="@+id/view1"
+		android:text="@string/take_picture_text"></Button>
+	<Button android:layout_width="wrap_content" style="@style/ButtonBlack" android:layout_height="wrap_content" android:id="@+id/button3" android:layout_alignBaseline="@+id/button1" android:layout_alignBottom="@+id/button1" android:layout_toLeftOf="@+id/button1" android:layout_marginRight="20dp" android:text="@string/new_text"></Button>
+
+</RelativeLayout>
